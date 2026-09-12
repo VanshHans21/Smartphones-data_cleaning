@@ -1,0 +1,978 @@
+,Brand,Model,Price (INR),Rating,Dual SIM,5G Support,NFC Support,IR Blaster,Processor Name,Processor Cores,Processor Speed (GHz),RAM (GB),ROM (GB),Battery Capacity (mAh),Fast Charging Support,Fast Charging,Display Size (inches),Display Resolution,Refresh Rate (Hz),Notch Type,Rear Camera Count,Front Camera Count,Primary Front Camera (MP),Primary Rear Camera (MP),Memory Card Support,Expandable Storage (GB),Operating System,has_5G,has_NFC,has_IR
+0,Oneplus,Oneplus 11 5G,54999,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000,True,100.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+1,Oneplus,Oneplus Nord Ce 2 Lite 5G,19989,81.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,33.0,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+2,Samsung,Samsung Galaxy A14 5G,16499,75.0,Yes,Yes,No,No,Exynos 1330,Octa Core,2.4,4,64,5000,True,15.0,6.6,1080 x 2408 px,90,Water Drop,3,1,13.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+3,Motorola,Motorola Moto G62 5G,14999,81.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,6,128,5000,True,,6.55,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+4,Realme,Realme 10 Pro Plus,24999,82.0,Yes,Yes,No,No,Dimensity 1080,Octa Core,2.6,6,128,5000,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,No,No
+5,Samsung,Samsung Galaxy F23 5G (6Gb Ram + 128Gb),16999,80.0,Yes,Yes,Yes,No,Snapdragon  750G,Octa Core,2.2,6,128,5000,True,25.0,6.6,1080 x 2408 px,120,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+6,Apple,Apple Iphone 14,65999,81.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,128,3279,True,,6.1,1170 x 2532 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+7,Xiaomi,Xiaomi Redmi Note 12 Pro Plus,29999,86.0,Yes,Yes,No,Yes,Dimensity 1080,Octa Core,2.6,8,256,4980,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,200.0,Memory Card Not Supported,,Android,Yes,No,Yes
+8,Nothing,Nothing Phone 1,26749,85.0,Yes,Yes,Yes,No,Snapdragon 778G Plus,Octa Core,2.5,8,128,4500,True,33.0,6.55,1080 x 2400 px,120,Punch Hole,2,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+9,Oneplus,Oneplus Nord 2T 5G,28999,84.0,Yes,Yes,Yes,No,Dimensity  1300,Octa Core,3.0,8,128,4500,True,80.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+10,Realme,Realme 10 Pro,18999,82.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,33.0,6.72,1080 x 2400 px,120,Punch Hole,2,1,16.0,108.0,Memory Card Supported,1 TB,Android,Yes,No,No
+11,Oppo,Oppo A78,18999,79.0,Yes,Yes,Yes,No,Dimensity 700 5G,Octa Core,2.2,8,128,5000,True,33.0,6.56,720 x 1612 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,Yes,Yes,No
+12,Xiaomi,Xiaomi Redmi Note 12 Pro 5G,24762,79.0,Yes,Yes,No,Yes,Dimensity 1080,Octa Core,2.6,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,Yes
+13,Vivo,Vivo T1 5G (6Gb Ram + 128Gb),16990,80.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,6,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+14,Samsung,Samsung Galaxy S23 Ultra 5G,114990,,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,256,5000,True,45.0,6.8,1440 x 3088 px,120,Punch Hole,4,1,12.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,No
+15,Apple,Apple Iphone 13,62999,79.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,4,128,3240,True,,6.1,1170 x 2532 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+16,Vivo,Vivo Y16,9999,65.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+17,Oppo,Oppo Reno 9 Pro Plus,45999,86.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,16,256,4700,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+18,Oneplus,Oneplus 10R 5G,32999,86.0,Yes,Yes,Yes,No,Dimensity 8100 Max,Octa Core,2.85,8,128,5000,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+19,Vivo,Vivo Y22,14499,72.0,Yes,No,No,No,Helio G70,Octa Core,2.0,4,64,5000,True,18.0,6.55,720 x 1612 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+20,Oneplus,Oneplus 11R,39999,85.0,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5000,True,100.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+21,Vivo,Vivo V25 Pro 5G,35999,85.0,Yes,Yes,No,No,Dimensity 1300,Octa Core,3.0,8,128,4830,True,66.0,6.56,1080 x 2376 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+22,Poco,Poco X4 Pro 5G,14999,80.0,Yes,Yes,No,Yes,Snapdragon 695,Octa Core,2.2,6,64,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+23,Xiaomi,Xiaomi Redmi Note 12,17859,76.0,Yes,Yes,No,Yes,Snapdragon 4 Gen 1,Octa Core,2.0,4,128,5000,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+24,Vivo,Vivo V26 Pro,42990,87.0,Yes,Yes,Yes,No,Dimensity 9000 Plus,Octa Core,3.2,12,256,4800,True,100.0,6.7,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+25,Samsung,Samsung Galaxy S20 Fe 5G,31239,88.0,Yes,Yes,Yes,No,Snapdragon 865,Octa Core,2.84,8,128,4500,True,,6.5,1080 x 2400 px,120,Punch Hole,3,1,32.0,12.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+26,Oneplus,Oneplus Nord Ce 2 Lite 5G (8Gb Ram + 128Gb),21995,84.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,8,128,5000,True,33.0,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+27,Apple,Apple Iphone 14 Pro Max,129990,76.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,128,4323,True,,6.7,1290 x 2796 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+28,Vivo,Vivo V25 5G,27999,83.0,Yes,Yes,No,No,Dimensity  900,Octa Core,2.0,8,128,4500,True,44.0,6.44,1080 x 2408 px,90,Water Drop,3,1,50.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+29,Oneplus,Oneplus 11 Pro,69999,,Yes,Yes,Yes,No,Snapdragon  8 Gen2,Octa Core,3.2,8,128,4500,True,100.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+30,Realme,Realme 10 Pro (8Gb Ram + 128Gb),19999,84.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,8,128,5000,True,33.0,6.72,1080 x 2400 px,120,Punch Hole,2,1,16.0,108.0,Memory Card Supported,1 TB,Android,Yes,No,No
+31,Poco,Poco X5 Pro,20999,81.0,Yes,Yes,Yes,Yes,Snapdragon 778G,Octa Core,2.4,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+32,Vivo,Vivo V27,27990,83.0,Yes,Yes,No,No,Dimensity  930,Octa Core,2.2,8,256,4700,True,67.0,6.56,1080 x 2400 px,120,Punch Hole,3,1,50.0,64.0,Memory Card Supported,,Android,Yes,No,No
+33,Apple,Apple Iphone 11,38999,73.0,Yes,No,Yes,No,A13 Bionic,Hexa Core,2.65,4,64,3110,False,,6.1,828 x 1792 px ,60,Large Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+34,Samsung,Samsung Galaxy M53 5G,23790,85.0,Yes,Yes,No,No,Dimensity  900 5G,Octa Core,2.4,6,128,5000,True,25.0,6.7,1080 x 2400 px,120,Punch Hole,4,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+35,Samsung,Samsung Galaxy S21 Fe 5G,39999,87.0,Yes,Yes,Yes,No,Exynos  2100,Octa Core,2.9,8,128,4500,True,25.0,6.4,1080 x 2340 px,120,Punch Hole,3,1,32.0,12.0,Memory Card Not Supported,,Android,Yes,Yes,No
+36,Oppo,Oppo Reno 8T,29990,87.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,8,256,5000,True,66.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+37,Samsung,Samsung Galaxy S22 Ultra 5G,91999,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5000,True,45.0,6.8,1440 x 3080 px,120,Punch Hole,4,1,40.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+38,Xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,32999,83.0,Yes,Yes,No,Yes,Snapdragon  7 Gen1,Octa Core,2.36,6,128,5200,True,210.0,6.67,1080 x 2460 px,120,Punch Hole,4,1,32.0,108.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+39,Oppo,Oppo Reno 9 5G,28499,83.0,Yes,Yes,Yes,No,Snapdragon 778G,Octa Core,2.4,8,256,4500,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,2,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+40,Oneplus,Oneplus Nord Ce 3 5G,21999,83.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,6,128,5000,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+41,Xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,19999,83.0,Yes,Yes,No,Yes,Snapdragon  695,Octa Core,2.2,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+42,Motorola,Motorola Edge 20 Fusion 5G,18999,87.0,Yes,Yes,Yes,No,Dimensity 800U,Octa Core,2.4,6,128,5000,True,30.0,6.67,1080 x 2400 px,90,Punch Hole,3,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+43,Realme,Realme 10 Pro Plus (8Gb Ram + 256Gb),27999,85.0,Yes,Yes,No,No,Dimensity 1080,Octa Core,2.6,8,256,5000,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,No,No
+44,Vivo,Vivo Y35,18499,80.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,44.0,6.58,1080 x 2408 px,90,Water Drop,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+45,Samsung,Samsung Galaxy M33 5G,17478,81.0,Yes,Yes,Yes,No,Exynos  1280,Octa Core,2.4,6,128,6000,True,25.0,6.6,1080 x 2400 px,120,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+46,Xiaomi,Xiaomi Redmi Note 11,11936,76.0,Yes,No,No,Yes,Snapdragon  680,Octa Core,2.4,4,64,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,4,1,13.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+47,Realme,Realme C33,8950,64.0,Yes,No,No,No,Unisoc T612,Octa Core,1.8,3,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+48,Vivo,Vivo Y16 (4Gb Ram + 64Gb),12489,68.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+49,Samsung,Samsung Galaxy A74 5G,42999,,Yes,Yes,Yes,No,Snapdragon 7 Gen1,Octa Core,2.36,8,128,5000,True,33.0,6.7,1080 x 2412 px,120,Punch Hole,4,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+50,Samsung,Samsung Galaxy A14 5G (6Gb Ram + 128Gb),18999,79.0,Yes,Yes,No,No,Exynos 1330,Octa Core,2.4,6,128,5000,True,15.0,6.6,1080 x 2408 px,90,Water Drop,3,1,13.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+51,Iqoo,Iqoo Neo 7 5G,29999,82.0,Yes,Yes,Yes,Yes,Dimensity 8200,Octa Core,3.1,8,128,5000,True,120.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+52,Jio,Jio Jiophone 5G,11990,64.0,Yes,Yes,No,No,Snapdragon 480+,Octa Core,2.2,4,32,5000,True,18.0,6.5,720 x 1600 px,90,Not Available,1,1,8.0,13.0,Memory Card Supported,512 GB,Android,Yes,No,No
+53,Motorola,Motorola Moto G82 5G,18999,83.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,30.0,6.6,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+54,Realme,Realme 10,13999,74.0,Yes,No,No,No,Helio G99,Octa Core,2.2,4,64,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+55,Realme,Realme 9I 5G,14965,75.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,4,64,5000,True,18.0,6.6,1080 x 2408 px,90,Punch Hole,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+56,Apple,Apple Iphone 14 Plus,74999,82.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,128,4325,True,,6.7,1284 x 2778 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+57,Xiaomi,Xiaomi Redmi Note 10S,10999,78.0,Yes,No,No,Yes,Helio G95,Octa Core,2.05,6,64,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,13.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+58,Samsung,Samsung Galaxy S23 Plus,84990,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,256,4700,True,45.0,6.6,1080 x 2340 px,120,Punch Hole,3,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+59,Motorola,Motorola Moto G32,10499,75.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,64,5000,True,33.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+60,Xiaomi,Xiaomi Redmi Note 13 Pro 5G,17990,78.0,Yes,Yes,Yes,Yes,Dimensity 720,Octa Core,2.0,6,128,5000,True,67.0,6.67,1080 x 2460 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+61,Vivo,Vivo S16,29990,85.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,8,128,4600,True,66.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,50.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+62,Samsung,Samsung Galaxy A23,18499,79.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,6,128,5000,True,25.0,6.6,1080 x 2408 px ,60,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+63,Vivo,Vivo Y22 (6Gb Ram + 128Gb),16499,75.0,Yes,No,No,No,Helio G70,Octa Core,2.0,6,128,5000,True,18.0,6.55,720 x 1612 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+64,Poco,Poco M4 Pro 5G (6Gb Ram + 128Gb),14999,81.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,6,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+65,Vivo,Vivo S16 Pro,35499,86.0,Yes,Yes,Yes,No,Dimensity 8200,Octa Core,3.1,8,256,4600,True,66.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,50.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+66,Oneplus,Oneplus 10 Pro 5G,60999,89.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,128,5000,True,80.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+67,Xiaomi,Xiaomi Redmi Note 12 Pro Plus (12Gb Ram + 256Gb),32999,87.0,Yes,Yes,No,Yes,Dimensity 1080,Octa Core,2.6,12,256,4980,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,200.0,Memory Card Not Supported,,Android,Yes,No,Yes
+68,Samsung,Samsung Galaxy F23 5G,15999,78.0,Yes,Yes,Yes,No,Snapdragon  750G,Octa Core,2.2,4,128,5000,True,25.0,6.6,1080 x 2408 px,120,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+69,Oppo,Oppo Find N Fold,99990,,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,8,256,5000,True,67.0,7.1,1792 x 1920 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+70,Oppo,Oppo A17K,9499,62.0,Yes,No,No,No,Helio G35,Octa Core,2.3,3,64,5000,False,,6.56,720 x 1612 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+71,Vivo,Vivo V23 5G (12Gb Ram + 256Gb),27994,86.0,Yes,Yes,No,No,Dimensity  920 5G,Octa Core,2.5,12,256,4200,True,44.0,6.44,1080 x 2400 px,90,Small Notch,3,2,50.0,64.0,Memory Card Supported,,Android,Yes,No,No
+72,Iqoo,Iqoo Z6 Lite 5G,13989,75.0,Yes,Yes,No,No,Snapdragon  4 Gen 1,Octa Core,2.0,4,64,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,2,1,8.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+73,Oneplus,Oneplus 10T,44999,85.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4800,True,150.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+74,Xiaomi,Xiaomi Redmi Note 10T 5G (6Gb Ram +128Gb),13999,79.0,Yes,Yes,No,Yes,Dimensity 700,Octa Core,2.2,6,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,8.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,Yes
+75,Gionee,Gionee G13 Pro,6190,,Yes,No,No,No,Tiger  T310,Quad Core,2.0,4,32,3500,False,,6.26,720 x 1600 px ,60,Large Notch,2,1,5.0,13.0,Memory Card Supported,,HarmonyOS,No,No,No
+76,Apple,Apple Iphone 13 Pro,119900,83.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,128,3095,True,,6.1,1170 x 2532 px,120,Large Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+77,Oppo,Oppo F22 Pro,27660,83.0,Yes,Yes,No,No,Snapdragon 6 Gen 1,Octa Core,2.2,8,128,4800,True,67.0,6.58,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+78,Samsung,Samsung Galaxy A34 5G,24999,75.0,Yes,Yes,Yes,No,Exynos 1280,Octa Core,,6,128,5000,True,33.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+79,Xiaomi,Xiaomi Redmi 10A (4Gb Ram + 64Gb),8388,66.0,Yes,No,No,No,Helio  G25,Octa Core,2.0,4,64,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+80,Motorola,Motorola Moto G72 4G,15999,83.0,Yes,No,Yes,No,Helio  G99,Octa Core,2.2,6,128,5000,True,33.0,6.55,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),,Android,No,Yes,No
+81,Samsung,Samsung Galaxy A14 5G (8Gb Ram + 128Gb),20999,82.0,Yes,Yes,No,No,Exynos 1330,Octa Core,2.4,8,128,5000,True,15.0,6.6,1080 x 2408 px,90,Water Drop,3,1,13.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+82,Realme,Realme 9 5G,13999,75.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,4,64,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+83,Vivo,Vivo T1 5G (8Gb Ram + 128Gb),19990,83.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+84,Samsung,Samsung Galaxy M13 5G,13999,75.0,Yes,Yes,No,No,Dimensity 700,Octa Core,2.2,6,128,5000,True,15.0,6.5,720 x 1600 px,90,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+85,Motorola,Motorola Edge 30 5G,22999,83.0,Yes,Yes,Yes,No,Snapdragon 778G+,Octa Core,2.5,6,128,4020,True,33.0,6.5,1080 x 2400 px,144,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+86,Samsung,Samsung Galaxy A23 5G,22999,79.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,25.0,6.6,1080 x 2408 px,120,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+87,Oppo,Oppo K10 5G,16999,79.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.56,720 x 1612 px,90,Water Drop,2,1,8.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+88,Xiaomi,Xiaomi Redmi Note 11 (6Gb Ram + 128Gb),14290,80.0,Yes,No,No,Yes,Snapdragon  680,Octa Core,2.4,6,128,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,4,1,13.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+89,Samsung,Samsung Galaxy A73 5G,41999,,Yes,Yes,Yes,No,Snapdragon 778G,Octa Core,2.4,8,128,5000,True,25.0,6.7,1080 x 2400 px,120,Punch Hole,4,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+90,Vivo,Vivo Y21 2021,13489,69.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,18.0,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+91,Oneplus,Oneplus Ace Racing Edition 5G,22990,83.0,Yes,Yes,Yes,No,Dimensity 8100 Max,Octa Core,2.85,8,128,5000,True,,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+92,Motorola,Motorola Moto G62 (8Gb Ram + 128Gb),16499,84.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,5000,True,,6.55,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+93,Vivo,Vivo X90 Pro Plus 5G,73999,,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4700,True,80.0,6.78,1440 x 3200 px,120,Punch Hole,4,1,32.0,50.3,Memory Card Not Supported,,Android,Yes,Yes,Yes
+94,Realme,Realme C33 (4Gb Ram + 64Gb),9999,67.0,Yes,No,No,No,Unisoc T612,Octa Core,1.8,4,64,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+95,Realme,Realme 9I,12499,75.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,4,64,5000,True,33.0,6.6,1080 x 2412 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+96,Oppo,Oppo A17,12499,72.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,True,,6.56,720 x 1612 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+97,Iqoo,Iqoo 11 5G,59999,88.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,256,5000,True,120.0,6.78,1440 x 3200 px,144,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+98,Vivo,Vivo X Fold 5G,106990,,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,12,256,4600,True,66.0,8.03,1916 x 2160 px,120,Not Available,4,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+99,Vivo,Vivo T1 5G,15990,78.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+100,Apple,Apple Iphone 14 Pro,119990,75.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,128,3200,True,,6.1,1179 x 2556 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+101,Xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,19999,83.0,Yes,Yes,No,Yes,Snapdragon 778G,Octa Core,2.4,6,128,5200,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,32.0,108.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+102,Motorola,Motorola Moto S30 Pro,23990,83.0,Yes,Yes,No,No,Snapdragon 888+,Octa Core,2.9,8,128,4400,True,68.0,6.55,1080 x 2460 px,144,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+103,Realme,Realme 10S,12999,80.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.6,1080 x 2408 px,90,Punch Hole,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+104,Oppo,Oppo F19 Pro Plus 5G,19990,82.0,Yes,Yes,No,No,Dimensity 800U,Octa Core,2.4,8,128,4310,True,50.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,256 GB,Android,Yes,No,No
+105,Xiaomi,Xiaomi 13 Pro 5G,58990,,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4820,True,120.0,6.73,1440 x 3200 px,120,Punch Hole,3,1,32.0,50.3,Memory Card Not Supported,,Android,Yes,Yes,Yes
+106,Vivo,Vivo V27 Pro,43999,87.0,Yes,Yes,No,No,Dimensity 9000 Plus,Octa Core,3.2,12,256,5000,True,120.0,6.73,1080 x 2400 px,144,Punch Hole,3,1,32.0,108.0,Memory Card Not Supported,,Android,Yes,No,No
+107,Samsung,Samsung Galaxy S22 5G,49999,86.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,128,3700,True,25.0,6.1,1080 x 2340 px,120,Punch Hole,3,1,10.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+108,Vivo,Vivo T1 44W (6Gb Ram + 128Gb),15999,79.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,6,128,5000,True,44.0,6.44,1080 x 2408 px ,60,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+109,Oneplus,Oneplus 10R 5G (12Gb Ram + 256Gb),36999,87.0,Yes,Yes,Yes,No,Dimensity 8100 Max,Octa Core,2.85,12,256,5000,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+110,Tecno,Tecno Phantom X2,39999,85.0,Yes,Yes,Yes,No,Dimensity 9000,Octa Core,3.05,8,256,5160,True,45.0,6.8,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+111,Apple,Apple Iphone 12,51999,74.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,4,64,2815,False,,6.1,1170 x 2532 px ,60,Large Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+112,Xiaomi,Xiaomi Redmi K50I 5G,22999,82.0,Yes,Yes,No,Yes,Dimensity  8100,Octa Core,2.85,6,128,5080,True,67.0,6.6,1080 x 2460 px,144,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,Yes
+113,Samsung,Samsung Galaxy A53 5G,31999,87.0,Yes,Yes,Yes,No,Exynos 1280,Octa Core,2.4,6,128,5000,True,25.0,6.5,1080 x 2400 px,120,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+114,Xiaomi,Xiaomi Redmi A1,6171,,Yes,No,No,No,Helio A22,Quad Core,2.0,2,32,5000,True,10.0,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+115,Oppo,Oppo Reno8 5G,29340,83.0,Yes,Yes,Yes,No,Dimensity 1300,Octa Core,3.0,8,128,4500,True,80.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+116,Samsung,Samsung Galaxy M53 5G (8Gb Ram + 128Gb),25289,87.0,Yes,Yes,No,No,Dimensity  900 5G,Octa Core,2.4,8,128,5000,True,25.0,6.7,1080 x 2400 px,120,Punch Hole,4,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+117,Iqoo,Iqoo Z6 Pro 5G,21788,78.0,Yes,Yes,No,No,Snapdragon  778G,Octa Core,2.4,6,128,4700,True,66.0,6.44,1080 x 2404 px,90,Water Drop,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+118,Tesla,Tesla Pi Phone,69999,83.0,Yes,Yes,Yes,No,,Octa Core,,16,512,5000,True,120.0,6.73,1080 x 2448 px,165,Not Available,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+119,Samsung,Samsung Galaxy S23,70990,88.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,128,3900,True,25.0,6.1,1080 x 2340 px,120,Punch Hole,3,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+120,Motorola,Motorola Edge 30 Pro 5G,34999,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,128,4800,True,68.0,6.7,1080 x 2400 px,144,Punch Hole,3,1,60.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+121,Oneplus,Oneplus Nord 2T (12Gb Ram + 256Gb),33900,85.0,Yes,Yes,Yes,No,Dimensity  1300,Octa Core,3.0,12,256,4500,True,80.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+122,Google,Google Pixel 6A,29999,71.0,Yes,Yes,Yes,No,Google  Tensor,Octa Core,,6,128,4410,True,,6.14,1080 x 2400 px ,60,Punch Hole,2,1,8.0,12.2,Memory Card Not Supported,,Android,Yes,Yes,No
+123,Infinix,Infinix Note 12 Pro 5G,18999,84.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.7,1080 x 2400 px ,60,Punch Hole,3,1,16.0,108.0,Memory Card Supported,2 TB,Android,Yes,No,No
+124,Samsung,Samsung Galaxy M33 5G (8Gb Ram + 128Gb),19499,84.0,Yes,Yes,Yes,No,Exynos  1280,Octa Core,2.4,8,128,6000,True,25.0,6.6,1080 x 2400 px,120,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+125,Vivo,Vivo V23 5G,24994,83.0,Yes,Yes,No,No,Dimensity  920 5G,Octa Core,2.5,8,128,4200,True,44.0,6.44,1080 x 2400 px,90,Small Notch,3,2,50.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+126,Motorola,Motorola Moto G42,10999,78.0,Yes,No,Yes,No,Snapdragon 680,Octa Core,2.4,4,64,5000,True,20.0,6.47,1080 x 2400 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,Yes,No
+127,Oneplus,Oneplus Nord Ce 2 Lite 5G (8Gb Ram + 256Gb),24999,85.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,8,256,5000,True,33.0,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+128,Samsung,Samsung Galaxy A33 5G,25999,82.0,Yes,Yes,Yes,No,Exynos  1280,Octa Core,2.4,6,128,5000,True,25.0,6.4,1080 x 2400 px,90,Punch Hole,4,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+129,Google,Google Pixel 7A,34990,69.0,Yes,Yes,Yes,No,Google  Tensor,Octa Core,,6,128,4410,True,,6.1,1080 x 2400 px,90,Punch Hole,2,1,8.0,12.2,Memory Card Not Supported,,Android,Yes,Yes,No
+130,Xiaomi,Xiaomi Redmi 11 Prime 5G,13466,74.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,64,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+131,Xiaomi,Xiaomi Redmi Note 10 Lite,9999,76.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,4,64,5020,True,18.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+132,Motorola,Motorola Moto E40,7999,71.0,Yes,No,No,No,Tiger T700,Octa Core,1.8,4,64,5000,False,,6.5,720 x 1600 px,90,Punch Hole,3,1,8.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+133,Nothing,Nothing Phone 1 (8Gb Ram + 256Gb),28249,86.0,Yes,Yes,Yes,No,Snapdragon 778G Plus,Octa Core,2.5,8,256,4500,True,33.0,6.55,1080 x 2400 px,120,Punch Hole,2,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+134,Poco,Poco X4 Pro 5G (6Gb Ram + 128Gb),16499,82.0,Yes,Yes,No,Yes,Snapdragon 695,Octa Core,2.2,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+135,Xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8Gb Ram + 256Gb),22999,87.0,Yes,Yes,No,Yes,Snapdragon  695,Octa Core,2.2,8,256,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+136,Apple,Apple Iphone 11 (128Gb),46999,75.0,Yes,No,Yes,No,A13 Bionic,Hexa Core,2.65,4,128,3110,False,,6.1,828 x 1792 px ,60,Large Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+137,Realme,Realme C35 (6Gb Ram + 128Gb),13999,74.0,Yes,No,No,No,Tiger  T616,Octa Core,1.8,6,128,5000,True,18.0,6.6,1080 x 2408 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+138,Oppo,Oppo K10,13490,78.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,6,128,5000,True,33.0,6.59,1080 x 2412 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+139,Iqoo,Iqoo Neo 6 5G,28999,82.0,Yes,Yes,No,Yes,Snapdragon 870,Octa Core,3.2,8,128,4700,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,Yes
+140,Iqoo,Iqoo Z6 5G,15499,78.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+141,Oppo,Oppo Reno 9 Pro 5G,39999,86.0,Yes,Yes,Yes,No,Dimensity 8100 Max,Octa Core,2.85,16,256,4500,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,2,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+142,Poco,Poco M4 Pro 5G,12999,76.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,4,64,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+143,Jio,Jio Phone 3,4499,,Yes,No,No,No,,Quad Core,1.4,2,64,2800,False,,5.0,720 x 1280 px ,60,Not Available,1,1,2.0,5.0,Memory Card Supported,128 GB,Android,No,No,No
+144,Oneplus,Oneplus Clover,14999,69.0,Yes,No,No,No,Snapdragon 460,Octa Core,1.8,4,64,6000,True,18.0,6.52,720 x 1560 px ,60,Punch Hole,3,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+145,Samsung,Samsung Galaxy F04,8499,68.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,15.0,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+146,Iqoo,Iqoo 7,24990,83.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,8,128,4400,True,66.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+147,Samsung,Samsung Galaxy M34 5G,16999,84.0,Yes,Yes,Yes,No,Exynos 1200,Octa Core,2.4,6,128,6000,True,25.0,6.5,1080 x 2400 px,120,Punch Hole,4,1,32.0,64.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+148,Xiaomi,Xiaomi Redmi 10,9589,71.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,64,6000,True,18.0,6.7,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+149,Apple,Apple Iphone 12 Mini,40999,74.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,4,64,2227,False,,5.4,1080 x 2340 px ,60,Not Available,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+150,Xiaomi,Xiaomi Redmi Note 12 (6Gb Ram + 128Gb),19988,79.0,Yes,Yes,No,Yes,Snapdragon 4 Gen 1,Octa Core,2.0,6,128,5000,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+151,Motorola,Motorola Moto G52,11999,75.0,Yes,No,Yes,No,Snapdragon 680,Octa Core,2.4,4,64,5000,True,33.0,6.6,2460 x 1080 px,90,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),,Android,No,Yes,No
+152,Apple,Apple Iphone 15 Pro Max,142990,79.0,Yes,Yes,Yes,No,Bionic  A16,Missing,,8,256,4352,True,25.0,6.68,1284 x 2778 px,120,Punch Hole,3,1,12.0,50.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+153,Oppo,Oppo A98,30990,87.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000,True,67.0,6.7,1080 x 2412 px,120,Water Drop,2,1,16.0,108.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+154,Infinix,Infinix Zero 5G 2023,19499,85.0,Yes,Yes,No,No,Dimensity 1080,Octa Core,2.6,8,256,5000,True,33.0,6.78,1080 x 2460 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,Yes,No,No
+156,Realme,Realme C30,5299,,Yes,No,No,No,Tiger T612,Octa Core,1.82,2,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+157,Oppo,Oppo F21 Pro 5G,25969,82.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,8,128,4500,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+158,Realme,Realme 11 Pro,28999,82.0,Yes,Yes,No,No,Snapdragon  8 Gen1,Octa Core,3.0,6,128,5000,True,65.0,6.4,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Supported,256 GB,Android,Yes,No,No
+159,Oppo,Oppo Find N2 5G,94990,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4520,True,67.0,7.1,1792 x 1920 px,120,Punch Hole,3,2,32.0,50.0,Memory Card Not Supported,,,Yes,Yes,No
+160,Realme,Realme 9 4G,14999,81.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,6,128,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,108.0,Memory Card Supported,256 GB,Android,No,No,No
+161,Cola,Cola Phone,14999,74.0,Yes,No,No,No,Helio G99,Octa Core,2.2,4,64,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+162,Apple,Apple Iphone 13 Pro Max,129900,84.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,128,4352,True,,6.7,1284 x 2778 px,120,Small Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+163,Oppo,Oppo Reno 10 Pro Plus,58990,88.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4700,True,80.0,6.73,1080 x 2412 px,120,Punch Hole,4,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+164,Vivo,Vivo X90 5G,41990,88.0,Yes,Yes,Yes,Yes,Dimensity 9200,Octa Core,3.05,8,128,4810,True,120.0,6.78,1260 x 2800 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+165,Samsung,Samsung Galaxy F13,10999,74.0,Yes,No,Yes,No,Exynos 850,Octa Core,2.0,4,64,6000,True,15.0,6.6,2408 x 1080 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,Yes,No
+166,Xiaomi,Xiaomi Redmi Note 10S (6Gb Ram + 128Gb),11999,79.0,Yes,No,No,Yes,Helio G95,Octa Core,2.05,6,128,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,13.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+167,Realme,Realme 10 (8Gb Ram + 128Gb),16999,79.0,Yes,No,No,No,Helio G99,Octa Core,2.2,8,128,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+168,Iqoo,Iqoo 9 Se 5G,30990,83.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,8,128,4500,True,66.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+169,Infinix,Infinix Hot 20,17999,75.0,Yes,Yes,No,No,Dimensity 810,Octa Core,2.4,4,64,5000,True,18.0,6.6,1080 x 2408 px,120,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+170,Letv,Letv Y1 Pro,5499,,Yes,No,No,No,Tiger T310,Quad Core,2.0,4,32,4000,False,,6.54,720 x 1560 px ,60,Small Notch,2,1,5.0,8.0,Memory Card Not Supported,,Android,No,No,No
+171,Xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,20499,83.0,Yes,Yes,No,Yes,Snapdragon  7 Gen1,Octa Core,2.36,6,128,5200,True,67.0,6.67,1080 x 2460 px,120,Punch Hole,4,1,32.0,108.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+172,Realme,Realme Narzo 50 Pro 5G,20490,81.0,Yes,Yes,No,No,Dimensity  920 5G,Octa Core,2.5,6,128,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card (Hybrid),256 GB,Android,Yes,No,No
+173,Oppo,Oppo A74 5G,15490,77.0,Yes,Yes,No,No,Snapdragon  480,Octa Core,2.0,6,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,8.0,48.0,Memory Card Supported,,Android,Yes,No,No
+174,Apple,Apple Iphone 9,29990,61.0,No,No,Yes,No,A13 Bionic,Hexa Core,2.65,3,64,2050,True,,4.7,750 x 1334 px ,60,Large Notch,1,1,7.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+175,Iqoo,Iqoo Z6 Lite (6Gb Ram + 128Gb),15499,79.0,Yes,Yes,No,No,Snapdragon  4 Gen 1,Octa Core,2.0,6,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,2,1,8.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+176,Xiaomi,Xiaomi Redmi Note 11Se,11999,80.0,Yes,No,No,Yes,Helio G95,Octa Core,2.05,6,64,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,13.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+177,Realme,Realme Narzo 50,10999,74.0,Yes,No,No,No,Helio G96,Octa Core,2.0,4,64,5000,True,33.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+178,Vivo,Vivo Y75 5G,21990,82.0,Yes,Yes,No,No,Dimensity  700 5G,Octa Core,2.2,8,128,5000,True,18.0,6.58,1080 x 2408 px ,60,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),,Android,Yes,No,No
+179,Vivo,Vivo V25 (12Gb Ram + 256Gb),31999,85.0,Yes,Yes,No,No,Dimensity  900,Octa Core,2.0,12,256,4500,True,44.0,6.44,1080 x 2408 px,90,Water Drop,3,1,50.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+180,Poco,Poco M4 Pro 4G,11999,77.0,Yes,No,No,Yes,Helio G96,Octa Core,2.05,6,64,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,No,No,Yes
+181,Infinix,Infinix Zero Ultra,36999,89.0,Yes,Yes,No,No,Dimensity 920 5G,Octa Core,2.5,8,256,4500,True,180.0,6.8,1080 x 2400 px,120,Punch Hole,3,1,32.0,200.0,Memory Card Supported,,Android,Yes,No,No
+182,Tecno,Tecno Spark Go 2023,6999,62.0,Yes,No,No,No,Helio A22,Quad Core,2.0,3,32,5000,True,10.0,6.56,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+183,Motorola,Motorola Moto X40,39999,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4600,True,125.0,6.7,1080 x 2400 px,165,Not Available,3,1,60.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+184,Samsung,Samsung Galaxy F24 5G,14999,78.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,4,128,5000,True,25.0,6.6,1080 x 2408 px,120,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+185,Realme,Realme 10 5G,14499,79.0,Yes,Yes,No,No,Dimensity  700 5G,Octa Core,2.2,8,128,5000,True,33.0,6.6,1080 x 2408 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+186,Oneplus,Oneplus Nord 3 5G,27999,84.0,Yes,Yes,Yes,No,Dimensity  8200,Octa Core,3.1,8,128,4200,True,120.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+187,Motorola,Motorola Moto G82 (8Gb Ram + 128Gb),20499,86.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,8,128,5000,True,30.0,6.6,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+188,Ikall,Ikall Z19 Pro,8099,60.0,Yes,No,No,No,,Quad Core,1.6,4,64,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,8.0,13.0,Memory Card (Hybrid),128 GB,Android,No,No,No
+189,Leeco,Leeco S1 Pro,10999,65.0,Yes,No,No,No,Tiger T7150,Quad Core,1.8,8,128,5000,True,10.0,6.5,720 x 1600 px ,60,Small Notch,2,1,5.0,13.0,Memory Card Not Supported,,Android,No,No,No
+191,Duoqin,Duoqin F22 Pro,9990,,Yes,No,No,No,Helio  G85,Octa Core,2.0,4,64,2150,False,,3.54,640 x 960 px ,60,Not Available,1,1,2.0,8.0,Memory Card Supported,,Android,No,No,No
+192,Samsung,Samsung Galaxy M54 5G,34999,85.0,Yes,Yes,No,No,Snapdragon 888,Octa Core,2.84,6,128,6000,True,25.0,6.67,1080 x 2412 px,90,Punch Hole,3,1,32.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+193,Nokia,Nokia N73 5G,46999,,Yes,Yes,No,No,Snapdragon  8 Gen1,Octa Core,3.0,12,256,6000,True,65.0,6.9,1400 x 3200 px,120,Punch Hole,1,1,32.0,200.0,Memory Card Supported,,Android,Yes,No,No
+194,Motorola,Motorola Edge 30 Fusion 5G,39999,88.0,Yes,Yes,Yes,No,Snapdragon 888+,Octa Core,2.9,8,128,4400,True,68.0,6.55,1080 x 2400 px,144,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+195,Realme,Realme C35,11828,70.0,Yes,No,No,No,Tiger  T616,Octa Core,1.8,4,64,5000,True,18.0,6.6,1080 x 2408 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+196,Oppo,Oppo Reno 8 Pro House Of Dragon Edition,45999,86.0,Yes,Yes,Yes,No,Dimensity 8100-Max,Octa Core,2.85,12,256,4500,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+197,Oneplus,Oneplus Nord Ce 3 Lite 5G,18999,81.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,33.0,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+198,Poco,Poco X4 Pro 5G (8Gb Ram + 128Gb),17999,84.0,Yes,Yes,No,Yes,Snapdragon 695,Octa Core,2.2,8,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+199,Samsung,Samsung Galaxy M04,8499,66.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,15.0,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+200,Oppo,Oppo A77S,17999,76.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,33.0,6.56,720 x 1600 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+201,Samsung,Samsung Galaxy A13,14450,75.0,Yes,No,No,No,,Octa Core,2.0,4,64,5000,True,25.0,6.6,1080 x 2408 px ,60,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+202,Motorola,Motorola Edge 30 Ultra,54999,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4610,True,125.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,60.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,No
+203,Xiaomi,Xiaomi 13 Ultra 5G,71999,,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000,True,120.0,6.6,1440 x 3200 px,120,Punch Hole,4,1,32.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+204,Motorola,Motorola Moto G52 (6Gb Ram + 128Gb),12999,79.0,Yes,No,Yes,No,Snapdragon 680,Octa Core,2.4,6,128,5000,True,33.0,6.6,2460 x 1080 px,90,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),,Android,No,Yes,No
+205,Poco,Poco M4 5G,11499,75.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,64,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+206,Nothing,Nothing Phone 1 (12Gb Ram + 256Gb),35999,87.0,Yes,Yes,Yes,No,Snapdragon 778G Plus,Octa Core,2.5,12,256,4500,True,33.0,6.55,1080 x 2400 px,120,Punch Hole,2,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+207,Samsung,Samsung Galaxy A54 5G,34999,76.0,Yes,Yes,Yes,No,Exynos 1380,Octa Core,,6,128,5000,True,25.0,6.4,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+208,Tecno,Tecno Pova 4,11999,73.0,Yes,No,No,No,Helio G99,Octa Core,2.2,8,128,6000,True,18.0,6.82,720 x 1600 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+209,Xiaomi,Xiaomi Redmi Note 12 Pro (8Gb Ram + 256Gb),27994,82.0,Yes,Yes,No,Yes,Dimensity 1080,Octa Core,2.6,8,256,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,Yes
+210,Apple,Apple Iphone 14 Pro Max (256Gb),139990,77.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,256,4323,True,,6.7,1290 x 2796 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+211,Vivo,Vivo V25 Pro (12Gb Ram + 256Gb),39999,86.0,Yes,Yes,No,No,Dimensity 1300,Octa Core,3.0,12,256,4830,True,66.0,6.56,1080 x 2376 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+212,Realme,Realme 9 5G (6Gb Ram + 128Gb),15499,79.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,6,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+213,Realme,Realme 9 Pro 5G,18999,80.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,6,128,5000,True,33.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Supported,256 GB,Android,Yes,No,No
+214,Lava,Lava Blaze 5G,10999,73.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,4,128,5000,False,,6.5,1600 x 720 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+215,Honor,Honor X9A,27999,81.0,Yes,Yes,Yes,Yes,Snapdragon 695,Octa Core,2.2,8,256,5100,True,40.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+216,Google,Google Pixel 7 Pro 5G,81999,,Yes,Yes,Yes,No,Google  Tensor G2,Octa Core,2.85,12,128,5000,True,30.0,6.7,1440 x 3120 px,120,Punch Hole,3,1,10.8,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+217,Tecno,Tecno Pova 3,9999,74.0,Yes,No,No,No,Helio G88,Octa Core,2.0,4,64,7000,True,33.0,6.95,1080 x 2460 px,90,Punch Hole,3,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+218,Vivo,Vivo V23 Pro 5G,31994,85.0,Yes,Yes,No,No,Dimensity 1200,Octa Core,3.0,8,128,4300,True,44.0,6.56,1080 x 2376 px,90,Small Notch,3,2,50.0,108.0,Memory Card Not Supported,,Android,Yes,No,No
+219,Samsung,Samsung Galaxy A04E,9299,65.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+220,Xiaomi,Xiaomi Redmi K60,29990,84.0,Yes,Yes,Yes,Yes,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5500,True,67.0,6.67,1440 x 3200 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+221,Realme,Realme 9 Pro Plus 5G,25900,78.0,Yes,Yes,No,No,Dimensity  920 5G,Octa Core,2.5,6,128,4500,True,60.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+222,Realme,Realme 9I 5G (6Gb Ram + 128Gb),16999,78.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,6,128,5000,True,18.0,6.6,1080 x 2408 px,90,Punch Hole,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+223,Motorola,Motorola Edge 30 5G (8Gb Ram + 128Gb),24999,85.0,Yes,Yes,Yes,No,Snapdragon 778G+,Octa Core,2.5,8,128,4020,True,33.0,6.5,1080 x 2400 px,144,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+224,Xiaomi,Xiaomi Redmi Note 11 (6Gb Ram + 64Gb),12188,79.0,Yes,No,No,Yes,Snapdragon  680,Octa Core,2.4,6,64,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,4,1,13.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+225,Vivo,Vivo Y02,8999,,Yes,No,No,No,Helio,Octa Core,,3,32,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+226,Poco,Poco C31 (4Gb Ram + 64Gb),7499,68.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,False,,6.53,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+227,Realme,Realme Narzo 50 5G,17999,79.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,6,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+228,Realme,Realme Gt Neo 3T,24999,79.0,Yes,Yes,No,No,Snapdragon 870,Octa Core,3.2,6,128,5000,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+229,Oppo,Oppo Reno 8 Pro 5G,45999,86.0,Yes,Yes,Yes,No,Dimensity 8100-Max,Octa Core,2.85,12,256,4500,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+230,Oneplus,Oneplus 10 Pro 5G (12Gb Ram + 256Gb),65499,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5000,True,80.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+231,Iqoo,Iqoo 11 Pro 5G,58990,89.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,8,256,4700,True,200.0,6.78,1440 x 3200 px,144,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+232,Vivo,Vivo T1X 4G,11999,74.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,64,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+233,Xiaomi,Xiaomi Redmi 10 Power,11999,77.0,Yes,No,No,Yes,Snapdragon 680,Octa Core,2.4,8,128,6000,True,18.0,6.7,720 x 1650 px ,60,Punch Hole,2,1,5.0,50.0,Memory Card Supported,,Android,No,No,Yes
+234,Oppo,Oppo A58,18990,76.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,33.0,6.56,720 x 1612 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+235,Vivo,Vivo T1 44W,14499,77.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,128,5000,True,44.0,6.44,1080 x 2408 px ,60,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+236,Xiaomi,Xiaomi Mix Fold 2 5G,106990,,Yes,Yes,Yes,Yes,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,4500,True,67.0,8.02,1914 x 2160 px,120,Punch Hole,3,1,20.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+237,Vivo,Vivo Y16 (3Gb Ram + 64Gb),10499,66.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,64,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+238,Oppo,Oppo Reno 8 Z,26990,86.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,8,256,4500,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+239,Vivo,Vivo Y75 4G,19990,82.0,Yes,No,No,No,Helio G96,Octa Core,2.05,8,128,4050,True,44.0,6.44,1080 x 2400 px ,60,Water Drop,3,1,44.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+240,Xiaomi,Xiaomi Redmi Note 12 Explorer,24999,89.0,Yes,Yes,Yes,Yes,Dimensity 1080,Octa Core,2.6,8,256,4300,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,200.0,Memory Card Supported,512 GB,Android,Yes,Yes,Yes
+241,Oppo,Oppo A57 4G (4Gb Ram + 64 Gb),13969,69.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,True,33.0,6.56,720 x 1612 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+242,Samsung,Samsung Galaxy A75 5G,44999,83.0,Yes,Yes,Yes,No,Snapdragon 778G+,Octa Core,,8,128,5000,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,4,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+243,Vivo,Vivo T1 Pro 5G (8Gb Ram + 128Gb),24999,84.0,Yes,Yes,No,No,Snapdragon 778G,Octa Core,2.4,8,128,4700,True,66.0,6.44,1080 x 2404 px,90,Water Drop,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+244,Google,Google Pixel 7 5G,53100,86.0,Yes,Yes,Yes,No,Google Tensor G2,Octa Core,2.85,8,128,4355,True,30.0,6.3,1080 x 2400 px,90,Punch Hole,2,1,10.8,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+245,Xiaomi,Xiaomi Redmi Note 11T 5G (6Gb Ram + 128Gb),16999,81.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,6,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+246,Oppo,Oppo F21S Pro 4G,21899,82.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,8,128,4500,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,64.0,Memory Card Supported,512 GB,Android,No,No,No
+247,Apple,Apple Iphone 14 (256Gb),75999,82.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,256,3279,True,,6.1,1170 x 2532 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+248,Motorola,Motorola Moto G73,25999,85.0,Yes,Yes,Yes,No,Dimensity 930,Octa Core,2.2,8,256,5000,True,30.0,6.5,1080 x 2400 px,120,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+249,Nubia,Nubia Red Magic 8 Pro 5G,46990,84.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,128,6000,True,80.0,6.8,1116 x 2480 px,120,Not Available,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+250,Motorola,Motorola Moto G31,9999,75.0,Yes,No,No,No,Helio  G85,Octa Core,2.0,4,64,5000,True,20.0,6.47,1080 x 2400 px ,60,Punch Hole,3,1,13.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+251,Tecno,Tecno Phantom X2 Pro,49999,89.0,Yes,Yes,Yes,No,Dimensity 9000,Octa Core,3.05,12,256,5160,True,45.0,6.8,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+252,Infinix,Infinix Zero 20,17999,87.0,Yes,No,Yes,No,Helio G99,Octa Core,2.2,8,128,4500,True,45.0,6.7,1080 x 2400 px,90,Water Drop,3,1,60.0,108.0,Memory Card Supported,2 TB,Android,No,Yes,No
+253,Iqoo,Iqoo Z6 5G (6Gb Ram + 128Gb),16940,80.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,6,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+254,Xiaomi,Xiaomi Redmi Note 11 Pro 5G,17990,81.0,Yes,Yes,No,Yes,Snapdragon 695,Octa Core,2.2,6,64,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),,Android,Yes,No,Yes
+255,Oppo,Oppo A1 Pro,20990,84.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,8,128,4800,True,67.0,6.7,1080 x 2412 px,120,Punch Hole,2,1,16.0,108.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+256,Samsung,Samsung Galaxy S22 Fe 5G,51999,79.0,Yes,Yes,Yes,No,Exynos  2300,Octa Core,,8,128,4200,True,33.0,6.4,1080 x 2400 px,120,Punch Hole,3,1,32.0,12.0,Memory Card Not Supported,,Android,Yes,Yes,No
+257,Samsung,Samsung Galaxy S22 Plus 5G,64449,87.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,128,4500,True,45.0,6.6,1080 x 2340 px,120,Punch Hole,3,1,10.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+258,Vivo,Vivo U3X,8990,71.0,Yes,Yes,No,No,Snapdragon  480,Octa Core,2.0,6,64,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,2,1,8.0,13.0,Memory Card Not Supported,,Android,Yes,No,No
+259,Motorola,Motorola Moto G23,19999,77.0,Yes,No,Yes,No,Helio  G85,Octa Core,2.0,4,128,5000,True,30.0,6.5,720 x 1600 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Supported,512 GB,Android,No,Yes,No
+260,Poco,Poco M4 5G (6Gb Ram + 128Gb),13499,79.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+261,Tecno,Tecno Pova 5G,15499,78.0,Yes,Yes,No,No,Dimensity 900,Octa Core,2.4,8,128,6000,True,18.0,6.9,1080 x 2460 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,512 GB,Android,Yes,No,No
+262,Poco,Poco C31,6499,65.0,Yes,No,No,No,Helio G35,Octa Core,2.3,3,32,5000,False,,6.53,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+263,Apple,Apple Iphone Xr2,71999,60.0,Yes,No,Yes,No,Apple  A13,Missing,,4,64,3060,True,,6.1,828 x 1792 px ,60,Not Available,2,1,7.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+264,Samsung,Samsung Galaxy A53 (8Gb Ram + 256Gb),36499,89.0,Yes,Yes,Yes,No,Exynos 1280,Octa Core,2.4,8,256,5000,True,25.0,6.5,1080 x 2400 px,120,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+265,Infinix,Infinix Note 12 5G,15999,78.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,6,64,5000,True,33.0,6.7,1080 x 2400 px ,60,Water Drop,3,1,16.0,50.0,Memory Card Supported,2 TB,Android,Yes,No,No
+266,Oppo,Oppo Reno7 Pro 5G,31994,87.0,Yes,Yes,Yes,No,Dimensity  1200 Max,Octa Core,3.0,12,256,4500,True,65.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Supported,,Android,Yes,Yes,No
+267,Oneplus,Oneplus Ace 2,34999,84.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000,True,100.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+268,Xiaomi,Redmi Note 11 Pro 2023,18999,81.0,Yes,No,No,Yes,Snapdragon 712,Octa Core,2.3,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,No,No,Yes
+269,Nothing,Nothing Phone 2,39990,88.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4700,True,66.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+270,Samsung,Samsung Galaxy A32 (8Gb Ram + 128Gb),16499,82.0,Yes,No,No,No,Helio G80,Octa Core,2.0,8,128,5000,True,15.0,6.4,1080 x 2400 px,90,Water Drop,4,1,20.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+272,Google,Google Pixel 6 Pro,54300,89.0,Yes,Yes,Yes,No,Google  Tensor,Octa Core,2.8,12,128,5003,True,30.0,6.71,1440 x 3120 px,120,Punch Hole,3,1,11.1,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+273,Infinix,Infinix Note 12I (2022),9999,73.0,Yes,No,No,No,Helio G85,Octa Core,2.0,4,64,5000,True,33.0,6.7,1080 x 2400 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+274,Xiaomi,Xiaomi Redmi 11 Prime 5G (6Gb Ram + 128Gb),15990,77.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+275,Xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8Gb Ram + 128Gb),22700,86.0,Yes,Yes,No,Yes,Snapdragon  695,Octa Core,2.2,8,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+276,Xiaomi,Xiaomi 12 Pro 5G,50990,89.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen1,Octa Core,3.0,8,256,4600,True,120.0,6.73,1440 x 3200 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+277,Apple,Apple Iphone 13 Mini,64900,79.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,4,128,2438,True,,5.4,1080 x 2340 px ,60,Large Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+278,Tecno,Tecno Pova 3 (6Gb Ram + 128Gb),13799,77.0,Yes,No,No,No,Helio G88,Octa Core,2.0,6,128,7000,True,33.0,6.9,1080 x 2460 px,90,Punch Hole,3,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+279,Realme,Realme C31 (4Gb Ram + 64Gb),8999,65.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,4,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+280,Asus,Asus Rog Phone 6 Pro 5G,89999,88.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,18,512,6000,True,65.0,6.78,1080 x 2448 px,165,Not Available,3,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+281,Vivo,Vivo V23E 5G,21994,84.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,8,128,4050,True,44.0,6.44,1080 x 2400 px ,60,Water Drop,3,1,44.0,50.0,Memory Card (Hybrid),,Android,Yes,No,No
+282,Apple,Apple Iphone 14 Mini,69990,70.0,Yes,No,Yes,No,Bionic A16,Missing,,6,128,3500,True,,5.42,1080 x 2340 px ,60,Punch Hole,2,1,12.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+283,Xiaomi,Xiaomi Redmi Note 10T 5G,12999,75.0,Yes,Yes,No,Yes,Dimensity 700,Octa Core,2.2,4,64,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,8.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,Yes
+284,Iqoo,Iqoo Neo 7 Se 5G,24990,83.0,Yes,Yes,Yes,No,Dimensity 8200,Octa Core,3.1,8,128,5000,True,120.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+285,Samsung,Samsung Galaxy A23 (8Gb Ram + 128Gb),19990,82.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,8,128,5000,True,25.0,6.6,1080 x 2408 px ,60,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+286,Xiaomi,Xiaomi Redmi Note 12 Pro (8Gb Ram + 128Gb),26999,82.0,Yes,Yes,No,Yes,Dimensity 1080,Octa Core,2.6,8,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,Yes
+287,Xiaomi,Xiaomi Redmi Note 12 Turbo,19999,81.0,Yes,Yes,Yes,Yes,Snapdragon 778G,Octa Core,2.4,8,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+288,Infinix,Infinix Note 12 Pro,16900,83.0,Yes,No,No,No,Helio  G99,Octa Core,2.2,8,256,5000,True,33.0,6.7,1080 x 2400 px ,60,Water Drop,3,1,16.0,108.0,Memory Card Supported,2 TB,Android,No,No,No
+289,Infinix,Infinix Hot 20 (6Gb Ram+ 128Gb),19999,78.0,Yes,Yes,No,No,Dimensity 810,Octa Core,2.4,6,128,5000,True,18.0,6.6,1080 x 2408 px,120,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+290,Apple,Apple Iphone 14 Pro Max (1Tb),182999,78.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,1024,4323,True,,6.7,1290 x 2796 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+291,Samsung,Samsung Galaxy M13,12999,75.0,Yes,No,No,No,Exynos  850,Octa Core,2.0,6,128,6000,True,15.0,6.6,1080 x 2400 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+292,Poco,Poco M4 Pro 5G (8Gb Ram + 128Gb),15999,82.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+293,Xiaomi,Xiaomi Redmi Note 10S (8Gb Ram + 128Gb),13999,82.0,Yes,No,No,Yes,Helio G95,Octa Core,2.05,8,128,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,13.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+294,Realme,Realme C11 2021 (4Gb Ram + 64Gb),7749,61.0,Yes,No,No,No,SC9863A,Octa Core,1.6,4,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,,Android,No,No,No
+295,Samsung,Samsung Galaxy A23 5G (8Gb Ram + 128Gb),24999,81.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,8,128,5000,True,25.0,6.6,1080 x 2408 px,120,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+296,Motorola,Motorola Edge 30 Ultra (12Gb Ram + 256Gb),59999,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4610,True,125.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,60.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,No
+297,Oppo,Oppo F21S Pro,25895,82.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,4500,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,512 GB,Android,Yes,No,No
+298,Xiaomi,Xiaomi 13 5G,46990,89.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4500,True,67.0,6.36,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+299,Xiaomi,Xiaomi Redmi 10A,7499,64.0,Yes,No,No,No,Helio  G25,Octa Core,2.0,3,32,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+300,Vivo,Vivo Y01A,7790,60.0,Yes,No,No,No,Helio P35,Octa Core,2.3,2,32,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,,Android,No,No,No
+301,Xiaomi,Xiaomi Redmi K50I (8Gb Ram + 256Gb),25999,85.0,Yes,Yes,No,Yes,Dimensity  8100,Octa Core,2.85,8,256,5080,True,67.0,6.6,1080 x 2460 px,144,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,Yes
+302,Realme,Realme C30 (3Gb Ram + 32Gb),6299,60.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,3,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+303,Motorola,Motorola Moto G51 5G,12999,77.0,Yes,Yes,Yes,No,Snapdragon  480+,Octa Core,2.2,4,64,5000,False,,6.8,1080 x 2400 px,120,Punch Hole,3,1,13.0,50.0,Memory Card (Hybrid),512 GB,Android,Yes,Yes,No
+304,Xiaomi,Xiaomi Redmi 10 (6Gb Ram + 128Gb),11999,75.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,6,128,6000,True,18.0,6.7,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+305,Xiaomi,Xiaomi Mi 11 Lite Ne 5G,21890,83.0,Yes,Yes,Yes,Yes,Snapdragon  778G,Octa Core,2.4,6,128,4250,True,33.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,20.0,64.0,Memory Card (Hybrid),,Android,Yes,Yes,Yes
+306,Samsung,Samsung Galaxy Z Flip 3,69999,84.0,No,Yes,Yes,No,Snapdragon 888,Octa Core,2.84,8,128,3300,True,15.0,6.7,1080 x 2640 px,120,Punch Hole,2,1,10.0,12.0,Memory Card Not Supported,,,Yes,Yes,No
+307,Apple,Apple Iphone 12 (128Gb),55999,75.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,4,128,2815,False,,6.1,1170 x 2532 px ,60,Large Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+308,Oneplus,Oneplus 10T (16Gb Ram + 256Gb),55999,87.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,16,256,4800,True,150.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+309,Samsung,Samsung Galaxy A13 (4Gb Ram + 128Gb),14999,75.0,Yes,No,No,No,,Octa Core,2.0,4,128,5000,True,25.0,6.6,1080 x 2408 px ,60,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+310,Oppo,Oppo Reno7 5G,25994,85.0,Yes,Yes,Yes,No,Dimensity 900,Octa Core,2.0,8,256,4500,True,65.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+311,Oneplus,Oneplus 9Rt 5G,42999,85.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,8,128,4500,True,,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+312,Samsung,Samsung Galaxy A53 5G (8Gb Ram + 128Gb),33499,89.0,Yes,Yes,Yes,No,Exynos 1280,Octa Core,2.4,8,128,5000,True,25.0,6.5,1080 x 2400 px,120,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+313,Samsung,Samsung Galaxy S22 Ultra 5G (12Gb Ram + 512Gb),118999,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,512,5000,True,45.0,6.8,1440 x 3080 px,120,Punch Hole,4,1,40.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+314,Motorola,Motorola Moto G71 5G,16999,80.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,33.0,6.4,1080 x 2400 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+315,Itel,Itel S16 Pro,6990,,Yes,No,No,No,,Quad Core,1.3,2,32,4000,False,,6.6,1600 x 720 px ,60,Punch Hole,3,1,8.0,8.0,Memory Card Supported,32 GB,Android,No,No,No
+316,Vivo,Vivo Y100,29990,82.0,Yes,Yes,No,No,Dimensity  900,Octa Core,2.4,8,128,5000,True,66.0,6.0,1080 x 2400 px,120,Punch Hole,3,2,50.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+317,Samsung,Samsung Galaxy M13 5G (4Gb Ram + 64Gb),12944,71.0,Yes,Yes,No,No,Dimensity 700,Octa Core,2.2,4,64,5000,True,15.0,6.5,720 x 1600 px,90,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+318,Poco,Poco X5 Gt,29990,84.0,Yes,Yes,Yes,Yes,Dimensity 9000 Plus,Octa Core,3.2,8,128,5000,True,80.0,6.7,1080 x 2400 px,144,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+319,Honor,Honor X9 5G,16999,80.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,8,128,4800,True,66.0,6.81,1080 x 2388 px ,60,Not Available,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+320,Iqoo,Iqoo 11 (16Gb Ram + 256Gb),64999,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,16,256,5000,True,120.0,6.78,1440 x 3200 px,144,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+321,Samsung,Samsung Galaxy Z Fold 4,154998,,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,4400,True,25.0,7.6,1812 x 2176 px,120,Punch Hole,3,2,10.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+322,Royole,Royole Flexpai 2,109999,87.0,Yes,Yes,No,No,Snapdragon 865,Octa Core,2.84,8,128,4450,False,,7.8,1440 x 1920 px ,60,Not Available,3,1,32.0,64.0,Memory Card Supported,256 GB,,Yes,No,No
+323,Apple,Apple Iphone 14 Plus (256Gb),84999,83.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,256,4325,True,,6.7,1284 x 2778 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+324,Samsung,Samsung Galaxy A33 5G (8Gb Ram + 128Gb),27499,85.0,Yes,Yes,Yes,No,Exynos  1280,Octa Core,2.4,8,128,5000,True,25.0,6.4,1080 x 2400 px,90,Punch Hole,4,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+325,Tecno,Tecno Spark 9,8999,69.0,Yes,No,No,No,Helio G37,Octa Core,2.3,6,128,5000,False,,6.6,720 x 1600 px,90,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+326,Google,Google Pixel 6,40480,84.0,Yes,Yes,Yes,No,Google Tensor,Octa Core,2.8,8,128,4614,True,30.0,6.4,1080 x 2400 px,90,Punch Hole,2,1,8.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+327,Xiaomi,Xiaomi Redmi Note 10 Pro (6Gb Ram + 128Gb),17999,81.0,Yes,No,No,Yes,Snapdragon 732G,Octa Core,2.3,6,128,5020,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,16.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+328,Samsung,Samsung Galaxy S21 Ultra,105999,,Yes,Yes,Yes,No,Exynos  2100,Octa Core,2.9,12,256,5000,True,25.0,6.8,1440 x 3200 px,120,Punch Hole,4,1,40.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+329,Infinix,Infinix Hot 20 Play,8999,67.0,Yes,No,No,No,Helio G37,Octa Core,2.3,4,64,6000,True,18.0,6.82,720 x 1640 px,90,Punch Hole,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+330,Vivo,Vivo T1X (6Gb Ram + 128Gb),14999,77.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,6,128,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+331,Oppo,Oppo F23 Pro,19990,82.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,4500,True,33.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,32.0,64.0,Memory Card Supported,256 GB,Android,Yes,No,No
+332,Iqoo,Iqoo Z6 Pro 5G (8Gb Ram + 128Gb),23399,80.0,Yes,Yes,No,No,Snapdragon  778G,Octa Core,2.4,8,128,4700,True,66.0,6.44,1080 x 2404 px,90,Water Drop,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+333,Samsung,Samsung Galaxy A73 5G (8Gb Ram + 256Gb),41990,,Yes,Yes,Yes,No,Snapdragon 778G,Octa Core,2.4,8,256,5000,True,25.0,6.7,1080 x 2400 px,120,Punch Hole,4,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+334,Realme,Realme 9 5G Se (8Gb Ram + 128Gb),22998,82.0,Yes,Yes,No,No,Snapdragon  778G,Octa Core,2.4,8,128,5000,True,30.0,6.6,1080 x 2412 px,144,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+335,Poco,Poco F4 5G,25999,82.0,Yes,Yes,Yes,No,Snapdragon  870,Octa Core,3.2,6,128,4500,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+336,Infinix,Infinix Note 12,11700,74.0,Yes,No,No,No,Helio G88,Octa Core,2.0,4,64,5000,True,33.0,6.7,2400 x 1080 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+337,Samsung,Samsung Galaxy A03 Core,6499,,Yes,No,No,No,Unisoc  SC9836A,Quad Core,1.6,2,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+338,Motorola,Motorola Moto G60,15999,84.0,Yes,No,Yes,No,Snapdragon  732G,Octa Core,2.3,6,128,6000,True,20.0,6.78,1080 x 2460 px,120,Punch Hole,3,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+339,Oneplus,Oneplus 9 Pro,64800,89.0,Yes,Yes,Yes,No,Snapdragon 888,Octa Core,2.84,8,128,4500,True,65.0,6.7,1440 x 3216 px,120,Punch Hole,4,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+340,Xiaomi,Xiaomi Redmi Note 11S,14590,80.0,Yes,No,No,Yes,Helio  G96,Octa Core,2.05,6,64,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,4,1,16.0,108.0,Memory Card Supported,512 GB,Android,No,No,Yes
+341,Xiaomi,Xiaomi Redmi 9 Activ,7499,68.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,False,,6.53,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+342,Tecno,Tecno Camon 19 Pro 5G,21999,82.0,Yes,Yes,Yes,No,Dimensity 810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.8,1080 x 2460 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+343,Samsung,Samsung Galaxy A04,11999,71.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+344,Poco,Poco M4 Pro 4G (6Gb Ram + 128Gb),12999,79.0,Yes,No,No,Yes,Helio G96,Octa Core,2.05,6,128,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,No,No,Yes
+345,Oneplus,Oneplus Nord N20 5G,20990,81.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,6,128,4500,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,,Android,Yes,Yes,No
+346,Apple,Apple Iphone 13 (256Gb),72999,79.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,4,256,3240,True,,6.1,1170 x 2532 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+347,Oppo,Oppo Find X6 Pro,77990,,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4700,True,120.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+348,Vivo,Vivo X90 Pro 5G,56999,,Yes,Yes,Yes,Yes,Dimensity 9200,Octa Core,3.05,8,256,4870,True,120.0,6.78,1260 x 2800 px,120,Punch Hole,3,1,32.0,50.3,Memory Card Not Supported,,Android,Yes,Yes,Yes
+349,Motorola,Motorola Moto G53,21999,79.0,Yes,Yes,Yes,No,Snapdragon 480+,Octa Core,2.2,4,128,5000,True,10.0,6.5,720 x 1600 px,120,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+350,Motorola,Motorola Moto G22,9499,75.0,Yes,No,No,No,Helio  G37,Octa Core,2.3,4,64,5000,True,20.0,6.53,720 x 1600 px,90,Punch Hole,4,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+351,Xiaomi,Xiaomi Redmi 9I Sport,7499,66.0,Yes,No,No,No,Helio G25,Octa Core,2.0,4,64,5000,True,10.0,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+352,Jio,Jio Jiophone Next,4649,,Yes,No,No,No,Qualcomm 215,Quad Core,1.3,2,32,3500,False,,5.45,720 x 1440 px ,60,Not Available,1,1,8.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+353,Vivo,Vivo Y93,18000,62.0,Yes,No,No,No,Helio P22,Octa Core,2.0,4,32,4030,False,,6.2,1520 x 720 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+354,Xiaomi,Xiaomi Redmi K60 Pro,38999,85.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,8,128,5000,True,120.0,6.67,1440 x 3200 px,120,Punch Hole,3,1,16.0,54.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+355,Realme,Realme C30S,7145,,Yes,No,No,No,Unisoc SC9863A,Octa Core,1.6,2,32,5000,True,10.0,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+356,Vivo,Vivo Y22S,14990,77.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,18.0,6.55,1612 x 720 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+357,Oppo,Oppo A77,15499,70.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,True,33.0,6.56,720 x 1600 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+358,Xiaomi,Xiaomi Redmi 10A Sport,9999,69.0,Yes,No,No,Yes,Helio G25,Octa Core,2.0,6,128,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,Yes
+359,Poco,Poco F4 (12Gb Ram + 256Gb),29999,86.0,Yes,Yes,Yes,No,Snapdragon  870,Octa Core,3.2,12,256,4500,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+360,Realme,Realme 9 4G (8Gb Ram + 128Gb),15999,84.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,108.0,Memory Card Supported,256 GB,Android,No,No,No
+361,Xiaomi,Xiaomi 12T Pro 5G,59990,89.0,Yes,Yes,Yes,Yes,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5000,True,120.0,6.67,1220 x 2712 px,120,Punch Hole,3,1,20.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+362,Iqoo,Iqoo 9 5G,34990,84.0,Yes,Yes,No,No,Snapdragon  888+,Octa Core,2.9,8,128,4350,True,120.0,6.56,1080 x 2376 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,No,No
+363,Apple,Apple Iphone 12 Mini (128Gb),45999,75.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,4,128,2227,False,,5.4,1080 x 2340 px ,60,Not Available,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+364,Samsung,Samsung Galaxy S24 Ultra,119990,85.0,Yes,Yes,No,No,Snapdragon 8+ Gen 2,Octa Core,,12,256,5100,True,45.0,6.83,1200 x 2860 px,144,Punch Hole,4,1,60.0,200.0,Memory Card Not Supported,,Android,Yes,No,No
+365,Oppo,Oppo Find N Flip,89990,88.0,No,Yes,Yes,No,Dimensity 9000,Octa Core,3.05,8,128,4300,True,44.0,6.8,1200 x 2400 px,120,Punch Hole,2,1,32.0,50.0,Memory Card Not Supported,,,Yes,Yes,No
+366,Oneplus,Oneplus 10T (12Gb Ram + 256Gb),50999,87.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4800,True,150.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+367,Tecno,Tecno Spark 9 (4Gb Ram + 64Gb),7999,65.0,Yes,No,No,No,Helio G37,Octa Core,2.3,4,64,5000,False,,6.6,720 x 1600 px,90,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+368,Samsung,Samsung Galaxy S21 Fe 5G (8Gb Ram + 256Gb),43999,88.0,Yes,Yes,Yes,No,Exynos  2100,Octa Core,2.9,8,256,4500,True,25.0,6.4,1080 x 2340 px,120,Punch Hole,3,1,32.0,12.0,Memory Card Not Supported,,Android,Yes,Yes,No
+369,Xiaomi,Xiaomi Redmi Note 11T 5G (8Gb Ram + 128Gb),18499,83.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+370,Sony,Sony Xperia Pro-I,134999,,Yes,Yes,Yes,No,Snapdragon 888,Octa Core,2.84,12,512,4500,True,30.0,6.5,1644 x 3840 px,120,Not Available,3,1,8.0,12.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+371,Vivo,Vivo V21 Pro,32999,85.0,Yes,Yes,No,No,Snapdragon 765G,Octa Core,2.4,8,128,4300,True,33.0,6.44,1080 x 2400 px ,60,Small Notch,4,2,44.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+372,Poco,Poco X3,13499,80.0,Yes,No,No,Yes,Snapdragon  732G,Octa Core,2.3,6,64,6000,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,20.0,64.0,Memory Card (Hybrid),512 GB,Android,No,No,Yes
+373,Samsung,Samsung Galaxy S20 Fe,35489,86.0,Yes,No,Yes,No,Exynos 990,Octa Core,2.73,8,128,4500,True,25.0,6.5,1080 x 2400 px,120,Punch Hole,3,1,32.0,12.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+374,Google,Google Pixel 4,20120,78.0,Yes,No,Yes,No,Snapdragon 855,Octa Core,2.8,6,64,2800,True,,5.7,1080 x 2280 px ,60,Not Available,2,2,8.0,16.0,Memory Card Not Supported,,Android,No,Yes,No
+375,Samsung,Samsung Galaxy S10 Plus,42999,81.0,Yes,No,Yes,No,Exynos 9820,Octa Core,2.7,8,128,4100,True,15.0,6.4,1440 x 3040 px ,60,Punch Hole,3,2,10.0,16.0,Memory Card (Hybrid),512 GB,Android,No,Yes,No
+377,Realme,Realme 11 Pro Plus,24999,78.0,Yes,Yes,No,No,Dimensity  930,Octa Core,2.2,6,128,4200,True,66.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+378,Oppo,Oppo F21 Pro 4G,20999,82.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,8,128,4500,True,33.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,32.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+379,Realme,Realme Gt 2 5G,28994,84.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,8,128,5000,True,65.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+380,Samsung,Samsung Galaxy S21,48900,88.0,Yes,Yes,Yes,No,Exynos  2100,Octa Core,2.9,8,128,4000,True,25.0,6.2,1080 x 2400 px,120,Punch Hole,3,1,10.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+381,Samsung,Samsung Galaxy A71,22494,86.0,Yes,No,No,No,Snapdragon 730,Octa Core,2.2,8,128,4500,True,25.0,6.7,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+382,Vivo,Vivo Y02S,8990,61.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,,Android,No,No,No
+383,Letv,Letv Y2 Pro,6999,,Yes,No,No,No,Unisoc,Octa Core,,4,32,4000,False,,6.5,720 x 1560 px ,60,Small Notch,3,1,8.0,13.0,Memory Card Not Supported,,Android,No,No,No
+384,Tecno,Tecno Spark 8C (4Gb Ram + 64Gb),8890,63.0,Yes,No,No,No,Unisoc  T606,Octa Core,2.0,4,64,5000,False,,6.6,720 x 1612 px,90,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+385,Iqoo,Iqoo Z6 5G (8Gb Ram + 128Gb),18498,82.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,5000,True,18.0,6.58,1080 x 2408 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+386,Vivo,Vivo T1 Pro,23999,81.0,Yes,Yes,No,No,Snapdragon 778G,Octa Core,2.4,6,128,4700,True,66.0,6.44,1080 x 2404 px,90,Water Drop,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+387,Realme,Realme 9 Pro Plus 5G (8Gb Ram + 128Gb),22994,81.0,Yes,Yes,No,No,Dimensity  920 5G,Octa Core,2.5,8,128,4500,True,60.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+388,Samsung,Samsung Galaxy A04S,12990,71.0,Yes,No,No,No,Exynos 850,Octa Core,2.0,4,64,5000,True,15.0,6.5,720 x 1600 px,90,Water Drop,3,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+389,Realme,Realme 9I (6Gb Ram + 128Gb),14999,78.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,6,128,5000,True,33.0,6.6,1080 x 2412 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+390,Realme,Realme 8 5G (8Gb Ram + 128Gb),18499,80.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,8,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+391,Oppo,Oppo F19,14990,78.0,Yes,No,No,No,Snapdragon 662,Octa Core,2.0,6,128,5000,True,33.0,6.4,1080 x 2400 px ,60,Punch Hole,3,1,16.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+392,Oppo,Oppo Find N2 Flip,70990,88.0,No,Yes,Yes,No,Dimensity 9000 Plus,Octa Core,3.2,8,256,4300,True,44.0,6.8,1080 x 2520 px,120,Punch Hole,2,1,32.0,50.0,Memory Card Not Supported,,,Yes,Yes,No
+393,Samsung,Samsung Galaxy M32 Prime Edition,12120,75.0,Yes,No,No,No,Helio G80,Octa Core,2.0,4,64,6000,True,15.0,6.4,1080 x 2400 px,90,Water Drop,4,1,20.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+394,Oukitel,Oukitel Wp19,29990,84.0,Yes,No,Yes,No,Helio G95,Octa Core,2.0,8,256,21000,True,33.0,6.78,1080 x 2400 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,,Android,No,Yes,No
+395,Realme,Realme 9 Pro 5G (8Gb Ram + 128Gb),20999,82.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,5000,True,33.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Supported,256 GB,Android,Yes,No,No
+396,Xiaomi,Xiaomi Redmi Note 10 Lite (6Gb Ram + 128Gb),11999,80.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,6,128,5020,True,18.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+397,Samsung,Samsung Galaxy A13 5G,17990,73.0,Yes,Yes,Yes,No,Dimensity 700 5G,Octa Core,2.2,4,64,5000,True,15.0,6.5,720 x 1600 px,90,Water Drop,3,1,5.0,50.0,Memory Card Supported,,Android,Yes,Yes,No
+398,Xiaomi,Xiaomi Redmi Note 11 5G,14990,77.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,4,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+399,Itel,Itel P36,6490,,Yes,No,No,No,Spreadtrum  SC7731E,Quad Core,1.3,1,16,5000,False,,6.5,1600 x 720 px ,60,Water Drop,2,1,8.0,8.0,Memory Card Not Supported,,Android,No,No,No
+401,Realme,Realme Gt Neo 5,34999,83.0,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,4600,True,240.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+402,Apple,Apple Iphone 15 Ultra,149900,79.0,Yes,Yes,Yes,No,Bionic  A17,Octa Core,,8,128,4700,True,,6.73,1290 x 2796 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+403,Poco,Poco C50,6499,,Yes,No,No,No,Helio A22,Quad Core,2.0,2,32,5000,True,10.0,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+404,Samsung,Samsung Galaxy Note 30 Ultra 5G,104999,,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,4500,True,67.0,6.71,1440 x 3214 px,120,Punch Hole,3,1,10.0,200.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+405,Realme,Realme 9I (4Gb Ram + 128Gb),13999,75.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,4,128,5000,True,33.0,6.6,1080 x 2412 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+406,Xiaomi,Xiaomi Redmi Note 11T 5G,16999,79.0,Yes,Yes,No,Yes,Dimensity  810 5G,Octa Core,2.4,6,64,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+407,Vivo,Vivo X80 Pro 5G,79999,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,256,4700,True,80.0,6.78,1440 x 3200 px,120,Punch Hole,4,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+408,Oppo,Oppo Reno 6 Pro 5G,36760,87.0,Yes,Yes,Yes,No,Dimensity 1200,Octa Core,3.0,12,256,4500,True,65.0,6.55,1080 x 2400 px,90,Punch Hole,4,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+409,Xiaomi,Xiaomi Mi 11I 5G,23499,81.0,Yes,Yes,No,Yes,Dimensity  920 5G,Octa Core,2.5,6,128,5160,True,67.0,6.67,2400 x 1080 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+410,Asus,Asus Rog Phone 7,75990,87.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,18,256,6000,True,120.0,6.8,1080 x 2448 px,165,Not Available,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+411,Oppo,Oppo A77 5G,21990,76.0,Yes,Yes,No,No,Snapdragon  810,Octa Core,2.4,6,128,5000,True,33.0,6.56,720 x 1600 px,90,Water Drop,2,1,8.0,48.0,Memory Card Supported,,Android,Yes,No,No
+412,Realme,Realme 9 5G Se,18999,80.0,Yes,Yes,No,No,Snapdragon  778G,Octa Core,2.4,6,128,5000,True,30.0,6.6,1080 x 2412 px,144,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+413,Samsung,Samsung Galaxy A03,7249,66.0,Yes,No,No,No,Unisoc  T606,Octa Core,1.6,3,32,5000,True,15.0,6.5,720 x 1560 px ,60,Water Drop,2,1,5.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+414,Oneplus,Oneplus Nord N200,16990,75.0,Yes,Yes,Yes,No,Snapdragon  480,Octa Core,2.0,4,64,5000,True,18.0,6.49,1080 x 2400 px,90,Punch Hole,3,1,16.0,13.0,Memory Card Supported,,Android,Yes,Yes,No
+415,Xiaomi,Xiaomi Mi 11X,23890,80.0,Yes,Yes,No,Yes,Snapdragon 870,Octa Core,3.2,6,128,4520,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,48.0,Memory Card Not Supported,,Android,Yes,No,Yes
+416,Oppo,Oppo Reno 6,26380,83.0,Yes,Yes,Yes,No,Dimensity 900,Octa Core,2.0,8,128,4300,True,65.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+417,Realme,Realme X50 Pro 5G (12Gb Ram + 256Gb),27999,87.0,Yes,Yes,Yes,No,Snapdragon 865,Octa Core,2.84,12,256,4200,True,65.0,6.44,1080 x 2400 px,90,Dual Punch Hole,4,2,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+418,Xiaomi,Xiaomi Redmi 10A (6Gb Ram + 128Gb),10850,70.0,Yes,No,No,No,Helio  G25,Octa Core,2.0,6,128,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+419,Xiaomi,Redmi Note 12 Pro Speed Edition,19999,81.0,Yes,Yes,Yes,Yes,Snapdragon 778G,Octa Core,2.4,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+420,Apple,Apple Iphone 14 Pro (256Gb),129990,76.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,256,3200,True,,6.1,1179 x 2556 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+421,Motorola,Motorola Moto G72,19990,81.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,33.0,6.5,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+422,Motorola,Motorola Moto X30 Pro,41990,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4450,True,125.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,60.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,No
+423,Xiaomi,Xiaomi 12S Ultra,69990,,Yes,Yes,Yes,Yes,Snapdragon 8+ Gen1,Octa Core,3.2,8,256,4860,True,67.0,6.73,1440 x 3200 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+424,Honor,Honor 70 5G,39990,88.0,Yes,Yes,Yes,No,Snapdragon  778G Plus,Octa Core,2.5,12,512,4800,True,66.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,32.0,54.0,Memory Card Not Supported,,Android,Yes,Yes,No
+425,Oneplus,Oneplus 10 Pro 5G (12Gb Ram + 512Gb),74999,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,512,5000,True,80.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+426,Vivo,Vivo V23 Pro 5G (12Gb Ram + 256Gb),36994,87.0,Yes,Yes,No,No,Dimensity 1200,Octa Core,3.0,12,256,4300,True,44.0,6.56,1080 x 2376 px,90,Small Notch,3,2,50.0,108.0,Memory Card Not Supported,,Android,Yes,No,No
+427,Oppo,Oppo A55 4G (6Gb Ram + 128Gb),14700,76.0,Yes,No,No,No,Helio G35,Octa Core,2.3,6,128,5000,True,18.0,6.51,720 x 1600 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+428,Xiaomi,Xiaomi Mi 11T Pro 5G,34990,86.0,Yes,Yes,Yes,Yes,Snapdragon  888,Octa Core,2.84,8,128,5000,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+429,Nokia,Nokia X50 5G,34999,76.0,No,Yes,No,No,Snapdragon 775,Missing,,6,64,6000,True,33.0,6.81,1080 x 2400 px ,60,Punch Hole,4,1,32.0,108.0,Memory Card Supported,,Android,Yes,No,No
+430,Xiaomi,Xiaomi Redmi Note 10,13990,75.0,Yes,No,No,Yes,Snapdragon 678,Octa Core,2.2,4,64,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,13.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+431,Vertu,Vertu Signature Touch,650000,62.0,No,No,Yes,No,Snapdragon 801,Octa Core,1.5,2,64,2275,False,,4.7,1080 x 1920 px ,60,Not Available,1,1,2.1,13.0,Memory Card Not Supported,,Android,No,Yes,No
+432,Samsung,Samsung Galaxy M32 Prime Edition (6Gb Ram + 128Gb),14859,79.0,Yes,No,No,No,Helio G80,Octa Core,2.0,6,128,6000,True,15.0,6.4,1080 x 2400 px,90,Water Drop,4,1,20.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+433,Tecno,Tecno Camon 19 Pro Mondrian Edition,17999,84.0,Yes,No,Yes,No,Helio G96,Octa Core,2.05,8,128,5000,True,33.0,6.8,1080 x 2460 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Supported,512 GB,Android,No,Yes,No
+434,Poco,Poco F5,34990,85.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4700,True,67.0,6.7,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+435,Blu,Blu F91 5G,14990,85.0,Yes,Yes,Yes,No,Dimensity  810 5G,Octa Core,2.4,8,128,5000,True,,6.8,1080 x 2460 px ,60,Not Available,4,1,16.0,48.0,Memory Card Supported,,Android,Yes,Yes,No
+436,Oppo,Oppo A16E,8999,65.0,Yes,No,No,No,Helio P22,Octa Core,2.0,3,32,4230,False,,6.52,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+437,Motorola,Motorola Moto E32,8999,71.0,Yes,No,No,No,Helio G37,Octa Core,2.3,4,64,5000,True,10.0,6.5,720 x 1600 px,90,Punch Hole,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+438,Xiaomi,Xiaomi Redmi Note 11S (8Gb Ram + 128Gb),15824,84.0,Yes,No,No,Yes,Helio  G96,Octa Core,2.05,8,128,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,4,1,16.0,108.0,Memory Card Supported,512 GB,Android,No,No,Yes
+440,Samsung,Samsung Galaxy A52 (8Gb Ram + 128Gb),22494,86.0,Yes,No,No,No,Snapdragon  720G,Octa Core,2.3,8,128,4500,True,25.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+441,Poco,Poco X3 Pro,19650,82.0,Yes,No,No,Yes,Snapdragon 860,Octa Core,2.96,6,128,5160,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,20.0,48.0,Memory Card (Hybrid),,Android,No,No,Yes
+442,Xiaomi,Xiaomi Redmi 9A,6999,61.0,Yes,No,No,No,Helio G25,Octa Core,2.0,2,32,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+443,Samsung,Samsung Galaxy A32,16499,80.0,Yes,No,No,No,Helio G80,Octa Core,2.0,6,128,5000,True,15.0,6.4,1080 x 2400 px,90,Water Drop,4,1,20.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+444,Motorola,Motorola Moto G13,15999,75.0,Yes,No,Yes,No,Helio G85,Octa Core,2.0,4,128,5000,True,10.0,6.5,720 x 1600 px,90,Punch Hole,3,1,8.0,50.0,Memory Card (Hybrid),512 GB,Android,No,Yes,No
+445,Asus,Asus Rog Phone 6 Batman Edition,72999,88.0,Yes,Yes,Yes,No,Dimensity 9000 Plus,Octa Core,3.2,16,256,6000,True,65.0,6.78,1080 x 2448 px,165,Not Available,3,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+446,Xiaomi,Xiaomi Redmi Note 12 Pro Plus (6Gb Ram + 128Gb),26999,84.0,Yes,Yes,No,Yes,Dimensity 1080,Octa Core,2.6,6,128,4980,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,200.0,Memory Card Not Supported,,Android,Yes,No,Yes
+447,Infinix,Infinix Smart 6 Hd,6999,,Yes,No,No,No,Helio A22,Quad Core,2.0,2,32,5000,False,,6.6,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+448,Apple,Apple Iphone 15 Pro,130990,75.0,Yes,Yes,Yes,No,Bionic  A16,Missing,,8,128,3274,False,,6.06,1170 x 2532 px,120,Punch Hole,3,1,12.0,50.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+449,Realme,Realme C35 (4Gb Ram + 128Gb),12787,71.0,Yes,No,No,No,Tiger  T616,Octa Core,1.8,4,128,5000,True,18.0,6.6,1080 x 2408 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+450,Infinix,Infinix Hot 12,9999,72.0,Yes,No,No,No,Helio G37,Octa Core,2.3,4,64,6000,True,18.0,6.82,720 x 1640 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+451,Vivo,Vivo X80 5G,54999,86.0,Yes,Yes,No,No,Dimensity  9000,Octa Core,3.05,8,128,4500,True,80.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+452,Vivo,Vivo Y53S,15490,79.0,Yes,No,No,No,Helio G80,Octa Core,2.0,8,128,5000,True,19.0,6.58,1080 x 2408 px ,60,Water Drop,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+453,Tecno,Tecno Phantom X,25999,84.0,Yes,No,No,No,Helio G95,Octa Core,2.05,8,256,4700,True,33.0,6.7,1080 x 2340 px,90,Punch Hole,3,2,48.0,50.0,Memory Card Not Supported,,Android,No,No,No
+454,Samsung,Samsung Galaxy M04 (4Gb Ram + 128Gb),9499,68.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,5000,True,15.0,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+455,Xiaomi,Redmi 12C,7999,70.0,Yes,No,No,No,Helio  G85,Octa Core,2.0,4,64,5000,False,,6.71,720 x 1650 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+456,Asus,Asus Zenfone 9,63990,86.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4300,True,30.0,5.9,1080 x 2400 px,120,Punch Hole,2,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+457,Sony,Sony Xperia L5 5G,15990,73.0,No,No,Yes,No,Helio  P35,Octa Core,2.3,4,64,4000,True,,6.2,720 x 1680 px ,60,Not Available,3,1,8.0,13.0,Memory Card (Hybrid),512 GB,Android,No,Yes,No
+458,Iqoo,Iqoo 9 Se 5G (12Gb Ram + 256Gb),34949,85.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,12,256,4500,True,66.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+459,Tecno,Tecno Spark 8 Pro,8799,72.0,Yes,No,No,No,Helio G85,Octa Core,2.0,4,64,5000,True,33.0,6.8,1080 x 2460 px ,60,Punch Hole,3,1,8.0,48.0,Memory Card Supported,,Android,No,No,No
+460,Xiaomi,Xiaomi Redmi 10 Prime,12390,74.0,Yes,No,No,Yes,Helio G88,Octa Core,2.0,4,64,6000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+461,Samsung,Samsung Galaxy F22,11499,73.0,Yes,No,No,No,Helio G80,Octa Core,2.0,4,64,6000,False,,6.4,720 x 1600 px,90,Water Drop,4,1,13.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+462,Xiaomi,Xiaomi Mi Mix Alpha,199990,,Yes,Yes,No,No,Snapdragon 855+,Octa Core,2.96,12,512,4050,True,40.0,7.92,2088 x 2250 px ,60,Not Available,3,0,,108.0,Memory Card Not Supported,,Android,Yes,No,No
+463,Oppo,Oppo Reno 10 Pro,42990,86.0,Yes,Yes,Yes,No,Dimensity 9000,Octa Core,3.05,16,256,5000,True,120.0,6.73,1080 x 2412 px,120,Punch Hole,2,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+464,Nubia,Nubia Z50,34999,82.0,Yes,Yes,Yes,No,Snapdragon  8 Gen2,Octa Core,3.2,8,128,5000,True,80.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+465,Samsung,Samsung Galaxy F13 (4Gb Ram + 128Gb),11999,75.0,Yes,No,Yes,No,Exynos 850,Octa Core,2.0,4,128,6000,True,15.0,6.6,2408 x 1080 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,Yes,No
+466,Nokia,Nokia G11 Plus,10499,70.0,Yes,No,No,No,Unisoc T606,Octa Core,1.6,4,64,5000,True,10.0,6.52,720 x 1600 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+467,Infinix,Infinix Hot 12 Play,8910,66.0,Yes,No,No,No,Tiger T610,Octa Core,1.82,4,64,6000,True,18.0,6.82,1640 x 720 px,90,Punch Hole,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+468,Vivo,Vivo T2 5G,24990,85.0,Yes,Yes,No,No,Snapdragon  870,Octa Core,3.2,8,128,4700,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+469,Oppo,Oppo Reno7 Z 5G,17999,84.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,8,128,4500,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,,Android,Yes,Yes,No
+470,Xiaomi,Xiaomi Mi 11 Lite Ne 5G (8Gb Ram + 128Gb),22999,86.0,Yes,Yes,Yes,Yes,Snapdragon  778G,Octa Core,2.4,8,128,4250,True,33.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,20.0,64.0,Memory Card (Hybrid),,Android,Yes,Yes,Yes
+471,Realme,Realme Narzo 50I,6490,,Yes,No,No,No,Unisoc  SC9863A,Octa Core,1.6,2,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,256 GB,Android,No,No,No
+472,Infinix,Infinix Zero X Pro,21990,85.0,Yes,Yes,No,No,Helio  G95,Octa Core,2.05,8,128,4500,True,45.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Supported,512 GB,Android,Yes,No,No
+474,Samsung,Samsung Galaxy M32,12364,76.0,Yes,No,No,No,Helio G80,Octa Core,2.0,4,64,6000,True,15.0,6.4,1080 x 2400 px,90,Water Drop,4,1,20.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+475,Samsung,Samsung Galaxy A82 5G,39990,86.0,Yes,Yes,Yes,No,Snapdragon 855+,Octa Core,2.96,6,128,4500,True,25.0,6.71,1440 x 3200 px,120,Punch Hole,3,1,10.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+476,Xiaomi,Xiaomi Poco F1,11999,77.0,Yes,No,No,No,Snapdragon 845,Octa Core,2.8,6,64,4000,True,,6.18,1080 x 2246 px ,60,Large Notch,2,1,20.0,12.0,Memory Card (Hybrid),256 GB,Android,No,No,No
+477,Vivo,Vivo Y25,7499,,Yes,No,No,No,Helio MT6580,Quad Core,1.3,1,16,1900,False,,4.5,480 x 854 px ,60,Not Available,1,1,2.0,5.0,Memory Card Supported,128 GB,Android,No,No,No
+478,Lyf,Lyf Earth 1,3990,60.0,Yes,No,No,No,Snapdragon 615,Octa Core,1.5,3,32,3500,False,,5.5,1080 x 1920 px ,60,Not Available,2,1,5.0,13.0,Memory Card (Hybrid),64 GB,Android,No,No,No
+479,Motorola,Motorola Moto E13,10499,65.0,Yes,No,No,No,Tiger T606,Octa Core,2.0,2,64,5000,True,10.0,6.5,720 x 1600 px ,60,Punch Hole,1,1,5.0,13.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+480,Tecno,Tecno Pop 6 Pro,6299,,Yes,No,No,No,Helio A22,Quad Core,2.0,2,32,5000,False,,6.56,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+481,Itel,Itel A24 Pro,5990,,Yes,No,No,No,Unisoc  SC9832E,Quad Core,1.4,2,32,3020,False,,5.0,854 x 480 px ,60,Not Available,1,1,0.3,2.0,Memory Card Supported,,Android,No,No,No
+482,Vivo,Vivo X Fold Plus,113990,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4730,True,80.0,8.03,1916 x 2160 px,120,Punch Hole,4,2,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+483,Huawei,Huawei Mate 50 Rs Porsche Design,239999,81.0,Yes,No,Yes,Yes,Snapdragon 8+ Gen1,Octa Core,3.2,4,64,4700,True,66.0,6.74,1212 x 2616 px,120,Not Available,3,1,13.0,50.0,Memory Card (Hybrid),256 GB,Hongmeng,No,Yes,Yes
+484,Samsung,Samsung Galaxy F63,21999,84.0,Yes,Yes,Yes,No,Dimensity 900,Octa Core,2.0,6,128,7000,True,33.0,6.7,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+485,Iqoo,Iqoo Z6 4G (6Gb Ram + 128Gb),15999,80.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,6,128,5000,True,44.0,6.44,1080 x 2400 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+487,Sony,Sony Xperia 5 Ii,69990,86.0,Yes,Yes,Yes,No,Snapdragon 865,Octa Core,2.84,8,128,4000,True,21.0,6.1,1080 x 2520 px,120,Not Available,3,1,8.0,12.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+488,Vivo,Vivo Y3 (4Gb Ram + 128Gb),12990,71.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,5000,True,,6.35,720 x 1544 px ,60,Water Drop,3,1,16.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+489,Sony,Sony Xperia 1 Iv (12Gb Ram + 512Gb),92980,,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,12,512,5000,True,30.0,6.5,1644 x 3840 px,120,Not Available,4,1,12.0,12.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+490,Tecno,Tecno Pova 4 Pro,15999,74.0,Yes,No,No,No,Helio G99,Octa Core,2.2,8,256,6000,True,45.0,6.66,720 x 1600 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+491,Huawei,Huawei Nova 10 Se,23999,84.0,Yes,No,Yes,No,Sanpdragon 680,Octa Core,2.4,8,256,4500,True,66.0,6.67,1080 x 2160 px,90,Punch Hole,3,1,16.0,108.0,Memory Card Supported,,Android,No,Yes,No
+492,Vivo,Vivo T1X (4Gb Ram + 128Gb),12999,75.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,128,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+493,Nubia,Nubia Red Magic 7S Pro,60990,86.0,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,12,256,5000,True,135.0,6.8,1080 x 2400 px,120,Not Available,3,1,8.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+494,Motorola,Motorola Moto E32S (4Gb Ram + 64Gb),8859,67.0,Yes,No,No,No,Helio G37,Octa Core,1.8,4,64,5000,True,18.0,6.5,720 x 1600 px,90,Punch Hole,3,1,8.0,16.0,Memory Card Supported,,Android,No,No,No
+495,Iqoo,Iqoo Neo 6 5G (12Gb Ram + 256Gb),33749,84.0,Yes,Yes,No,Yes,Snapdragon 870,Octa Core,3.2,12,256,4700,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,Yes
+496,Samsung,Samsung Galaxy A15,15990,63.0,Yes,No,No,No,,Octa Core,,6,64,5000,True,,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+497,Poco,Poco X4 Gt 5G,24990,84.0,Yes,Yes,Yes,Yes,Dimensity 8100,Octa Core,2.85,8,128,5080,True,67.0,6.6,1080 x 2460 px,144,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+498,Realme,Realme Narzo 50 5G (4Gb Ram + 128Gb),14999,76.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,4,128,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+499,Vivo,Vivo Y77 5G,17990,76.0,Yes,Yes,No,No,Dimensity  930,Octa Core,2.2,6,128,4500,True,80.0,6.64,1080 x 2388 px,120,Punch Hole,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+500,Honor,Honor 60 Se 5G,24990,75.0,Yes,Yes,No,No,Dimensity 900,Octa Core,2.0,8,128,4300,True,66.0,6.67,1080 x 2340 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+501,Xiaomi,Xiaomi Redmi 11 Prime,11600,74.0,Yes,No,No,Yes,Helio G99,Octa Core,2.2,4,64,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+502,Realme,Realme C31,8299,62.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,3,32,5000,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+503,Motorola,Motorola Moto G31 (6Gb Ram+ 128Gb),11999,78.0,Yes,No,No,No,Helio  G85,Octa Core,2.0,6,128,5000,True,20.0,6.47,1080 x 2400 px ,60,Punch Hole,3,1,13.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+504,Samsung,Samsung Galaxy Z Flip 4 5G,89999,88.0,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,3700,True,25.0,6.7,1080 x 2640 px,120,Punch Hole,2,1,10.0,12.0,Memory Card Not Supported,,,Yes,Yes,No
+505,Oneplus,Oneplus 6 (8Gb Ram + 128Gb),27999,77.0,Yes,No,Yes,No,Snapdragon 845,Octa Core,2.8,8,128,3300,False,,6.28,1080 x 2280 px ,60,Not Available,2,1,16.0,20.0,Memory Card Not Supported,,Android,No,Yes,No
+506,Google,Google Pixel 2 Xl,15990,69.0,No,No,Yes,No,Snapdragon 835,Octa Core,2.35,4,128,3520,True,,6.0,1440 x 2880 px ,60,Not Available,1,1,8.0,12.2,Memory Card Not Supported,,Android,No,Yes,No
+507,Xiaomi,Xiaomi Redmi A1 Plus,7289,60.0,Yes,No,No,No,Helio A22,Quad Core,2.0,2,32,5000,True,10.0,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+508,Honor,Honor 70 5G (8Gb Ram + 256Gb),30990,86.0,Yes,Yes,Yes,No,Snapdragon  778G Plus,Octa Core,2.5,8,256,4800,True,66.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,32.0,54.0,Memory Card Not Supported,,Android,Yes,Yes,No
+509,Realme,Realme Narzo 50 (6Gb Ram + 128Gb),15499,77.0,Yes,No,No,No,Helio G96,Octa Core,2.0,6,128,5000,True,33.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+510,Vivo,Vivo Y15S,8499,66.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,5000,False,,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+511,Samsung,Samsung Galaxy M32 (6Gb Ram + 128Gb),14490,80.0,Yes,No,No,No,Helio G80,Octa Core,2.0,6,128,6000,True,15.0,6.4,1080 x 2400 px,90,Water Drop,4,1,20.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+512,Samsung,Samsung Galaxy F42 5G,15490,80.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,15.0,6.6,1080 x 2408 px,90,Water Drop,3,1,8.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+513,Realme,Realme Q5 5G,14990,78.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,60.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),,Android,Yes,No,No
+514,Poco,Poco M3 Pro 5G,15999,75.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,64,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,8.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+515,Google,Google Pixel 5,36000,82.0,Yes,Yes,Yes,No,Snapdragon 765G,Octa Core,2.4,8,128,4080,True,18.0,6.0,1080 x 2340 px,90,Punch Hole,2,1,8.0,16.0,Memory Card Not Supported,,Android,Yes,Yes,No
+516,Oneplus,Oneplus 12 Pro,69999,,Yes,Yes,Yes,No,Snapdragon  8 Gen2,Octa Core,3.2,12,256,4800,True,150.0,6.73,1440 x 3412 px,144,Punch Hole,3,1,32.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+517,Xiaomi,Xiaomi Redmi Note 12 Discovery Edition,26990,86.0,Yes,Yes,Yes,Yes,Dimensity 1080,Octa Core,2.6,8,256,4300,True,210.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+518,Samsung,Samsung Galaxy M13 (4Gb Ram + 64Gb),10630,71.0,Yes,No,No,No,Exynos  850,Octa Core,2.0,4,64,6000,True,15.0,6.6,1080 x 2400 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+519,Oppo,Oppo Reno 8 Pro (8Gb Ram + 256Gb),42990,85.0,Yes,Yes,Yes,No,Dimensity 8100-Max,Octa Core,2.85,8,256,4500,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+520,Vivo,Vivo Y78 5G,24990,77.0,Yes,Yes,No,No,Dimensity 1300,Octa Core,3.0,8,128,4500,True,,6.58,1080 x 2400 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+521,Iqoo,Iqoo Z6 4G,14489,77.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,4,128,5000,True,44.0,6.44,1080 x 2400 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+522,Oppo,Oppo A76,16490,73.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,6,128,5000,True,33.0,6.56,720 x 1612 px,90,Punch Hole,2,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+523,Realme,Realme 9 Pro Plus 5G (8Gb Ram + 256Gb),24494,82.0,Yes,Yes,No,No,Dimensity  920 5G,Octa Core,2.5,8,256,4500,True,60.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+524,Vivo,Vivo Y01,7999,61.0,Yes,No,No,No,Helio P35,Octa Core,2.3,2,32,5000,False,,6.51,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+525,Motorola,Motorola Moto Edge S30 5G,23990,85.0,Yes,Yes,No,No,Snapdragon 888+,Octa Core,2.9,6,128,5000,True,33.0,6.8,1080 x 2460 px,144,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,No,No
+526,Realme,Realme Gt 2 Pro 5G,49959,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000,True,65.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+527,Apple,Apple Iphone 13 Pro (256Gb),129900,83.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,256,3095,True,,6.1,1170 x 2532 px,120,Large Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+528,Vivo,Vivo Y73 2021,19990,80.0,Yes,No,No,No,Helio G95,Octa Core,2.05,8,128,4000,True,33.0,6.44,1080 x 2400 px ,60,Water Drop,3,1,16.0,64.0,Memory Card Supported,,Android,No,No,No
+529,Samsung,Samsung Galaxy F14,14990,67.0,Yes,No,Yes,No,,Octa Core,,4,64,5000,True,25.0,6.62,2408 x 1080 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,Yes,No
+530,Vivo,Vivo V20,23269,85.0,Yes,No,No,No,Snapdragon  720G,Octa Core,2.3,8,128,4000,True,33.0,6.44,1080 x 2400 px ,60,Water Drop,3,1,44.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+531,Xiaomi,Xiaomi Redmi Note 9 Pro,13999,75.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,4,64,5020,True,18.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+534,Oneplus,Oneplus 10R Prime Edition,35389,85.0,Yes,Yes,Yes,No,Dimensity 8100 Max,Octa Core,2.85,8,128,5000,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+535,Google,Google Pixel 6 Pro (12Gb Ram + 256Gb),79700,,Yes,Yes,Yes,No,Google  Tensor,Octa Core,2.8,12,256,5003,True,30.0,6.71,1440 x 3120 px,120,Punch Hole,3,1,11.1,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+536,Nokia,Nokia C31,9499,62.0,Yes,No,No,No,Unisoc  SC9863A,Octa Core,1.6,3,32,5050,True,10.0,6.74,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+537,Infinix,Infinix Hot 12 Pro (8Gb Ram+ 128Gb),12340,76.0,Yes,No,No,No,Tiger T616,Octa Core,2.0,8,128,5000,True,18.0,6.6,720 x 1612 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+538,Poco,Poco M5,10799,74.0,Yes,No,No,Yes,Helio G99,Octa Core,2.2,4,64,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+539,Xiaomi,Xiaomi Redmi 10C (4Gb Ram + 128Gb),14990,73.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,128,6000,True,18.0,6.7,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+540,Zte,Zte Axon 40 Ultra 5G,61990,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000,True,65.0,6.8,1116 x 2480 px,120,Not Available,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+541,Xiaomi,Xiaomi 12 Pro 5G (12Gb Ram + 256Gb),51880,,Yes,Yes,Yes,Yes,Snapdragon 8 Gen1,Octa Core,3.0,12,256,4600,True,120.0,6.73,1440 x 3200 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+542,Oppo,Oppo K10 (8Gb Ram + 128Gb),16990,80.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,33.0,6.59,1080 x 2412 px,90,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+543,Huawei,Huawei Nova 9 Se,19990,84.0,Yes,No,Yes,No,Snapdragon  680,Octa Core,2.4,8,128,4000,True,66.0,6.78,1080 x 2388 px,90,Punch Hole,4,1,16.0,108.0,Memory Card Supported,,Android,No,Yes,No
+544,Samsung,Samsung Galaxy S22 5G (8Gb Ram + 256Gb),57999,87.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,256,3700,True,25.0,6.1,1080 x 2340 px,120,Punch Hole,3,1,10.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+545,Lenovo,Lenovo Legion Y90,46990,87.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5600,True,68.0,6.92,1080 x 2460 px,144,Not Available,2,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+546,Vivo,Vivo Y55 5G,20990,77.0,Yes,Yes,Yes,No,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2408 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,,Android,Yes,Yes,No
+547,Nokia,Nokia X100 5G,17990,82.0,Yes,Yes,Yes,No,Snapdragon  480,Octa Core,2.0,6,128,4470,True,18.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,1000 GB,Android,Yes,Yes,No
+548,Realme,Realme 8S 5G (8Gb Ram + 128Gb),17499,82.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,8,128,5000,True,33.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+549,Realme,Realme 8S 5G,17999,80.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,6,128,5000,True,33.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+550,Nokia,Nokia X60 Pro 5G,49990,,Yes,Yes,No,No,Snapdragon  870,Octa Core,3.2,8,128,6000,True,44.0,6.51,1080 x 2408 px,144,Punch Hole,4,1,32.0,200.0,Memory Card Supported,,Android,Yes,No,No
+552,Poco,Poco X5,14999,74.0,Yes,Yes,No,Yes,Snapdragon 695,Octa Core,2.2,4,128,5000,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,8.0,48.0,Memory Card Not Supported,,Android,Yes,No,Yes
+553,Xiaomi,Xiaomi Redmi Note 10 Pro Max (6Gb Ram + 128Gb),19980,82.0,Yes,No,No,Yes,Snapdragon  732G,Octa Core,2.3,6,128,5020,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,16.0,108.0,Memory Card Supported,512 GB,Android,No,No,Yes
+554,Iqoo,Iqoo 7 (12Gb Ram + 256Gb),35990,85.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,12,256,4400,True,66.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+555,Realme,Realme 8,15999,78.0,Yes,No,No,No,Helio G95,Octa Core,2.0,4,128,5000,True,30.0,6.4,1080 x 2400 px ,60,Punch Hole,4,1,16.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+556,Samsung,Samsung Galaxy S20,41999,88.0,Yes,No,Yes,No,Exynos  990,Octa Core,2.73,8,128,4000,True,25.0,6.2,1440 x 3200 px,120,Punch Hole,3,1,10.0,64.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+557,Xiaomi,Xiaomi Redmi K60E,25999,83.0,Yes,Yes,Yes,Yes,Dimensity 8200,Octa Core,3.1,8,128,5500,True,67.0,6.67,1440 x 3200 px,120,Punch Hole,3,1,20.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+558,Motorola,Motorola Moto E32S,7990,65.0,Yes,No,No,No,Helio G37,Octa Core,1.8,3,32,5000,True,18.0,6.5,720 x 1600 px,90,Punch Hole,3,1,8.0,16.0,Memory Card Supported,1 TB,Android,No,No,No
+559,Oneplus,Oneplus Nord 3T 5G,29990,84.0,Yes,Yes,Yes,No,Dimensity  1300,Octa Core,3.0,8,128,4500,True,80.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+560,Oppo,Oppo F23 Pro Plus 5G,27990,83.0,Yes,Yes,No,No,Snapdragon  7 Gen1,Octa Core,2.36,8,128,4500,True,65.0,6.43,1080 x 2460 px,90,Punch Hole,4,1,16.0,50.0,Memory Card Supported,256 GB,Android,Yes,No,No
+561,Poco,Poco F5 Pro,29999,84.0,Yes,Yes,Yes,Yes,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,5500,True,67.0,6.67,1440 x 3200 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+562,Oppo,Oppo A16E (4Gb Ram + 64Gb),8999,68.0,Yes,No,No,No,Helio P22,Octa Core,2.0,4,64,4230,False,,6.52,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+563,Poco,Poco M4 Pro 4G (8Gb Ram + 128Gb),13999,81.0,Yes,No,No,Yes,Helio G96,Octa Core,2.05,8,128,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Supported,1 TB,Android,No,No,Yes
+564,Realme,Realme Narzo 50A,11499,71.0,Yes,No,No,No,Helio  G85,Octa Core,2.0,4,64,6000,True,18.0,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+565,Asus,Asus Rog Phone 5S 5G,39999,87.0,Yes,Yes,Yes,No,Snapdragon  888+,Octa Core,2.9,8,128,6000,True,65.0,6.78,1080 x 2448 px,144,Not Available,3,1,24.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+566,Realme,Realme Gt Master Edition 5G,27999,84.0,Yes,Yes,Yes,No,Snapdragon  778G,Octa Core,2.4,8,128,4300,True,65.0,6.43,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+567,Samsung,Samsung Galaxy A32 5G,24499,79.0,Yes,Yes,Yes,No,Dimensity 720,Octa Core,2.0,6,128,5000,True,15.0,6.5,720 x 1600 px,90,Water Drop,4,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+568,Nubia,Nubia Red Magic 8 Pro Plus,60999,86.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000,True,165.0,6.8,1116 x 2480 px,120,Not Available,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+569,Samsung,Samsung Galaxy Z Fold 3,110999,89.0,Yes,Yes,Yes,No,Snapdragon 888,Octa Core,2.84,12,256,4400,True,25.0,7.6,1768 x 2208 px,120,Punch Hole,3,2,10.0,12.0,Memory Card Not Supported,,Android,Yes,Yes,No
+570,Lg,Lg Wing 5G,54999,89.0,Yes,Yes,Yes,No,Snapdragon  765G,Octa Core,2.4,8,128,4000,True,,6.8,1080 x 2460 px ,60,Not Available,3,1,32.0,64.0,Memory Card (Hybrid),2 TB,,Yes,Yes,No
+571,Xiaomi,Xiaomi Redmi Note 9 Pro Max,16490,80.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,6,64,5020,True,33.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+572,Samsung,Samsung Galaxy A52,24990,83.0,Yes,No,No,No,Snapdragon  720G,Octa Core,2.3,6,128,4500,True,25.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,No,No,No
+574,Vivo,Vivo Y71,25000,,Yes,No,No,No,Snapdragon 425,Quad Core,1.4,3,16,3360,False,,6.0,720 x 1440 px ,60,Not Available,1,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+576,Samsung,Samsung Galaxy A04E (3Gb Ram + 64Gb),9950,66.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,64,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+577,Oppo,Oppo A56S,12999,75.0,Yes,Yes,No,No,Dimensity 810,Octa Core,2.4,8,128,5000,False,,6.56,720 x 1612 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,,Android,Yes,No,No
+578,Oppo,Oppo Reno 8T 4G,19999,83.0,Yes,No,Yes,No,Helio G99,Octa Core,2.2,8,256,5000,True,66.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,Yes,No
+579,Oppo,Oppo Reno 10,32999,84.0,Yes,Yes,Yes,No,Snapdragon 778G Plus,Octa Core,2.5,8,256,5000,True,120.0,6.73,1080 x 2412 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+580,Nokia,Nokia G60,28498,81.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,6,128,4500,True,20.0,6.58,1080 x 2400 px,120,Water Drop,3,1,8.0,50.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+581,Oppo,Oppo A77 (4Gb Ram + 128 Gb),15998,71.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,128,5000,True,33.0,6.56,720 x 1600 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+583,Motorola,Motorola Edge 40 Pro 5G,59990,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,128,4800,True,125.0,6.7,1080 x 2460 px,165,Punch Hole,3,1,60.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+584,Oppo,Oppo K10X 5G,16990,78.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,67.0,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+585,Iqoo,Iqoo Z6 Pro 5G (12Gb Ram + 256Gb),27999,82.0,Yes,Yes,No,No,Snapdragon  778G,Octa Core,2.4,12,256,4700,True,66.0,6.44,1080 x 2404 px,90,Water Drop,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+586,Nokia,Nokia G21 (6Gb Ram + 128Gb),13499,75.0,Yes,No,No,No,Unisoc  T606,Octa Core,1.6,6,128,5050,True,18.0,6.5,720 x 1600 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+587,Samsung,Samsung Galaxy A13 (6Gb Ram + 128Gb),16499,78.0,Yes,No,No,No,,Octa Core,2.0,6,128,5000,True,25.0,6.6,1080 x 2408 px ,60,Water Drop,4,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+588,Oppo,Oppo A16K (4Gb Ram + 64Gb),10999,66.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,4230,False,,6.52,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+589,Xiaomi,Xiaomi Redmi 10C,13990,71.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,64,6000,True,18.0,6.7,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+590,Tecno,Tecno Spark 9 Pro,9999,74.0,Yes,No,No,No,Helio  G85,Octa Core,2.0,4,64,5000,True,18.0,6.6,1080 x 2460 px,90,Water Drop,3,1,32.0,48.0,Memory Card Supported,,Android,No,No,No
+591,Realme,Realme Gt Neo 3 5G,31994,83.0,Yes,Yes,Yes,No,Dimensity  8100,Octa Core,2.85,8,128,5000,True,80.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+592,Xiaomi,Xiaomi 11I Hypercharge 5G,24820,83.0,Yes,Yes,No,Yes,Dimensity  920 5G,Octa Core,2.5,6,128,4500,True,120.0,6.67,2400 x 1080 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+593,Iqoo,Iqoo Neo 6 Se 5G,22990,83.0,Yes,Yes,No,No,Snapdragon 870,Octa Core,3.2,8,128,4700,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+594,Iqoo,Iqoo 9 Pro 5G,59990,88.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,256,4700,True,120.0,6.78,1440 x 3200 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+595,Realme,Realme Narzo 50I (4Gb Ram + 64Gb),8999,62.0,Yes,No,No,No,Unisoc  SC9863A,Octa Core,1.6,4,64,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,256 GB,Android,No,No,No
+596,Xiaomi,Xiaomi Redmi 9 Activ (6Gb Ram + 128Gb),10499,72.0,Yes,No,No,No,Helio G35,Octa Core,2.3,6,128,5000,False,,6.53,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+597,Jio,Jio Jiophone Next (3Gb Ram + 32Gb),7499,,Yes,No,No,No,Qualcomm 215,Quad Core,1.3,3,32,3000,False,,5.5,720 x 1440 px ,60,Not Available,1,1,8.0,13.0,Memory Card Supported,,Pragati,No,No,No
+598,Xiaomi,Xiaomi Redmi Note 8 2021,9990,75.0,Yes,No,No,Yes,Helio G85,Octa Core,2.0,4,64,4000,True,18.0,6.3,1080 x 2340 px ,60,Water Drop,4,1,13.0,48.0,Memory Card Supported,,Android,No,No,Yes
+599,Xiaomi,Xiaomi Redmi Note 10 5G,12490,76.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,8.0,48.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+600,Vivo,Vivo Y20G,13990,69.0,Yes,No,No,No,Helio G80,Octa Core,2.0,4,64,5000,True,18.0,6.51,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+601,Samsung,Samsung Galaxy A22 5G,17990,79.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,15.0,6.6,1080 x 2408 px,90,Water Drop,3,1,8.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+602,Vivo,Vivo V21,24999,83.0,Yes,No,No,No,Dimensity 800U,Octa Core,2.4,8,128,4000,True,33.0,6.44,1080 x 2400 px,90,Water Drop,3,1,44.0,64.0,Memory Card (Hybrid),,Android,No,No,No
+603,Realme,Realme 7 Pro (8Gb Ram + 128Gb),21999,85.0,Yes,No,No,No,Snapdragon 720G,Octa Core,2.3,8,128,4500,True,65.0,6.4,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+604,Oneplus,Oneplus Nord Lite,19999,77.0,Yes,No,No,No,Snapdragon 690,Octa Core,2.0,8,128,4300,True,30.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,No,No,No
+605,Samsung,Samsung Galaxy S20 Ultra 5G,99999,,Yes,Yes,Yes,No,Exynos 990,Octa Core,2.73,12,128,5000,True,45.0,6.9,1440 x 3200 px ,60,Punch Hole,4,1,40.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+606,Apple,Apple Iphone 11 Pro Max,109900,77.0,Yes,No,Yes,No,A13 Bionic,Hexa Core,2.65,4,64,3500,True,18.0,6.5,1242 x 2688 px ,60,Large Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+607,Apple,Apple Iphone 7S,52990,,No,No,No,No,Fusion APL1024,Quad Core,2.37,3,32,2230,False,,4.7,750 x 1334 px ,60,Not Available,1,1,7.0,13.0,Memory Card Not Supported,,iOS,No,No,No
+609,Sony,Sony Xperia Ace Iv,19990,80.0,Yes,No,Yes,No,Snapdragon 4 Gen 1,Octa Core,2.0,8,128,5000,True,33.0,6.5,1080 x 2400 px,120,Not Available,2,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+610,Samsung,Samsung Galaxy A04E (4Gb Ram + 128Gb),11499,69.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+612,Xiaomi,Xiaomi Redmi Note 12 4G,13999,75.0,Yes,No,No,Yes,Helio G99,Octa Core,2.2,4,64,5000,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,13.0,48.0,Memory Card (Hybrid),1 TB,Android,No,No,Yes
+613,Oukitel,Oukitel Wp21,22990,82.0,Yes,No,No,No,Helio G99,Octa Core,2.2,12,256,9800,True,66.0,6.78,1080 x 2400 px,120,Not Available,3,1,20.0,64.0,Memory Card (Hybrid),,,No,No,No
+614,Vivo,Vivo V28,28990,84.0,Yes,Yes,No,No,Snapdragon 6 Gen 1,Octa Core,2.2,8,256,5000,True,80.0,6.7,1080 x 2400 px,120,Water Drop,3,1,32.0,108.0,Memory Card Supported,,Android,Yes,No,No
+615,Poco,Poco F4 5G (8Gb Ram + 128Gb),27999,85.0,Yes,Yes,Yes,No,Snapdragon  870,Octa Core,3.2,8,128,4500,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+616,Xiaomi,Xiaomi Redmi Note 11T Pro 5G,19990,82.0,Yes,Yes,Yes,Yes,Dimensity  8100,Octa Core,2.85,6,128,5080,True,67.0,6.6,1080 x 2460 px,144,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,Yes
+617,Realme,Realme Narzo 50 Pro 5G (8Gb Ram + 128Gb),22999,83.0,Yes,Yes,No,No,Dimensity 920 5G,Octa Core,2.5,8,128,5000,True,33.0,6.4,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+618,Vivo,Vivo T1 44W (8Gb Ram + 128Gb),17999,82.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,44.0,6.44,1080 x 2408 px ,60,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+619,Xiaomi,Xiaomi Redmi Note 11S (6Gb Ram + 128Gb),15499,81.0,Yes,No,No,Yes,Helio  G96,Octa Core,2.05,6,128,5000,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,4,1,16.0,108.0,Memory Card Supported,512 GB,Android,No,No,Yes
+620,Lava,Lava Agni 5G,17990,84.0,Yes,Yes,No,No,Dimensity  810 5G,Octa Core,2.4,8,128,5000,True,30.0,6.78,1080 x 2460 px,90,Punch Hole,4,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+621,Realme,Realme 8I (6Gb Ram + 128Gb),13999,77.0,Yes,No,No,No,Helio G96,Octa Core,2.05,6,128,5000,True,18.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+622,Oppo,Oppo A55 4G,13499,73.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,True,18.0,6.51,720 x 1600 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+623,Poco,Poco M3 Pro 5G (6Gb Ram + 128Gb),14799,79.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,8.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+624,Realme,Realme C21Y,6999,62.0,Yes,No,No,No,Unisoc T610,Octa Core,1.8,3,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+625,Oppo,Oppo A16,11999,69.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+626,Vivo,Vivo V21 5G,23994,85.0,Yes,Yes,No,No,Dimensity 800U,Octa Core,2.4,8,128,4000,True,33.0,6.44,1080 x 2400 px,90,Water Drop,3,1,44.0,64.0,Memory Card (Hybrid),,Android,Yes,No,No
+628,Apple,Apple Iphone 12 Pro (512Gb),139900,80.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,6,512,2815,False,,6.1,1170 x 2532 px ,60,Large Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+629,Sony,Sony Xperia 1 Ii,69999,89.0,Yes,Yes,Yes,No,Snapdragon  865,Octa Core,2.84,8,256,4000,True,21.0,6.5,1644 x 3840 px ,60,Not Available,4,1,8.0,12.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+630,Motorola,Motorola Edge Plus,57999,89.0,No,Yes,Yes,No,Snapdragon  865,Octa Core,2.84,12,256,5000,True,18.0,6.7,1080 x 2340 px,90,Punch Hole,3,1,25.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+631,Samsung,Samsung Galaxy Note 20,86000,87.0,Yes,No,Yes,No,Exynos  990,Octa Core,2.73,8,256,4300,True,25.0,6.7,1080 x 2400 px ,60,Punch Hole,3,1,10.0,64.0,Memory Card Not Supported,,Android,No,Yes,No
+632,Samsung,Samsung Galaxy A12,11999,71.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,15.0,6.5,720 x 1560 px ,60,Water Drop,4,1,8.0,48.0,Memory Card Supported,,Android,No,No,No
+633,Xiaomi,Xiaomi Redmi Note 12 Pro 4G,14999,77.0,Yes,No,Yes,Yes,Snapdragon 732G,Octa Core,2.3,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,No,Yes,Yes
+634,Realme,Realme Gt Neo 3T (8Gb Ram + 128Gb),26499,81.0,Yes,Yes,No,No,Snapdragon 870,Octa Core,3.2,8,128,5000,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+635,Realme,Realme C30S (4Gb Ram + 64Gb),8990,62.0,Yes,No,No,No,Unisoc SC9863A,Octa Core,1.6,4,64,5000,True,10.0,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+636,Apple,Apple Iphone 14 (512Gb),95999,82.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,512,3279,True,,6.1,1170 x 2532 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+637,Iqoo,Iqoo 9T 5G,47990,85.0,Yes,Yes,Yes,Yes,Snapdragon  8+ Gen1,Octa Core,3.2,8,128,4700,True,120.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+638,Tecno,Tecno Camon 19 Pro,17990,81.0,Yes,No,No,No,Helio  G96,Octa Core,2.05,8,128,5000,True,33.0,6.8,1080 x 2460 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,No,No,No
+639,Oneplus,Oneplus Nord 2 Lite 5G,22999,83.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,8,128,5000,True,33.0,6.59,1080 x 2412 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Supported,,Android,Yes,Yes,No
+641,Samsung,Samsung Galaxy S22 Ultra 5G (8Gb Ram + 128Gb),99990,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,128,5000,True,45.0,6.8,1440 x 3080 px,120,Punch Hole,4,1,40.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+642,Poco,Poco F4 Gt 5G,39999,86.0,Yes,Yes,Yes,Yes,Snapdragon  8 Gen1,Octa Core,3.0,8,128,4700,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+643,Xiaomi,Xiaomi 11T Pro 5G (12Gb Ram + 256Gb),38999,88.0,Yes,Yes,Yes,Yes,Snapdragon  888,Octa Core,2.84,12,256,5000,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+644,Vivo,Vivo Y10,12490,63.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,5000,False,,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Not Supported,,Android,No,No,No
+646,Samsung,Samsung Galaxy A83 5G,39990,86.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,6,128,4500,True,25.0,6.71,1440 x 3200 px,120,Punch Hole,3,1,10.0,64.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+648,Vivo,Vivo Y33S,16685,80.0,Yes,No,No,No,Helio G80,Octa Core,2.0,8,128,5000,True,18.0,6.58,1080 x 2408 px ,60,Water Drop,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+649,Huawei,Huawei Mate 40 Pro 4G,69990,,Yes,No,Yes,Yes,Kirin  9000,Octa Core,3.13,8,128,4400,True,66.0,6.76,1344 x 2772 px,90,Punch Hole,3,2,13.0,50.0,Memory Card (Hybrid),256 GB,Harmony,No,Yes,Yes
+650,Micromax,Micromax In 2B,6999,66.0,Yes,No,No,No,Unisoc  T610,Octa Core,1.8,4,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+651,Asus,Asus Rog Phone 6,71999,86.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,6000,True,65.0,6.78,1080 x 2448 px,165,Not Available,3,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+652,Realme,Realme X7 Max,26999,84.0,Yes,Yes,Yes,No,Dimensity 1200,Octa Core,3.0,8,128,4500,True,50.0,6.43,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+653,Realme,Realme 8 5G,16499,75.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+654,Oppo,Oppo A55 5G,17990,74.0,Yes,Yes,No,No,Dimensity 700,Octa Core,2.2,6,128,5000,False,,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,,Android,Yes,No,No
+655,Xiaomi,Xiaomi Redmi 9,8999,68.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,False,,6.53,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+656,Apple,Apple Iphone Se 2020,39900,63.0,Yes,No,Yes,No,A13 Bionic,Hexa Core,2.65,3,64,1821,True,18.0,4.7,750 x 1334 px ,60,Not Available,1,1,7.0,12.0,Memory Card Not Supported,,iOS,No,Yes,No
+658,Letv,Letv Y1 Pro Plus,5999,60.0,Yes,No,No,No,Tiger T610,Quad Core,1.8,6,64,4000,True,10.0,6.5,720 x 1560 px ,60,Small Notch,2,1,5.0,8.0,Memory Card Not Supported,,Android,No,No,No
+659,Oneplus,Oneplus Nord 5,34999,76.0,Yes,Yes,Yes,No,Dimensity  9200,Octa Core,,8,128,5000,True,120.0,6.57,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+660,Vivo,Vivo Y73T,16990,77.0,Yes,Yes,No,No,Dimensity 700,Octa Core,2.0,8,128,6000,True,44.0,6.58,1080 x 2408 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+661,Oppo,Oppo Reno 9 Z,22990,84.0,Yes,Yes,Yes,No,Snapdragon  6 Gen 1,Octa Core,2.2,8,128,4800,True,33.0,6.58,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Supported,,Android,Yes,Yes,No
+662,Vivo,Vivo V25E,19990,84.0,Yes,No,No,No,Helio G99,Octa Core,2.2,8,256,4500,True,44.0,6.44,1080 x 2400 px,90,Punch Hole,3,1,32.0,64.0,Memory Card (Hybrid),,Android,No,No,No
+663,Infinix,Infinix Hot 12 Pro,10850,74.0,Yes,No,No,No,Tiger T616,Octa Core,2.0,6,64,5000,True,18.0,6.6,720 x 1612 px,90,Water Drop,2,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+664,Realme,Realme Narzo 50 5G (4Gb Ram + 64Gb),13499,75.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,4,64,5000,True,33.0,6.6,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+666,Itel,Itel Vision 3,6699,61.0,Yes,No,No,No,Unisoc  SC9863a,Octa Core,1.6,3,64,5000,True,18.0,6.6,1612 x 720 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,128 GB,Android,No,No,No
+667,Oppo,Oppo A96 4G,17999,80.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,8,128,5000,True,33.0,6.59,1080 x 2412 px,90,Punch Hole,2,1,16.0,50.0,Memory Card Supported,,Android,No,No,No
+668,Xiaomi,Xiaomi Redmi Note 11E 5G,13990,69.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2408 px,90,Punch Hole,2,1,5.0,50.0,Memory Card Not Supported,,Android,Yes,No,Yes
+669,Honor,Honor Magic 4 Pro Plus 5G,94990,,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,512,4600,True,120.0,6.76,1344 x 2772 px,120,Punch Hole,4,2,13.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+670,Tecno,Tecno Spark 9T,8968,72.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,True,18.0,6.6,1080 x 2408 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+671,Infinix,Infinix Smart 6,7320,60.0,Yes,No,No,No,Helio A22,Quad Core,2.0,2,64,5000,False,,6.6,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+672,Realme,Realme C25Y (4Gb Ram + 64Gb),8999,69.0,Yes,No,No,No,Tiger  T610,Octa Core,1.8,4,64,5000,True,18.0,6.5,1600 x 720 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+673,Samsung,Samsung Galaxy A12 (6Gb Ram + 128Gb),13999,75.0,Yes,No,No,No,Helio P35,Octa Core,2.3,6,128,5000,True,15.0,6.5,720 x 1560 px ,60,Water Drop,4,1,8.0,48.0,Memory Card Supported,,Android,No,No,No
+674,Tecno,Tecno Camon 19,14746,79.0,Yes,No,Yes,No,Helio  G85,Octa Core,2.0,6,128,5000,True,18.0,6.8,1080 x 2460 px ,60,Punch Hole,3,1,16.0,64.0,Memory Card Supported,512 GB,Android,No,Yes,No
+675,Xiaomi,Xiaomi Redmi Note 10 Pro 5G,16999,83.0,Yes,Yes,Yes,Yes,Dimensity 1100 5G,Octa Core,2.6,6,128,5000,True,67.0,6.6,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Supported,,Android,Yes,Yes,Yes
+676,Xiaomi,Xiaomi Mi 11X 5G (8Gb Ram + 128Gb),25990,83.0,Yes,Yes,No,Yes,Snapdragon 870,Octa Core,3.2,8,128,4520,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,48.0,Memory Card Not Supported,,Android,Yes,No,Yes
+677,Xiaomi,Xiaomi Redmi Note 10 (6Gb Ram + 128Gb),16499,78.0,Yes,No,No,Yes,Snapdragon 678,Octa Core,2.2,6,128,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,13.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+678,Xiaomi,Xiaomi Redmi Note 10 Pro Max,19999,81.0,Yes,No,No,Yes,Snapdragon  732G,Octa Core,2.3,6,64,5020,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,16.0,108.0,Memory Card Supported,512 GB,Android,No,No,Yes
+679,Xiaomi,Xiaomi Mi 10T 5G,23500,80.0,Yes,Yes,Yes,No,Snapdragon 865,Octa Core,2.84,6,128,5000,True,33.0,6.67,2400 x 1080 px,144,Punch Hole,3,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+680,Lg,Lg Velvet 5G,54999,85.0,Yes,Yes,Yes,No,Snapdragon  765G,Octa Core,2.4,6,128,4300,True,25.0,6.8,1080 x 2460 px ,60,Water Drop,3,1,16.0,48.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+681,Motorola,Motorola One Fusion Plus,19499,80.0,Yes,No,No,No,Snapdragon 730G,Octa Core,2.2,6,128,5000,True,18.0,6.5,1080 x 2340 px ,60,Not Available,4,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+682,Lg,Lg V60 Thinq,79990,,Yes,Yes,Yes,No,Snapdragon  865,Octa Core,2.84,8,128,5000,True,,6.8,1080 x 2460 px ,60,Punch Hole,3,1,10.0,64.0,Memory Card (Hybrid),2 TB,,Yes,Yes,No
+683,Samsung,Samsung Galaxy Note 10 Lite,39999,83.0,Yes,No,Yes,No,Exynos 9810,Octa Core,2.7,6,128,4500,True,25.0,6.7,1080 x 2400 px ,60,Punch Hole,3,1,32.0,12.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+684,Samsung,Samsung Galaxy Note 10 Plus 5G,92999,89.0,Yes,Yes,Yes,Yes,Exynos 9825,Octa Core,2.7,12,256,4300,True,,6.8,1440 x 3040 px ,60,Punch Hole,4,1,10.0,12.0,Memory Card (Hybrid),512 GB,Android,Yes,Yes,Yes
+686,Iqoo,Iqoo Neo 7 Racing Edition,32990,84.0,Yes,Yes,Yes,Yes,Snapdragon 8+ Gen1,Octa Core,3.2,8,256,5000,True,120.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+687,Samsung,Samsung Galaxy A04S (4Gb Ram + 128Gb),14499,72.0,Yes,No,No,No,Exynos 850,Octa Core,2.0,4,128,5000,True,15.0,6.5,720 x 1600 px,90,Water Drop,3,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+688,Vivo,Vivo Y35 5G,13999,70.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,15.0,6.51,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,1 TB,Android,Yes,No,No
+689,Vivo,Vivo Y02 (2Gb Ram + 32Gb),7999,,Yes,No,No,No,Helio,Octa Core,,2,32,5000,True,10.0,6.51,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+690,Itel,Itel Vision 3 (2Gb Ram + 32Gb),5785,,Yes,No,No,No,Unisoc  SC9863a,Octa Core,1.6,2,32,5000,True,18.0,6.6,1612 x 720 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,128 GB,Android,No,No,No
+691,Xiaomi,Xiaomi Redmi Note 11R,12990,73.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,2,1,5.0,13.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+692,Poco,Poco M6 Pro,19990,84.0,Yes,Yes,No,Yes,Dimensity  920 5G,Octa Core,2.5,8,128,5100,True,120.0,6.73,1080 x 2400 px,120,Punch Hole,3,1,32.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+693,Oppo,Oppo A97 5G,23990,79.0,Yes,Yes,No,No,Dimensity 810 5G,Octa Core,2.4,12,256,5000,True,33.0,6.56,1080 x 2400 px,90,Water Drop,2,1,8.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+694,Samsung,Samsung Galaxy A24,17999,77.0,Yes,No,No,No,Exynos 7904,Octa Core,1.8,6,64,4000,True,15.0,6.4,1080 x 2408 px ,60,Water Drop,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+695,Infinix,Infinix Note 13 Pro,16999,80.0,Yes,No,No,No,Helio  G99,Octa Core,2.2,6,128,5000,True,120.0,6.91,1080 x 2460 px ,60,Punch Hole,4,1,16.0,108.0,Memory Card Supported,256 GB,Android,No,No,No
+696,Honor,Honor Play 30,9999,68.0,Yes,Yes,No,No,Snapdragon 480+,Octa Core,2.2,4,128,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card (Hybrid),,Android,Yes,No,No
+697,Infinix,Infinix Smart 6 Plus,8299,63.0,Yes,No,No,No,Helio G25,Octa Core,2.0,3,64,5000,False,,6.82,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+698,Sony,Sony Xperia 5 Iv 5G,82199,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,256,5000,True,30.0,6.1,1080 x 2520 px,120,Not Available,3,1,12.0,12.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+700,Nubia,Nubia Z40 Pro 5G,49990,84.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,128,5000,True,80.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+701,Nokia,Nokia G21,11999,71.0,Yes,No,No,No,Unisoc  T606,Octa Core,1.6,4,64,5050,True,18.0,6.5,720 x 1600 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+702,Xiaomi,Xiaomi 12 Lite 5G,29990,82.0,Yes,Yes,Yes,No,Snapdragon 778G,Octa Core,2.4,6,128,4300,True,67.0,6.55,1080 x 2400 px,120,Punch Hole,3,1,32.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+703,Oppo,Oppo Find N 5G,92249,,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,8,256,4500,True,33.0,7.1,1792 x 1920 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+704,Apple,Apple Iphone 13 Pro Max (256Gb),139900,84.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,256,4352,True,,6.7,1284 x 2778 px,120,Small Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+705,Vivo,Vivo Y21S,14990,74.0,Yes,No,No,No,Helio G80,Octa Core,2.0,4,128,5000,True,18.0,6.51,720 x 1600 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+706,Oppo,Oppo F19S,15988,79.0,Yes,No,No,No,Snapdragon 662,Octa Core,2.0,6,128,5000,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,3,1,16.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+707,Samsung,Samsung Galaxy M21 2021,11725,76.0,Yes,No,No,No,Exynos 9611,Octa Core,2.3,4,64,6000,True,15.0,6.4,1080 x 2340 px ,60,Water Drop,3,1,20.0,48.0,Memory Card Supported,512 GB,Android,No,No,No
+708,Oppo,Oppo F19 Pro,17994,80.0,Yes,No,No,No,Helio P95,Octa Core,2.2,8,128,4310,True,30.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+709,Oppo,Oppo X 2021,134999,86.0,No,No,No,No,Snapdragon 865,Octa Core,2.84,8,256,4000,True,45.0,7.4,1440 x 3200 px ,60,Not Available,3,1,16.0,64.0,Memory Card Not Supported,,Android,No,No,No
+710,Oneplus,Oneplus Nord N10,25595,81.0,Yes,Yes,Yes,No,Snapdragon 690,Octa Core,2.0,6,128,4300,True,30.0,6.49,1080 x 2400 px,90,Punch Hole,4,1,16.0,64.0,Memory Card Supported,512 GB,Android,Yes,Yes,No
+711,Gionee,Gionee M12 Pro,7499,67.0,Yes,No,No,No,Helio P60,Octa Core,1.99,6,128,4000,False,,6.2,720 x 1520 px ,60,Water Drop,1,1,13.0,16.0,Memory Card Supported,256 GB,Android,No,No,No
+712,Poco,Poco M2,10890,74.0,Yes,No,No,Yes,Helio G80,Octa Core,2.0,6,64,5000,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,4,1,8.0,13.0,Memory Card Supported,512 GB,Android,No,No,Yes
+713,Oppo,Oppo F17 Pro,18990,83.0,Yes,No,No,No,Helio P95,Octa Core,2.2,8,128,4015,True,30.0,6.43,1080 x 2400 px ,60,Dual Punch Hole,4,2,16.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+714,Motorola,Motorola Moto G 5G,19990,82.0,Yes,Yes,Yes,No,Snapdragon  750G,Octa Core,2.2,6,128,5000,True,20.0,6.67,1080 x 2400 px ,60,Punch Hole,3,1,16.0,48.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+715,Samsung,Samsung Galaxy A50S,15990,80.0,Yes,No,Yes,No,Exynos  9611,Octa Core,2.3,4,128,4000,True,15.0,6.4,1080 x 2340 px ,60,Water Drop,3,1,32.0,48.0,Memory Card Supported,512 GB,Android,No,Yes,No
+716,Samsung,Samsung Galaxy Note 10 Plus,58999,89.0,Yes,No,Yes,No,Exynos 9825,Octa Core,2.73,12,256,4300,True,45.0,6.8,1440 x 3040 px ,60,Punch Hole,4,1,10.0,12.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+717,Vivo,Vivo Y15,12500,71.0,Yes,No,No,No,Helio P22,Octa Core,2.0,4,64,5000,False,,6.35,720 x 1544 px ,60,Water Drop,3,1,16.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+718,Vivo,Vivo S1 Pro,29999,82.0,Yes,No,No,No,Snapdragon  665,Octa Core,2.0,8,128,4500,True,18.0,6.38,1080 x 2340 px ,60,Water Drop,4,1,32.0,48.0,Memory Card (Hybrid),256 GB,Android,No,No,No
+719,Vivo,Vivo T3 Pro,31990,86.0,Yes,Yes,No,No,Snapdragon  782G,Octa Core,2.7,8,256,4700,True,80.0,6.67,1080 x 2408 px,120,Water Drop,3,1,32.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+720,Vivo,Vivo V21S,29999,86.0,Yes,Yes,Yes,No,Dimensity 800U,Octa Core,2.4,8,128,4000,True,33.0,6.44,1080 x 2400 px,90,Water Drop,3,1,44.0,64.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+721,Asus,Asus Rog Phone 6D Ultimate,107990,,Yes,Yes,Yes,No,Dimensity 9000 Plus,Octa Core,3.2,16,512,6000,True,65.0,6.78,1080 x 2448 px,165,Not Available,3,1,12.0,50.0,Memory Card Not Supported,,,Yes,Yes,No
+722,Motorola,Motorola Moto Edge 30 Neo,31990,84.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,8,128,4020,True,68.0,6.28,1080 x 2400 px,120,Punch Hole,2,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+723,Xiaomi,Xiaomi 12T,48990,87.0,Yes,Yes,Yes,Yes,Dimensity 8100 Ultra,Octa Core,2.85,8,128,5000,True,120.0,6.67,1220 x 2712 px,120,Punch Hole,3,1,20.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+724,Huawei,Huawei Mate 50 Pro 5G,99990,85.0,Yes,Yes,Yes,No,Kirin 9000E,Octa Core,3.13,8,256,4500,True,66.0,6.76,1440 x 3200 px,120,Small Notch,3,1,13.0,64.0,Memory Card Not Supported,,Hongmeng,Yes,Yes,No
+725,Realme,Realme C32,9499,65.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,4,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+726,Huawei,Huawei Mate Xs 2,162990,89.0,Yes,No,Yes,Yes,Snapdragon 888,Octa Core,2.84,8,512,4600,True,66.0,7.8,2200 x 2480 px,120,Punch Hole,3,1,10.7,50.0,Memory Card (Hybrid),256 GB,,No,Yes,Yes
+727,Iqoo,Iqoo Z7 Pro 5G,24999,80.0,Yes,Yes,No,No,Snapdragon  7 Gen1,Octa Core,2.36,6,128,5000,True,67.0,6.62,1080 x 2412 px,144,Water Drop,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+728,Apple,Apple Iphone 15,82990,72.0,Yes,No,Yes,No,Bionic  A16,Missing,,6,128,3285,True,,6.06,1170 x 2532 px ,60,Punch Hole,2,1,13.0,50.0,Memory Card Not Supported,,iOS,No,Yes,No
+729,Infinix,Infinix Note 11S (8Gb Ram + 128Gb),15999,79.0,Yes,No,No,No,Helio G96,Octa Core,2.05,8,128,5000,True,33.0,6.95,1080 x 2460 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,2 TB,Android,No,No,No
+730,Tecno,Tecno Spark 8 (4Gb Ram + 64Gb),8999,64.0,Yes,No,No,No,Helio A25,Octa Core,1.8,4,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,2,1,8.0,16.0,Memory Card Supported,256 GB,Android,No,No,No
+731,Oppo,Oppo A56 5G,17990,73.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,,Android,Yes,No,No
+732,Vivo,Vivo X80 Pro Plus 5G,82990,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4500,True,120.0,6.78,1440 x 3200 px,120,Punch Hole,4,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+733,Xiaomi,Xiaomi Redmi 10 Prime (6Gb Ram + 128Gb),12999,77.0,Yes,No,No,Yes,Helio G88,Octa Core,2.0,6,128,6000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+734,Huawei,Huawei Nova 9,29990,83.0,Yes,No,Yes,No,Snapdragon  778G,Octa Core,2.4,8,128,4300,True,66.0,6.57,1080 x 2340 px,120,Punch Hole,4,1,32.0,50.0,Memory Card Not Supported,,HarmonyOS,No,Yes,No
+735,Tecno,Tecno Pop 5 Go,6999,,Yes,No,No,No,Spreadtrum  SC7731,Quad Core,1.3,1,16,4000,False,,6.1,720 x 1520 px ,60,Water Drop,2,1,5.0,5.0,Memory Card Supported,,Android,No,No,No
+736,Huawei,Huawei P50 Pro 4G,60999,,Yes,No,Yes,Yes,Snapdragon 888,Octa Core,2.84,8,256,4360,True,66.0,6.6,1288 x 2700 px,120,Punch Hole,4,1,13.0,50.0,Memory Card (Hybrid),256 GB,HarmonyOS,No,Yes,Yes
+737,Xiaomi,Xiaomi Redmi K50 5G,27990,83.0,Yes,Yes,Yes,Yes,Dimensity  8100,Octa Core,2.85,8,128,5500,True,67.0,6.67,1440 x 3200 px,120,Punch Hole,3,1,20.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+738,Nokia,Nokia C01 Plus,5249,,Yes,No,No,No,Unisoc  SC9863A,Octa Core,1.6,2,16,3000,False,,5.45,720 x 1440 px ,60,Not Available,1,1,5.0,5.0,Memory Card Supported,256 GB,Android,No,No,No
+739,Realme,Realme Q3,14999,80.0,Yes,Yes,No,No,Snapdragon  750G,Octa Core,2.2,6,128,5000,True,30.0,6.5,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Supported,,Android,Yes,No,No
+740,Oppo,Oppo Reno 6 Pro Plus 5G,44990,87.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,8,128,4500,True,65.0,6.55,1080 x 2400 px,90,Punch Hole,4,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+741,Motorola,Motorola Edge S,22490,87.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,6,128,5000,True,20.0,6.7,1080 x 2520 px,90,Punch Hole,4,2,16.0,64.0,Memory Card Supported,,Android,Yes,Yes,No
+742,Oppo,Oppo Find X3 Pro,50990,,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,12,256,4500,True,65.0,6.7,1440 x 3216 px,120,Punch Hole,4,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+743,Poco,Poco M3,11499,75.0,Yes,No,No,Yes,Snapdragon 662,Octa Core,2.0,6,64,6000,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,3,1,8.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+744,Itel,Itel S16,5990,,Yes,No,No,No,Unisoc SC7731E,Quad Core,1.3,1,16,4000,False,,6.5,1600 x 720 px ,60,Water Drop,3,1,8.0,8.0,Memory Card Supported,32 GB,Android,No,No,No
+745,Vivo,Vivo V20 Pro,27000,84.0,Yes,Yes,No,No,Snapdragon 765G,Octa Core,2.4,8,128,4000,True,33.0,6.44,1080 x 2400 px ,60,Small Notch,3,2,44.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+746,Xiaomi,Xiaomi Mi 10T Pro 5G,29999,86.0,Yes,Yes,Yes,Yes,Snapdragon 865,Octa Core,2.84,8,128,5000,True,33.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,20.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+747,Vivo,Vivo V19 (8Gb Ram + 256Gb),27990,84.0,Yes,No,No,No,Snapdragon  712,Octa Core,2.3,8,256,4500,True,33.0,6.44,1080 x 2400 px ,60,Dual Punch Hole,4,2,32.0,48.0,Memory Card Supported,512 GB,Android,No,No,No
+749,Samsung,Samsung Galaxy S20 5G,74999,89.0,Yes,Yes,Yes,No,Exynos  990,Octa Core,2.73,8,128,4000,True,25.0,6.2,1440 x 3200 px ,60,Punch Hole,3,1,10.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+750,Vivo,Vivo U3,9990,72.0,Yes,No,No,No,Snapdragon  675,Octa Core,2.0,4,64,5000,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,3,1,16.0,16.0,Memory Card Supported,256 GB,Android,No,No,No
+751,Oppo,Oppo K5 (8Gb Ram + 128Gb),19990,82.0,Yes,No,No,No,Snapdragon  730G,Octa Core,2.2,8,128,4000,True,30.0,6.4,1080 x 2340 px ,60,Water Drop,4,1,32.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+752,Realme,Realme Xt,13279,75.0,Yes,No,No,No,Snapdragon 712,Octa Core,2.3,4,64,4000,True,20.0,6.4,1080 x 2340 px ,60,Water Drop,4,1,16.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+753,Vivo,Vivo Y12 (3Gb Ram + 64Gb),11000,68.0,Yes,No,No,No,Helio  P22,Octa Core,2.0,3,64,5000,False,,6.35,720 x 1544 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+755,Xiaomi,Xiaomi Poco F1 (6Gb Ram + 128Gb),12999,78.0,Yes,No,No,No,Snapdragon 845,Octa Core,2.8,6,128,4000,True,,6.18,1080 x 2246 px ,60,Large Notch,2,1,20.0,12.0,Memory Card (Hybrid),256 GB,Android,No,No,No
+756,Poco,Poco C50 (3Gb Ram + 32Gb),7299,61.0,Yes,No,No,No,Helio A22,Quad Core,2.0,3,32,5000,True,10.0,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+758,Ikall,Ikall Z19,7999,61.0,Yes,No,No,No,,Quad Core,1.6,4,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,1,1,13.0,20.0,Memory Card (Hybrid),128 GB,Android,No,No,No
+759,Xiaomi,Xiaomi Redmi K60 Gaming Edition,54990,86.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,8,128,5000,True,67.0,6.73,1440 x 3200 px,120,Punch Hole,3,1,20.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+760,Vivo,Vivo S17 Pro,49990,77.0,Yes,Yes,Yes,No,Dimensity 9200,Octa Core,,12,256,5000,True,120.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+761,Honor,Honor 80 Pro Plus,54990,,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,12,256,4500,True,100.0,6.78,1200 x 2652 px,120,Punch Hole,3,1,50.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,No
+762,Apple,Apple Iphone Se 4,49990,60.0,Yes,Yes,Yes,No,Bionic  A15,Hexa Core,3.22,4,64,3279,False,,6.1,750 x 1580 px ,60,Not Available,1,1,10.8,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+763,Tecno,Tecno Pova Neo 5G,15499,71.0,Yes,No,No,No,Dimensity 810 5G,Octa Core,2.4,4,128,6000,True,18.0,6.8,1080 x 2400 px,120,Punch Hole,2,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+764,Apple,Apple Iphone 14 Pro Max (512Gb),169900,78.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,512,4323,True,,6.7,1290 x 2796 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+765,Google,Google Pixel 8,53990,75.0,Yes,Yes,Yes,No,Google Tensor 3,Octa Core,,8,128,4830,True,67.0,6.6,1080 x 2400 px,120,Punch Hole,2,1,10.1,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+766,Vivo,Vivo T2X 5G,18990,80.0,Yes,Yes,No,No,Dimensity 1300,Octa Core,3.0,8,128,6000,True,44.0,6.58,1080 x 2408 px,120,Water Drop,2,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+767,Motorola,Motorola Moto G52 5G,16999,76.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,4,64,5000,True,33.0,6.6,2460 x 1080 px,90,Punch Hole,3,1,16.0,50.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+768,Motorola,Motorola Edge 40 5G,34999,86.0,Yes,Yes,Yes,No,Snapdragon 7 Gen1,Octa Core,2.36,8,128,4200,True,67.0,6.5,1080 x 2412 px,144,Not Available,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+769,Vivo,Vivo X Note 5G (12Gb Ram + 512Gb),82990,,Yes,Yes,Yes,Yes,Snapdragon 8 Gen1,Octa Core,3.0,12,512,5000,True,80.0,7.0,1440 x 3080 px,120,Punch Hole,4,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+770,Realme,Realme Gt 2 Pro 5G (12Gb Ram + 256Gb),46999,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,12,256,5000,True,65.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+771,Vivo,Vivo Y15C,8499,66.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,5000,False,,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+772,Honor,Honor X8,16999,76.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,6,128,4000,True,22.5,6.7,1080 x 2388 px,90,Punch Hole,4,1,16.0,64.0,Memory Card Not Supported,,Android,No,No,No
+773,Samsung,Samsung Galaxy A03 (4Gb Ram + 64Gb),11499,69.0,Yes,No,No,No,Unisoc  T606,Octa Core,1.6,4,64,5000,True,15.0,6.5,720 x 1560 px ,60,Water Drop,2,1,5.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+774,Samsung,Samsung Galaxy S22 Plus 5G (8Gb Ram + 256Gb),88999,88.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,8,256,4500,True,45.0,6.6,1080 x 2340 px,120,Punch Hole,3,1,10.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+775,Vivo,Vivo Y33T,15990,81.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,8,128,5000,True,18.0,6.58,1080 x 2408 px,90,Water Drop,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+776,Xiaomi,Xiaomi 11I 5G (8Gb Ram + 128Gb),24990,83.0,Yes,Yes,No,Yes,Dimensity  920 5G,Octa Core,2.5,8,128,5160,True,67.0,6.67,2400 x 1080 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+777,Oppo,Oppo Find X5 Pro 5G,79990,,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,8,256,5000,True,80.0,6.7,1440 x 3216 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+778,Tecno,Tecno Spark Go 2022,6249,61.0,Yes,No,No,No,,Octa Core,2.2,2,32,5000,False,,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+779,Vivo,Vivo Y21E,12499,69.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,3,64,5000,True,18.0,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+780,Xiaomi,Xiaomi Redmi 9A Sport,6499,61.0,Yes,No,No,No,Helio G25,Octa Core,2.0,2,32,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+781,Apple,Apple Iphone 13 Pro Max (1Tb),179900,86.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,1024,4352,True,,6.7,1284 x 2778 px,120,Small Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+782,Vivo,Vivo Y12G (3Gb Ram + 64Gb),11990,68.0,Yes,No,No,No,Snapdragon  439,Octa Core,2.0,3,64,5000,False,,6.51,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+783,Vivo,Vivo V23E,26990,82.0,Yes,No,No,No,Helio G96,Octa Core,2.05,8,128,4050,True,44.0,6.44,1080 x 2400 px ,60,Water Drop,3,1,50.0,64.0,Memory Card Not Supported,,Android,No,No,No
+784,Samsung,Samsung Galaxy F22 (6Gb Ram + 128Gb),13499,76.0,Yes,No,No,No,Helio G80,Octa Core,2.0,6,128,6000,False,,6.4,720 x 1600 px,90,Water Drop,4,1,13.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+785,Xiaomi,Xiaomi 12 Ultra 5G,75999,,Yes,Yes,Yes,Yes,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4800,True,67.0,6.73,1440 x 3200 px,120,Punch Hole,3,1,20.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+786,Micromax,Micromax In 2C,5999,60.0,Yes,No,No,No,Tiger T610,Octa Core,1.8,3,32,5000,False,,6.52,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,256 GB,Android,No,No,No
+787,Samsung,Samsung Galaxy A03S,8499,67.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,5000,True,15.0,6.5,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+788,Oppo,Oppo A54 (4Gb Ram + 128Gb),11990,71.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,5000,True,,6.51,1600 x 720 px ,60,Punch Hole,3,1,16.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+789,Xiaomi,Xiaomi Redmi 20X,10990,77.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.43,1080 x 2340 px,90,Punch Hole,4,1,13.0,48.0,Memory Card Supported,,Android,Yes,No,Yes
+790,Xiaomi,Xiaomi Mi Mix Fold,109990,,Yes,Yes,Yes,Yes,Snapdragon  888,Octa Core,2.84,12,256,5020,True,67.0,8.01,1860 x 2480 px,90,Not Available,3,1,20.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+791,Realme,Realme Narzo 30 5G,16999,80.0,Yes,Yes,Yes,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+792,Oppo,Oppo A54,12199,70.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,64,5000,True,,6.51,1600 x 720 px ,60,Punch Hole,3,1,16.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+793,Oppo,Oppo A15S (4Gb Ram + 128Gb),11490,72.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,4230,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+794,Itel,Itel A56,5490,,Yes,No,No,No,,Quad Core,1.3,1,16,4000,False,,6.0,720 x 1600 px ,60,Not Available,2,1,5.0,8.0,Memory Card Supported,32 GB,Android,No,No,No
+795,Xiaomi,Xiaomi Redmi 9 Power,11499,74.0,Yes,No,No,Yes,Snapdragon  662,Octa Core,2.0,4,64,6000,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,4,1,8.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+796,Samsung,Samsung Galaxy S21 Plus,59450,88.0,Yes,Yes,Yes,No,Exynos 2100,Octa Core,2.9,8,128,4800,True,25.0,6.7,1080 x 2400 px,120,Punch Hole,3,1,10.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+797,Poco,Poco M2 Pro,12799,76.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,4,64,5000,True,33.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+798,Samsung,Samsung Galaxy S20 Plus,83000,88.0,Yes,No,Yes,No,Exynos 990,Octa Core,2.73,8,128,4500,True,25.0,6.7,1440 x 3200 px,120,Punch Hole,4,1,10.0,64.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+799,Realme,Realme 6 Pro,14490,80.0,Yes,No,No,No,Snapdragon 720G,Octa Core,2.3,6,64,4300,True,30.0,6.6,1080 x 2400 px,90,Dual Punch Hole,4,2,16.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+800,Huawei,Huawei P40 Pro,82990,,Yes,Yes,Yes,No,Kirin 990,Octa Core,2.86,8,256,4200,True,40.0,6.58,1200 x 2640 px,90,Dual Punch Hole,4,2,32.0,50.0,Memory Card (Hybrid),256 GB,Android,Yes,Yes,No
+801,Vivo,Vivo Y11 (2019),9490,64.0,Yes,No,No,No,Snapdragon 439,Octa Core,2.0,3,32,5000,False,,6.35,720 x 1544 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+802,Vivo,Vivo V15 Pro (8Gb Ram +128Gb),25000,78.0,Yes,No,No,No,Snapdragon 675,Octa Core,2.0,8,128,3700,True,,6.39,1080 x 2316 px ,60,Not Available,3,1,32.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+803,Vivo,Vivo Y95,15000,65.0,Yes,No,No,No,Snapdragon 439,Octa Core,1.95,4,64,4030,False,,6.22,1520 x 720 px ,60,Water Drop,2,1,20.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+804,Vivo,Vivo V11I,20990,70.0,Yes,No,No,No,Helio P60,Octa Core,2.0,4,128,3315,False,,6.3,1080 x 2280 px ,60,Not Available,2,1,25.0,16.0,Memory Card Supported,256 GB,Android,No,No,No
+805,Samsung,Samsung Galaxy S9 Plus (128Gb),34999,78.0,Yes,No,Yes,No,Exynos 9810,Octa Core,2.8,6,128,3500,True,,6.2,1440 x 2960 px ,60,Not Available,2,1,8.0,12.0,Memory Card (Hybrid),512 GB,Android,No,Yes,No
+806,Realme,Realme Gt Neo 4T,29999,80.0,Yes,Yes,No,No,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000,True,120.0,6.73,1080 x 2400 px,144,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+807,Vivo,Vivo Y53T,11999,67.0,Yes,Yes,No,No,Dimensity 700,Octa Core,2.0,4,128,6000,True,15.0,6.51,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Not Supported,,Android,Yes,No,No
+808,Samsung,Samsung Galaxy A04 (4Gb Ram + 128Gb),12999,72.0,Yes,No,No,No,Helio P35,Octa Core,2.3,4,128,5000,True,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+809,Leitz,Leitz Phone 2,124990,89.0,Yes,Yes,Yes,No,Snapdragon  8 Gen1,Octa Core,3.0,12,256,5000,True,,6.6,1260 x 2730 px,240,Punch Hole,2,1,12.6,47.2,Memory Card Supported,1 TB,Android,Yes,Yes,No
+810,Xiaomi,Xiaomi Redmi K60I,28999,85.0,Yes,Yes,No,Yes,Dimensity  8200,Octa Core,3.1,8,128,5080,True,120.0,6.67,1080 x 2460 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,No,Yes
+811,Infinix,Infinix Hot 20S,12999,77.0,Yes,No,No,No,Helio G96,Octa Core,2.05,8,128,5000,True,18.0,6.78,1080 x 2460 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+812,Realme,Realme Gt Neo 3T (8Gb Ram + 256Gb),28499,82.0,Yes,Yes,No,No,Snapdragon 870,Octa Core,3.2,8,256,5000,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+813,Apple,Apple Iphone 14 Plus (512Gb),104999,83.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,512,4325,True,,6.7,1284 x 2778 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+814,Apple,Apple Iphone 14 Pro (1Tb),172999,77.0,Yes,Yes,Yes,No,Bionic  A16,Hexa Core,,6,1024,3200,True,,6.1,1179 x 2556 px,120,Not Available,3,1,12.0,48.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+815,Xiaomi,Xiaomi Redmi 13 Prime 5G,17990,79.0,Yes,Yes,No,Yes,Snapdragon 4 Gen 1,Octa Core,2.0,6,128,5100,True,18.0,6.73,1080 x 2408 px,120,Punch Hole,2,1,16.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,Yes
+816,Xiaomi,Xiaomi Redmi 11 Prime (6Gb Ram + 128Gb),13774,76.0,Yes,No,No,Yes,Helio G99,Octa Core,2.2,6,128,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+818,Nokia,Nokia C21 Plus (4Gb Ram + 64Gb),8999,64.0,Yes,No,No,No,Unisoc  SC9863A,Octa Core,1.6,4,64,5050,False,,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+819,Oneplus,Oneplus Nord N300,18990,75.0,Yes,Yes,Yes,No,Dimensity 810 5G,Octa Core,2.4,4,64,5000,True,33.0,6.56,720 x 1612 px,90,Water Drop,2,1,16.0,48.0,Memory Card Supported,,Android,Yes,Yes,No
+820,Tecno,Tecno Camon 19 Neo,14999,77.0,Yes,No,Yes,No,Helio  G85,Octa Core,2.0,6,128,5000,True,18.0,6.8,1080 x 2400 px,90,Punch Hole,3,1,32.0,48.0,Memory Card Not Supported,,Android,No,Yes,No
+821,Realme,Realme Narzo 50I Prime,7999,61.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,3,32,5000,True,10.0,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+822,Xiaomi,Xiaomi Redmi K50 Ultra 5G,39999,85.0,Yes,Yes,Yes,Yes,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000,True,120.0,6.67,1220 x 2712 px,144,Punch Hole,3,1,20.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+823,Oppo,Oppo A57 4G,11990,67.0,Yes,No,No,No,Helio G35,Octa Core,2.3,3,64,5000,True,33.0,6.56,720 x 1612 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+824,Infinix,Infinix Note 12 (6Gb Ram + 128Gb),12999,77.0,Yes,No,No,No,Helio G88,Octa Core,2.0,6,128,5000,True,33.0,6.7,2400 x 1080 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+825,Samsung,Samsung Galaxy S23 Fe 5G,54999,77.0,Yes,Yes,Yes,No,,Octa Core,,8,128,4500,True,,6.5,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+826,Samsung,Samsung Galaxy M51S 5G,24990,72.0,Yes,Yes,No,No,,Octa Core,,6,128,6000,True,,6.7,1080 x 2400 px ,60,Punch Hole,3,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+827,Vivo,Vivo X80 5G (12Gb Ram + 256Gb),59999,88.0,Yes,Yes,No,No,Dimensity  9000,Octa Core,3.05,12,256,4500,True,80.0,6.78,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+828,Poco,Poco X6 Pro 5G,19999,72.0,Yes,Yes,No,No,Snapdragon 778G+,Octa Core,,6,128,5000,True,,6.67,1080 x 2400 px,120,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+829,Infinix,Infinix Note 12 (G96),16999,79.0,Yes,No,No,No,Helio G96,Octa Core,2.05,8,128,5000,True,33.0,6.7,1080 x 2400 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,,Android,No,No,No
+830,Samsung,Samsung Galaxy M14,14999,60.0,Yes,No,No,No,Exynos 1330,Octa Core,,4,64,6000,False,,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,48.0,Memory Card Supported,512 GB,Android,No,No,No
+831,Vivo,Vivo T2 Pro 5G,29990,76.0,Yes,Yes,No,No,Snapdragon  778G+,Octa Core,,8,128,4500,True,67.0,6.44,1080 x 2408 px,90,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+832,Xiaomi,Xiaomi Redmi 10 Prime Plus 5G,13990,69.0,Yes,Yes,No,Yes,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2408 px,90,Punch Hole,2,1,5.0,50.0,Memory Card Not Supported,,Android,Yes,No,Yes
+833,Xiaomi,Xiaomi Redmi Note 11 Pro 4G,17999,81.0,Yes,No,No,Yes,Helio  G96,Octa Core,2.05,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,4,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,No,No,Yes
+834,Realme,Realme Narzo 50A Prime,11399,73.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,4,64,5000,True,18.0,6.6,1080 x 2408 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+836,Vivo,Vivo Y55S 5G,19990,79.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,8,128,6000,True,18.0,6.58,1080 x 2408 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+837,Vivo,Vivo Y21T,15499,74.0,Yes,No,No,No,Snapdragon 680,Octa Core,2.4,4,128,5000,True,18.0,6.51,1600 x 720 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+838,Gionee,Gionee K10,6999,,Yes,No,No,No,Tiger  T310,Quad Core,2.0,3,32,4800,False,,6.8,720 x 1600 px ,60,Punch Hole,1,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+839,Xiaomi,Xiaomi Redmi Note 10 Lite (4Gb Ram + 128Gb),12499,77.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,4,128,5020,True,18.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+840,Apple,Apple Iphone 13 (512Gb),91999,80.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,4,512,3240,True,,6.1,1170 x 2532 px ,60,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+841,Infinix,Infinix Hot 11S,9690,71.0,Yes,No,No,No,Helio G88,Octa Core,2.0,4,64,5000,False,,6.78,1080 x 2480 px,90,Punch Hole,3,1,8.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+842,Realme,Realme Gt Explorer Master Edition,32990,85.0,Yes,Yes,Yes,No,Snapdragon  870,Octa Core,3.2,8,128,4500,True,65.0,6.55,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+843,Xiaomi,Xiaomi Mi 12 5G,42990,87.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen1,Octa Core,3.0,8,128,4500,True,67.0,6.28,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+844,Cat,Cat S22 Flip,14999,,No,No,No,No,Qualcomm 215,Quad Core,1.3,2,16,2000,False,,4.0,480 x 640 px ,60,Not Available,1,1,2.0,5.0,Memory Card Supported,128 GB,,No,No,No
+845,Xiaomi,Xiaomi Mi 11 Lite (8Gb Ram + 128Gb),18699,82.0,Yes,No,No,Yes,Snapdragon 732G,Octa Core,2.3,8,128,4250,True,33.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),512 GB,Android,No,No,Yes
+847,Realme,Realme Q3I 5G,10990,76.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.5,1080 x 2400 px ,60,Punch Hole,3,1,16.0,48.0,Memory Card Supported,,Android,Yes,No,No
+848,Xiaomi,Xiaomi Mi 11X Pro,30990,85.0,Yes,Yes,No,Yes,Snapdragon 888,Octa Core,2.84,8,128,4520,True,33.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,20.0,108.0,Memory Card Not Supported,,Android,Yes,No,Yes
+849,Lenovo,Lenovo Legion Pro 2,59999,89.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,16,512,5000,True,120.0,6.5,1080 x 2400 px,144,Not Available,2,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+850,Samsung,Samsung Galaxy M62,23999,83.0,Yes,No,Yes,No,Exynos 9825,Octa Core,2.73,6,128,7000,True,,6.71,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Supported,1 TB,Android,No,Yes,No
+851,Realme,Realme Q2I,9999,69.0,Yes,Yes,No,No,Dimensity 720,Octa Core,2.0,4,128,5000,True,18.0,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Not Supported,,Android,Yes,No,No
+853,Apple,Apple Iphone 12 Pro (256Gb),119900,80.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,6,256,2815,False,,6.1,1170 x 2532 px ,60,Large Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+854,Xiaomi,Xiaomi Redmi 9I (4Gb Ram + 128Gb),9299,67.0,Yes,No,No,No,Helio G25,Octa Core,2.0,4,128,5000,True,10.0,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+855,Realme,Realme 6 (6Gb Ram + 64Gb),12989,77.0,Yes,No,No,No,Helio   G90T,Octa Core,2.05,6,64,4300,True,30.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,16.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+858,Oppo,Oppo Reno 5,29990,83.0,Yes,Yes,No,No,Snapdragon  765G,Octa Core,2.4,8,128,4300,True,65.0,6.43,1080 x 2400 px ,60,Punch Hole,4,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+859,Oppo,Oppo A31 2020 (6Gb Ram + 128Gb),12490,72.0,Yes,No,No,No,Helio P35,Octa Core,2.3,6,128,4230,False,,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,12.0,Memory Card Supported,256 GB,Android,No,No,No
+860,Sony,Sony Xperia 10 Ii,27999,75.0,Yes,No,Yes,No,Snapdragon  665,Octa Core,2.0,4,128,3600,True,18.0,6.0,1080 x 2520 px,90,Not Available,3,1,8.0,12.0,Memory Card (Hybrid),,Android,No,Yes,No
+861,Vivo,Vivo Y91C,8199,,Yes,No,No,No,Helio P22,Octa Core,2.0,2,32,4030,False,,6.22,720 x 1520 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+862,Huawei,Huawei Nova 7I,21990,81.0,Yes,No,No,No,Kirin  810,Octa Core,2.2,8,128,4200,True,40.0,6.4,1080 x 2340 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card (Hybrid),256 GB,Android,No,No,No
+863,Vivo,Vivo Y19,20000,73.0,Yes,No,No,No,Helio  P65,Octa Core,2.0,4,128,5000,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,3,1,16.0,16.0,Memory Card Supported,256 GB,Android,No,No,No
+864,Vivo,Vivo U3 (6Gb Ram + 64Gb),11990,74.0,Yes,No,No,No,Snapdragon  675,Octa Core,2.0,6,64,5000,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,3,1,16.0,16.0,Memory Card Supported,256 GB,Android,No,No,No
+865,Xiaomi,Xiaomi Redmi Note 9,11989,75.0,Yes,No,No,Yes,Helio G85,Octa Core,2.0,4,64,5020,True,22.5,6.53,1080 x 2340 px ,60,Punch Hole,4,1,13.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+866,Xiaomi,Xiaomi Redmi 8 (4Gb Ram + 64Gb),11490,66.0,Yes,No,No,Yes,Snapdragon 439,Octa Core,2.0,4,64,5000,True,18.0,6.22,720 x 1520 px ,60,Water Drop,2,1,8.0,12.0,Memory Card Supported,512 GB,Android,No,No,Yes
+867,Motorola,Motorola One Macro,11490,68.0,Yes,No,No,No,Helio P70,Octa Core,2.0,4,64,4000,True,10.0,6.2,720 x 1520 px ,60,Water Drop,3,1,8.0,13.0,Memory Card (Hybrid),512 GB,Android,No,No,No
+868,Google,Google Pixel 3A Xl,15999,67.0,No,No,Yes,No,Qualcomm Snapdragon 670,Octa Core,2.0,4,64,3700,True,18.0,6.0,1080 x 2160 px ,60,Not Available,1,1,8.0,12.2,Memory Card Not Supported,,Android,No,Yes,No
+869,Samsung,Samsung Galaxy A40,17990,69.0,Yes,No,No,No,Samsung Exynos 7885,Octa Core,2.2,4,64,3100,True,15.0,5.9,1080 x 2340 px ,60,Water Drop,2,1,25.0,16.0,Memory Card Supported,512 GB,Android,No,No,No
+870,Samsung,Samsung Galaxy S10 5G,78990,86.0,No,Yes,Yes,No,Exynos 9820,Octa Core,2.7,8,256,4500,True,25.0,6.7,1440 x 3040 px ,60,Not Available,3,1,10.0,16.0,Memory Card (Hybrid),512 GB,Android,Yes,Yes,No
+871,Huawei,Huawei Honor 9N,10949,66.0,Yes,No,No,No,Kirin 659,Octa Core,2.36,4,64,3000,False,,5.84,1080 x 2280 px ,60,Small Notch,2,1,16.0,13.0,Memory Card (Hybrid),256 GB,Android,No,No,No
+872,Xiaomi,Xiaomi Redmi Note 4,10300,65.0,Yes,No,No,No,Qualcomm Snapdragon 625,Octa Core,2.0,4,64,4100,False,,5.5,1080 x 1920 px ,60,Not Available,1,1,5.0,13.0,Memory Card (Hybrid),128 GB,Android,No,No,No
+874,Doogee,Doogee V Max,45999,88.0,Yes,Yes,No,No,Dimensity 1080,Octa Core,2.6,12,256,22000,True,33.0,6.58,1080 x 2408 px,120,Water Drop,3,1,32.0,108.0,Memory Card (Hybrid),2 TB,Android,Yes,No,No
+875,Huawei,Huawei Nova Y61,21990,63.0,Yes,No,No,No,,Octa Core,,4,64,5000,True,22.5,6.52,720 x 1600 px ,60,Water Drop,3,1,5.0,50.0,Memory Card (Hybrid),,EMUI,No,No,No
+876,Iqoo,Iqoo Z9,19990,76.0,Yes,Yes,No,No,Snapdragon  7 Gen2,Octa Core,,8,128,5000,True,45.0,6.67,1080 x 2412 px,120,Water Drop,3,1,16.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+877,Vivo,Vivo V29,32990,84.0,Yes,Yes,No,No,Snapdragon  7 Gen1,Octa Core,2.4,8,256,5000,True,80.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,32.0,64.0,Memory Card Supported,,Android,Yes,No,No
+878,Poco,Poco M5 (6Gb Ram + 128Gb),14499,77.0,Yes,No,No,Yes,Helio G99,Octa Core,2.2,6,128,5000,True,18.0,6.58,1080 x 2400 px,90,Water Drop,3,1,8.0,50.0,Memory Card Supported,512 GB,Android,No,No,Yes
+879,Nokia,Nokia X30,41990,85.0,Yes,Yes,Yes,No,Snapdragon  695,Octa Core,2.2,6,128,4200,True,33.0,6.43,1080 x 2400 px,90,Punch Hole,2,1,16.0,50.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+880,Tecno,Tecno Pova Neo 2,13990,67.0,Yes,No,No,No,Helio G85,Octa Core,2.0,6,128,7000,False,,6.82,720 x 1600 px,90,Water Drop,2,1,8.0,16.0,Memory Card Supported,512 GB,Android,No,No,No
+883,Vivo,Vivo Y15C (3Gb Ram + 64Gb),10490,67.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,64,5000,False,,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,1 TB,Android,No,No,No
+884,Huawei,Huawei Nova 10,29990,82.0,Yes,No,No,No,Snapdragon 778G,Octa Core,2.4,8,128,4000,True,66.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,60.0,50.0,Memory Card Not Supported,,HarmonyOS,No,No,No
+885,Huawei,Huawei Nova Y90,22990,82.0,Yes,No,Yes,No,Snapdragon  680,Octa Core,2.4,8,128,5000,True,40.0,6.7,1080 x 2388 px,90,Punch Hole,4,1,8.0,50.0,Memory Card Supported,,EMUI,No,Yes,No
+886,Samsung,Samsung Galaxy A92 5G,47990,80.0,Yes,Yes,No,No,Dimensity 1300,Octa Core,3.0,8,128,5000,True,,6.7,1080 x 2400 px ,60,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,No,No
+887,Infinix,Infinix Note 12 Vip,19999,84.0,Yes,No,No,No,Helio  G96,Octa Core,2.05,8,128,4500,True,120.0,6.7,1080 x 2400 px,120,Punch Hole,3,1,16.0,108.0,Memory Card Supported,256 GB,Android,No,No,No
+888,Oneplus,Oneplus Nord 4 5G,29999,83.0,Yes,Yes,Yes,No,Snapdragon  7 Gen1,Octa Core,2.36,8,128,4500,True,80.0,6.43,1080 x 2412 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+889,Realme,Realme Narzo 50A Prime (4Gb Ram + 128Gb),11879,74.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,4,128,5000,True,18.0,6.6,1080 x 2408 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,1 TB,Android,No,No,No
+890,Oneplus,Oneplus Ace 5G,28990,84.0,Yes,Yes,Yes,No,Dimensity 8100 Max,Octa Core,2.85,8,128,4500,True,150.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+891,Iqoo,Iqoo 9 5G (12Gb Ram + 256Gb),39990,85.0,Yes,Yes,No,No,Snapdragon  888+,Octa Core,2.9,12,256,4350,True,120.0,6.56,1080 x 2376 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,No,No
+892,Xiaomi,Xiaomi Redmi Note 12T 5G,15999,78.0,Yes,Yes,No,Yes,Dimensity 720,Octa Core,2.0,6,64,5000,True,33.0,6.52,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Supported,512 GB,Android,Yes,No,Yes
+893,Oppo,Oppo A96 5G,22990,82.0,Yes,Yes,No,No,Snapdragon 695,Octa Core,2.2,8,256,4500,True,33.0,6.43,1080 x 2400 px ,60,Punch Hole,2,1,16.0,48.0,Memory Card Supported,,Android,Yes,No,No
+894,Royole,Royole Flexpai 3 5G,149999,87.0,Yes,Yes,No,No,Snapdragon 888,Octa Core,2.84,8,128,3360,False,,7.2,1440 x 1920 px ,60,Not Available,3,1,32.0,64.0,Memory Card Supported,256 GB,,Yes,No,No
+895,Tecno,Tecno Camon 18,11499,75.0,Yes,No,Yes,No,Helio  G88,Octa Core,2.0,4,128,5000,True,18.0,6.8,1080 x 2460 px,90,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,No,Yes,No
+896,Tecno,Tecno Phantom X Pro,22999,84.0,Yes,No,No,No,Helio G95,Octa Core,2.05,8,256,5000,True,44.0,6.7,1080 x 2400 px,120,Punch Hole,4,2,48.0,50.0,Memory Card Not Supported,,Android,No,No,No
+897,Tecno,Tecno Spark 8T,7999,70.0,Yes,No,No,No,Helio G35,Octa Core,2.3,4,64,5000,False,,6.6,720 x 1600 px ,60,Water Drop,2,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+898,Realme,Realme Gt Neo2 5G,31999,82.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,8,128,5000,True,65.0,6.62,2400 x 1080 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+899,Sony,Sony Xperia 10 Iii Lite 5G,30990,78.0,No,Yes,Yes,No,Snapdragon  690,Octa Core,2.0,6,64,4500,True,30.0,6.0,1080 x 2520 px ,60,Not Available,3,1,8.0,12.0,Memory Card Supported,,Android,Yes,Yes,No
+900,Realme,Realme G1,7999,64.0,Yes,No,No,No,Helio G35,Octa Core,2.3,3,32,6000,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+901,Tecno,Tecno Pova 2,10999,74.0,Yes,No,No,No,Helio G85,Octa Core,2.0,4,64,7000,True,18.0,6.95,1080 x 2460 px ,60,Punch Hole,4,1,8.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+902,Poco,Poco X4,14990,79.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,1 TB,Android,Yes,No,No
+903,Motorola,Motorola Moto G40 Fusion,14499,77.0,Yes,No,No,No,Snapdragon  732G,Octa Core,2.3,4,64,6000,True,20.0,6.78,1080 x 2460 px,120,Punch Hole,3,1,16.0,64.0,Memory Card (Hybrid),256 GB,Android,No,No,No
+904,Oneplus,Oneplus 9T,44999,86.0,Yes,Yes,Yes,No,Snapdragon 888,Octa Core,2.84,8,128,4500,True,65.0,6.55,1080 x 2400 px,120,Punch Hole,4,1,16.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+905,Realme,Realme 8 (8Gb Ram + 128Gb),17999,83.0,Yes,No,No,No,Helio G95,Octa Core,2.0,8,128,5000,True,30.0,6.4,1080 x 2400 px ,60,Punch Hole,4,1,16.0,64.0,Memory Card Supported,256 GB,Android,No,No,No
+906,Realme,Realme Narzo 30 Pro 5G (8Gb Ram +128Gb),19999,83.0,Yes,Yes,No,No,Dimensity 800U,Octa Core,2.4,8,128,5000,True,30.0,6.5,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card (Hybrid),256 GB,Android,Yes,No,No
+907,Itel,Itel A23 Pro,3999,,Yes,No,No,No,Spreadtrum  SC9832E,Quad Core,1.4,1,8,2400,False,,5.0,854 x 480 px ,60,Not Available,1,1,2.0,5.0,Memory Card Not Supported,,Android,No,No,No
+908,Samsung,Samsung Galaxy S21 Ultra 5G (12Gb Ram + 128Gb),101999,,Yes,Yes,Yes,No,Exynos  2100,Octa Core,2.9,12,128,5000,True,25.0,6.8,1440 x 3200 px,120,Punch Hole,4,1,40.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+909,Oppo,Oppo Reno 5 Pro 5G,38700,84.0,Yes,Yes,No,No,Dimensity 1000+,Octa Core,2.6,8,128,4350,True,65.0,6.53,1080 x 2400 px,90,Punch Hole,4,1,32.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+910,Oneplus,Oneplus Nord Se,19999,73.0,Yes,No,No,No,Snapdragon 665,Octa Core,2.0,4,64,4500,True,65.0,6.3,1080 x 2400 px ,60,Punch Hole,4,1,13.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+911,Samsung,Samsung Galaxy M12,10999,72.0,Yes,No,No,No,Exynos  850,Octa Core,2.0,4,64,6000,True,15.0,6.5,720 x 1600 px,90,Water Drop,4,1,8.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+912,Oneplus,Oneplus Nord N100,16990,68.0,Yes,No,No,No,Snapdragon 460,Octa Core,1.8,4,64,5000,True,18.0,6.52,720 x 1600 px,90,Punch Hole,3,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+913,Apple,Apple Iphone 12 Mini (256Gb),55999,75.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,4,256,2227,False,,5.4,1080 x 2340 px ,60,Not Available,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+914,Apple,Apple Iphone 12 (256Gb),67999,76.0,Yes,Yes,Yes,No,Bionic A14,Hexa Core,3.1,4,256,2815,False,,6.1,1170 x 2532 px ,60,Large Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+915,Oppo,Oppo A15,9999,66.0,Yes,No,No,No,Helio P35,Octa Core,2.3,3,32,4230,False,,6.52,720 x 1600 px ,60,Water Drop,3,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+916,Xiaomi,Xiaomi Redmi Note 9 Pro (4Gb Ram + 128Gb),14439,77.0,Yes,No,No,Yes,Snapdragon 720G,Octa Core,2.3,4,128,5020,True,18.0,6.67,1080 x 2400 px ,60,Punch Hole,4,1,16.0,48.0,Memory Card Supported,512 GB,Android,No,No,Yes
+918,Oppo,Oppo A12,9990,64.0,Yes,No,No,No,Helio P35,Octa Core,1.8,3,32,4230,False,,6.22,1520 x 720 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+919,Realme,Realme X50 Pro 5G (8Gb Ram + 128Gb),24999,85.0,Yes,Yes,Yes,No,Snapdragon 865,Octa Core,2.84,8,128,4200,True,65.0,6.44,1080 x 2400 px,90,Dual Punch Hole,4,2,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+920,Samsung,Samsung Galaxy S20 Plus 5G,85990,,Yes,Yes,Yes,No,Exynos 990,Octa Core,2.73,8,128,4500,True,25.0,6.7,1440 x 3200 px ,60,Punch Hole,4,1,10.0,64.0,Memory Card (Hybrid),1 TB,Android,Yes,Yes,No
+921,Xiaomi,Xiaomi Redmi K20 Pro Signature Edition,480000,88.0,Yes,No,Yes,No,Snapdragon  855,Octa Core,2.8,8,256,4000,True,27.0,6.39,1080 x 2340 px ,60,Not Available,3,1,20.0,48.0,Memory Card Not Supported,,Android,No,Yes,No
+922,Xiaomi,Xiaomi Redmi Note 8 Pro,16999,78.0,Yes,No,No,Yes,Helio  G90T,Octa Core,2.05,6,64,4500,True,18.0,6.53,1080 x 2340 px ,60,Water Drop,4,1,20.0,64.0,Memory Card Supported,512 GB,Android,No,No,Yes
+923,Realme,Realme A1,8999,,Yes,No,No,No,Helio P70,Octa Core,2.1,2,16,4000,False,,6.2,720 x 1520 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+924,Oppo,Oppo A73,15990,62.0,Yes,No,No,No,Helio P23,Octa Core,2.5,3,32,3200,False,,6.0,1080 x 2160 px ,60,Not Available,1,1,16.0,13.0,Memory Card Supported,,Android,No,No,No
+926,Lyf,Lyf Earth 2,3890,,Yes,No,No,No,Snapdragon MSM8939,Octa Core,1.5,3,32,2500,False,,5.0,1080 x 1920 px ,60,Not Available,1,1,13.0,13.0,Memory Card (Hybrid),64 GB,Android,No,No,No
+928,Apple,Apple Iphone 15 Plus,84990,75.0,Yes,Yes,Yes,No,Bionic A16,Hexa Core,,8,128,4532,True,,6.71,1284 x 2778 px,120,Small Notch,2,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+929,Vivo,Vivo Y55S 2023,21999,78.0,Yes,Yes,Yes,No,Dimensity 700 5G,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2408 px ,60,Water Drop,3,1,8.0,50.0,Memory Card Supported,,Android,Yes,Yes,No
+931,Lava,Lava Blaze Nxt,8999,66.0,Yes,No,No,No,Helio G37,Octa Core,2.3,4,64,5000,False,,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+933,Tecno,Tecno Camon 20 Premier,20999,79.0,Yes,Yes,Yes,No,Dimensity  700 5G,Octa Core,2.2,6,128,5000,True,33.0,6.83,1080 x 2460 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+934,Oppo,Oppo Reno 8 House Of Dragon Edition,32990,84.0,Yes,Yes,Yes,No,Dimensity 1300,Octa Core,3.0,8,128,4500,True,80.0,6.43,1080 x 2400 px,90,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+935,Motorola,Motorola Moto E22S,9022,70.0,Yes,No,No,No,Helio G37,Octa Core,2.3,4,64,5000,True,10.0,6.5,720 x 1600 px,90,Punch Hole,2,1,8.0,16.0,Memory Card Supported,,Android,No,No,No
+936,Xiaomi,Xiaomi Redmi A1 Plus (3Gb Ram + 32Gb),8399,61.0,Yes,No,No,No,Helio A22,Quad Core,2.0,3,32,5000,True,10.0,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,512 GB,Android,No,No,No
+937,Infinix,Infinix Hot 20I,9999,64.0,Yes,No,No,No,Helio G25,Octa Core,2.0,3,64,5000,False,,6.6,720 x 1612 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+938,Tecno,Tecno Spark 9 (3Gb Ram + 64Gb),8390,63.0,Yes,No,No,No,Helio G37,Octa Core,2.3,3,64,5000,False,,6.6,720 x 1600 px,90,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+939,Zte,Zte Axon 30S,19999,82.0,Yes,Yes,Yes,No,Snapdragon 870,Octa Core,3.2,6,128,4200,True,55.0,6.9,1080 x 2460 px,120,Not Available,4,1,16.0,50.0,Memory Card (Hybrid),,Android,Yes,Yes,No
+940,Honor,Honor X6,13999,71.0,Yes,No,No,No,Helio G25,Octa Core,2.0,4,64,5000,True,10.0,6.5,720 x 1600 px ,60,Water Drop,3,1,5.0,50.0,Memory Card (Hybrid),,Android,No,No,No
+941,Xiaomi,Xiaomi Civi 2,29999,85.0,Yes,Yes,Yes,Yes,Snapdragon 7 Gen1,Octa Core,2.4,8,128,4500,True,67.0,6.55,1080 x 2400 px,120,Punch Hole,3,2,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+942,Tcl,Tcl Ion X,8990,60.0,Yes,No,No,No,Helio G25,Octa Core,2.0,3,32,3000,True,10.0,6.0,720 x 1440 px ,60,Not Available,1,1,5.0,13.0,Memory Card (Hybrid),,Android,No,No,No
+943,Samsung,Samsung Galaxy Z Fold 4 (12Gb Ram + 1Tb),163980,,Yes,Yes,Yes,No,Snapdragon  8+ Gen1,Octa Core,3.2,12,1024,4400,True,25.0,7.6,1812 x 2176 px,120,Punch Hole,3,2,10.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+944,Nothing,Nothing Phone 1 Lite,24990,80.0,Yes,Yes,Yes,No,Snapdragon 778G Plus,Octa Core,2.5,6,128,5000,True,33.0,6.55,1080 x 2400 px,120,Punch Hole,2,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+945,Motorola,Motorola Moto Edge X30 Pro,59990,,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4450,True,125.0,6.67,1080 x 2340 px,144,Punch Hole,3,1,60.0,200.0,Memory Card Not Supported,,Android,Yes,Yes,No
+946,Oneplus,Oneplus Ace Pro,47990,86.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,12,256,4800,True,150.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+947,Realme,Realme Gt 2 Explorer Master Edition,40990,86.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000,True,100.0,6.7,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+948,Samsung,Samsung Galaxy M35,22999,74.0,Yes,No,Yes,No,,Octa Core,,8,128,6000,True,,6.5,1080 x 2400 px ,60,Water Drop,3,1,32.0,64.0,Memory Card Supported,1 TB,Android,No,Yes,No
+949,Samsung,Samsung Galaxy A05,12990,63.0,Yes,No,No,No,,Octa Core,,4,64,5000,True,18.0,6.5,720 x 1560 px ,60,Water Drop,2,1,5.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+950,Infinix,Infinix Note 12 Turbo,14999,79.0,Yes,No,No,No,Helio G96,Octa Core,2.0,8,128,5000,True,33.0,6.7,2400 x 1080 px ,60,Punch Hole,3,1,16.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+951,Poco,Poco F5 Gt 5G,42999,86.0,Yes,Yes,Yes,Yes,Dimensity 1300,Octa Core,3.0,8,128,4500,True,150.0,6.67,1080 x 2412 px,120,Punch Hole,3,1,20.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+952,Iqoo,Iqoo Z8 5G,14999,78.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,4,128,5000,True,18.0,6.58,1080 x 2412 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,Yes,No,No
+953,Vivo,Vivo Y55 4G,22990,83.0,Yes,No,No,No,Snapdragon  680,Octa Core,2.4,8,128,5000,True,44.0,6.44,1080 x 2400 px,120,Water Drop,3,1,16.0,50.0,Memory Card (Hybrid),1 TB,Android,No,No,No
+954,Vivo,Vivo X Fold 5G (12Gb Ram + 512Gb),118990,,Yes,Yes,Yes,No,Snapdragon 8 Gen1,Octa Core,3.0,12,512,4600,True,66.0,8.03,1916 x 2160 px,120,Not Available,4,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+955,Oppo,Oppo K10 Pro 5G,29990,81.0,Yes,Yes,No,No,Snapdragon 888,Octa Core,2.84,8,128,5000,True,80.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+956,Tecno,Tecno Spark 8C,7399,62.0,Yes,No,No,No,Unisoc  T606,Octa Core,2.0,3,64,5000,False,,6.6,720 x 1612 px,90,Water Drop,2,1,8.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+957,Iqoo,Iqoo Z7 5G,17999,80.0,Yes,Yes,No,No,Snapdragon  695,Octa Core,2.2,8,128,4200,True,55.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Not Supported,,Android,Yes,No,No
+958,Infinix,Infinix Note 11 (6Gb Ram + 128Gb),12799,77.0,Yes,No,No,No,Helio G88,Octa Core,2.0,6,128,5000,True,33.0,6.7,1080 x 2400 px ,60,Water Drop,3,1,16.0,50.0,Memory Card Supported,,Android,No,No,No
+959,Xiaomi,Xiaomi 11I Hypercharge 5G (8Gb Ram + 128Gb),26999,86.0,Yes,Yes,No,Yes,Dimensity  920 5G,Octa Core,2.5,8,128,4500,True,120.0,6.67,2400 x 1080 px,120,Punch Hole,3,1,16.0,108.0,Memory Card (Hybrid),1 TB,Android,Yes,No,Yes
+960,Samsung,Samsung Galaxy F42 5G (8Gb Ram + 128Gb),22999,82.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,8,128,5000,True,15.0,6.6,1080 x 2408 px,90,Water Drop,3,1,8.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+961,Apple,Apple Iphone 13 Pro (1Tb),147900,84.0,Yes,Yes,Yes,No,Bionic A15,Hexa Core,3.22,6,1024,3095,True,,6.1,1170 x 2532 px,120,Large Notch,3,1,12.0,12.0,Memory Card Not Supported,,iOS,Yes,Yes,No
+962,Nubia,Nubia Red Magic 6S 5G,44999,84.0,Yes,Yes,Yes,No,Snapdragon 888+,Octa Core,2.9,8,128,5050,True,30.0,6.8,1080 x 2400 px,165,Not Available,3,1,8.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+963,Micromax,Micromax In 2B (6Gb Ram + 64Gb),7790,68.0,Yes,No,No,No,Unisoc  T610,Octa Core,1.8,6,64,5000,False,,6.52,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+964,Nokia,Nokia X60 5G,39990,87.0,Yes,Yes,No,No,Snapdragon  870,Octa Core,3.2,6,128,6000,True,33.0,6.51,1080 x 2400 px,144,Punch Hole,4,1,16.0,200.0,Memory Card Supported,,Harmony,Yes,No,No
+965,Vivo,Vivo Y12A,9999,65.0,Yes,No,No,No,Snapdragon  439,Octa Core,2.0,3,32,5000,False,,6.51,720 x 1600 px ,60,Water Drop,2,1,8.0,13.0,Memory Card Supported,,Android,No,No,No
+966,Oppo,Oppo Reno 5A,22990,80.0,Yes,Yes,No,No,Snapdragon 765G,Octa Core,2.4,6,128,4000,True,18.0,6.5,1080 x 2400 px,90,Punch Hole,4,1,16.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
+967,Poco,Poco F3 Gt,32999,79.0,Yes,Yes,No,Yes,Dimensity 1200,Octa Core,3.0,6,128,5065,True,67.0,6.67,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,Yes
+968,Honor,Honor 50,32990,85.0,Yes,Yes,Yes,No,Snapdragon 778G,Octa Core,2.4,6,128,4300,True,66.0,6.57,1080 x 2340 px,120,Punch Hole,4,1,32.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,No
+969,Oppo,Oppo A54 (6Gb Ram + 128Gb),14999,74.0,Yes,No,No,No,Helio P35,Octa Core,2.3,6,128,5000,True,,6.51,1600 x 720 px ,60,Punch Hole,3,1,16.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+970,Realme,Realme 8I,12499,74.0,Yes,No,No,No,Helio G96,Octa Core,2.05,4,64,5000,True,18.0,6.6,1080 x 2412 px,120,Punch Hole,3,1,16.0,50.0,Memory Card Supported,256 GB,Android,No,No,No
+971,Iqoo,Iqoo 7 Legend,39990,84.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,8,128,4000,True,66.0,6.62,1080 x 2400 px,120,Punch Hole,3,1,16.0,48.0,Memory Card Not Supported,,Android,Yes,Yes,No
+972,Realme,Realme C11 2021,6499,61.0,Yes,No,No,No,SC9863A,Octa Core,1.6,2,32,5000,False,,6.52,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,,Android,No,No,No
+973,Samsung,Samsung Galaxy A22,18499,76.0,Yes,No,No,No,Helio G80,Octa Core,2.0,6,128,5000,True,15.0,6.4,720 x 1600 px ,60,Water Drop,4,1,13.0,48.0,Memory Card Supported,1 TB,Android,No,No,No
+974,Realme,Realme Gt 5G,30994,85.0,Yes,Yes,Yes,No,Snapdragon  888,Octa Core,2.84,8,128,4500,True,65.0,6.43,1080 x 2400 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,No
+975,Google,Google Pixel 5A,32999,78.0,No,Yes,Yes,No,Snapdragon 765G,Octa Core,2.4,6,128,4620,True,18.0,6.34,1080 x 2400 px ,60,Punch Hole,2,1,8.0,16.0,Memory Card Not Supported,,Android,Yes,Yes,No
+976,Samsung,Samsung Galaxy F12,10499,73.0,Yes,No,No,No,Exynos 850,Octa Core,2.0,4,64,6000,True,15.0,6.5,720 x 1600 px,90,Water Drop,4,1,8.0,48.0,Memory Card Supported,512 GB,Android,No,No,No
+977,Samsung,Samsung Galaxy F41 (6Gb Ram + 128Gb),19999,82.0,Yes,No,No,No,Exynos 9611,Octa Core,2.3,6,128,6000,True,15.0,6.4,1080 x 2340 px ,60,Water Drop,3,1,32.0,64.0,Memory Card Supported,512 GB,Android,No,No,No
+978,Samsung,Samsung Galaxy A21S (6Gb Ram + 128Gb),17499,75.0,Yes,No,No,No,Exynos 850,Octa Core,2.0,6,128,5000,False,,6.5,720 x 1600 px ,60,Punch Hole,4,1,13.0,48.0,Memory Card Supported,512 GB,Android,No,No,No
+979,Xiaomi,Xiaomi Redmi 9A (6Gb Ram + 128Gb),10990,69.0,Yes,No,No,No,Helio G25,Octa Core,2.0,6,128,5000,False,,6.53,720 x 1600 px ,60,Water Drop,1,1,5.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+980,Vivo,Vivo V20 Se,19000,82.0,Yes,No,No,No,Snapdragon  665,Octa Core,2.0,8,128,4100,True,33.0,6.44,1080 x 2400 px ,60,Water Drop,3,1,32.0,48.0,Memory Card Supported,,Android,No,No,No
+981,Oppo,Oppo A53 2020 (6Gb Ram + 128Gb),13990,70.0,Yes,No,No,No,Snapdragon 460,Octa Core,1.8,6,128,5000,True,18.0,6.5,1600 x 720 px,90,Punch Hole,3,1,16.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+982,Realme,Realme Narzo 20,10499,72.0,Yes,No,No,No,Helio G85,Octa Core,2.0,4,64,6000,True,18.0,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,48.0,Memory Card Supported,256 GB,Android,No,No,No
+983,Itel,Itel Vision 1 (3Gb Ram + 32Gb),5890,,Yes,No,No,No,Unisoc  A55,Octa Core,1.6,3,32,4000,False,,6.09,1520 x 720 px ,60,Water Drop,2,1,5.0,8.0,Memory Card Supported,128 GB,Android,No,No,No
+984,Realme,Realme C11,6490,61.0,Yes,No,No,No,Helio G35,Octa Core,2.3,2,32,5000,False,,6.5,720 x 1600 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+985,Xiaomi,Xiaomi Mi 10 5G (8Gb Ram + 256Gb),54999,88.0,Yes,Yes,Yes,Yes,Snapdragon  865,Octa Core,2.84,8,256,4780,True,30.0,6.67,1080 x 2340 px,90,Punch Hole,4,1,20.0,108.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+986,Vivo,Vivo Y21 (2020),9990,65.0,Yes,No,No,No,Snapdragon 450,Octa Core,1.8,4,64,5000,False,,6.5,720 x 1544 px ,60,Water Drop,2,1,13.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+987,Oneplus,Oneplus Z,24999,79.0,Yes,No,No,No,Snapdragon 765G,Octa Core,2.4,8,128,4300,True,30.0,6.55,1080 x 2400 px,90,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,No,No,No
+989,Sharp,Sharp Aquos R5G,59990,88.0,Yes,No,Yes,No,Snapdragon 865,Octa Core,2.84,12,256,3730,True,,6.5,1440 x 3168 px ,60,Water Drop,3,1,16.0,48.0,Memory Card (Hybrid),1 TB,Android,No,Yes,No
+990,Huawei,Huawei Mate 30 Rs Porsche Design,214990,,Yes,Yes,Yes,Yes,Kirin  990,Octa Core,2.86,12,512,4500,True,,6.53,1176 x 2400 px ,60,Large Notch,4,2,32.0,40.0,Memory Card (Hybrid),256 GB,Android,Yes,Yes,Yes
+991,Samsung,Samsung Galaxy A11,9990,63.0,Yes,No,No,No,,Octa Core,1.8,2,32,4000,True,15.0,6.4,720 x 1560 px ,60,Punch Hole,3,1,8.0,13.0,Memory Card Supported,512 GB,Android,No,No,No
+992,Realme,Realme C2,6999,,Yes,No,No,No,Helio P22,Octa Core,2.0,2,16,4000,False,,6.1,1560 x 720 px ,60,Water Drop,2,1,5.0,13.0,Memory Card Supported,256 GB,Android,No,No,No
+993,Huawei,Huawei Mate X,169000,,Yes,Yes,Yes,Yes,Kirin  990,Octa Core,2.86,8,512,4500,True,55.0,8.0,2200 x 2480 px ,60,Not Available,4,0,,48.0,Memory Card (Hybrid),256 GB,,Yes,Yes,Yes
+994,Samsung,Samsung Galaxy A9 Pro (2019),39990,78.0,Yes,No,Yes,No,Snapdragon 710,Octa Core,2.2,6,128,3400,True,,6.4,1080 x 2340 px ,60,Punch Hole,3,1,24.0,24.0,Memory Card Supported,512 GB,Android,No,Yes,No
+995,Samsung,Samsung Galaxy A7 (2018),21490,70.0,Yes,No,No,No,Exynos 7885,Octa Core,2.2,4,64,3300,False,,6.0,2220 x 1080 px ,60,Not Available,3,1,24.0,24.0,Memory Card Supported,512 GB,Android,No,No,No
+996,Vivo,Vivo Y55S,13490,,Yes,No,No,No,Snapdragon 425,Quad Core,1.2,3,16,2730,False,,5.2,720 x 1280 px ,60,Not Available,1,1,5.0,13.0,Memory Card Supported,,Android,No,No,No
+997,Poco,Poco C55,7999,70.0,Yes,No,No,No,Helio  G85,Octa Core,2.0,4,64,5000,False,,6.71,720 x 1650 px ,60,Water Drop,2,1,5.0,50.0,Memory Card Supported,512 GB,Android,No,No,No
+998,Blackview,Blackview Bv5200 Pro,8990,67.0,Yes,Yes,Yes,No,Helio G35,Octa Core,2.3,4,64,5180,True,10.0,6.1,720 x 1560 px ,60,Punch Hole,2,1,8.0,13.0,Memory Card Supported,,Android,Yes,Yes,No
+999,Honor,Honor X7A,13999,75.0,Yes,No,No,No,Helio G37,Octa Core,2.3,6,128,5000,True,22.5,6.75,720 x 1600 px,90,Water Drop,4,1,8.0,50.0,Memory Card Supported,,Android,No,No,No
+1001,Oppo,Oppo A58X,13990,72.0,Yes,Yes,No,No,Dimensity 700 5G,Octa Core,2.2,6,128,5000,True,10.0,6.56,720 x 1612 px,90,Water Drop,2,1,8.0,13.0,Memory Card Supported,1 TB,Android,Yes,No,No
+1002,Doogee,Doogee S99,14999,84.0,Yes,No,Yes,No,Helio G96,Octa Core,2.05,8,128,6000,True,33.0,6.3,1080 x 2340 px ,60,Water Drop,3,1,32.0,108.0,Memory Card Supported,1 TB,Android,No,Yes,No
+1003,Lava,Lava X3,6999,,Yes,No,No,No,Helio A22,Quad Core,2.0,3,32,4000,False,,6.5,1600 x 720 px ,60,Water Drop,2,1,5.0,8.0,Memory Card (Hybrid),512 GB,Android,No,No,No
+1004,Motorola,Motorola Edge 40 Fusion,42990,87.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,4500,True,68.0,6.67,1080 x 2400 px,144,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+1005,Ikall,Ikall Z18,6799,61.0,Yes,No,No,No,,Quad Core,1.3,4,64,5000,False,,6.82,720 x 1560 px ,60,Punch Hole,1,1,13.0,20.0,Memory Card (Hybrid),64 GB,Android,No,No,No
+1006,Oukitel,Oukitel Wp9,25899,72.0,Yes,No,Yes,No,Helio P60,Octa Core,2.0,6,128,8000,False,,5.86,720 x 1520 px ,60,Large Notch,3,1,8.0,16.0,Memory Card Supported,,Android,No,Yes,No
+1007,Xiaomi,Xiaomi 14,54999,89.0,Yes,Yes,Yes,Yes,Snapdragon 8 Gen2,Octa Core,3.2,12,256,5000,True,67.0,6.43,1440 x 3200 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+1008,Motorola,Motorola Thinkphone,49990,89.0,Yes,Yes,Yes,No,Snapdragon 8+ Gen1,Octa Core,3.2,8,128,5000,True,68.0,6.6,1080 x 2400 px,144,Not Available,3,2,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+1009,Xiaomi,Xiaomi Civi 3,32990,86.0,Yes,Yes,Yes,Yes,Dimensity 8200,Octa Core,3.1,8,256,5000,True,80.0,6.7,1080 x 2400 px,120,Punch Hole,3,2,32.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+1010,Realme,Realme Narzo 50I Prime (4Gb Ram + 64Gb),8720,64.0,Yes,No,No,No,Tiger T612,Octa Core,1.82,4,64,5000,True,10.0,6.5,720 x 1600 px ,60,Water Drop,1,1,5.0,8.0,Memory Card Supported,1 TB,Android,No,No,No
+1011,Oppo,Oppo Find X6,69990,89.0,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,8,256,4700,True,120.0,6.73,1080 x 2400 px,120,Punch Hole,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+1012,Itel,Itel A23S,4787,,Yes,No,No,No,Spreadtrum  SC9832E,Quad Core,1.4,2,32,3020,False,,5.0,854 x 480 px ,60,Not Available,1,0,,2.0,Memory Card Not Supported,,Android,No,No,No
+1013,Google,Google Pixel 8 Pro,70990,80.0,Yes,Yes,Yes,No,Google  Tensor 3,Octa Core,,12,256,5000,True,67.0,6.73,1440 x 3120 px,120,Punch Hole,3,1,12.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+1014,Vivo,Vivo X Fold 2,119990,,Yes,Yes,Yes,No,Snapdragon 8 Gen2,Octa Core,3.2,12,256,4800,True,66.0,8.03,1916 x 2160 px,120,Not Available,3,1,32.0,50.0,Memory Card Not Supported,,Android,Yes,Yes,No
+1015,Motorola,Motorola Moto Edge S30 Pro,34990,83.0,Yes,Yes,No,No,Snapdragon 8 Gen1,Octa Core,3.0,8,128,5000,True,68.2,6.67,1080 x 2460 px,120,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,No,No
+1016,Honor,Honor X8 5G,14990,75.0,Yes,Yes,No,No,Snapdragon  480+,Octa Core,2.2,6,128,5000,True,22.5,6.5,720 x 1600 px ,60,Water Drop,3,1,8.0,48.0,Memory Card Supported,1 TB,Android,Yes,No,No
+1017,Poco,Poco X4 Gt 5G (8Gb Ram + 256Gb),28990,85.0,Yes,Yes,Yes,Yes,Dimensity 8100,Octa Core,2.85,8,256,5080,True,67.0,6.6,1080 x 2460 px,144,Punch Hole,3,1,16.0,64.0,Memory Card Not Supported,,Android,Yes,Yes,Yes
+1018,Motorola,Motorola Moto G91 5G,19990,80.0,Yes,Yes,Yes,No,Snapdragon 695,Octa Core,2.2,6,128,5000,True,,6.8,1080 x 2400 px ,60,Punch Hole,3,1,32.0,108.0,Memory Card Supported,1 TB,Android,Yes,Yes,No
+1019,Samsung,Samsung Galaxy M52S 5G,24990,74.0,Yes,Yes,No,No,,Octa Core,,8,128,5000,True,,6.5,1080 x 2400 px ,60,Water Drop,3,1,32.0,64.0,Memory Card Supported,1 TB,Android,Yes,No,No
